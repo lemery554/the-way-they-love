@@ -10,7 +10,8 @@ Anna may only use information with a documented source. She never physically tra
 | 7-17 / early-middle | Brooke records to preserve emotional truth | Public uploads | Treats Brooke's recordings as important evidence | Anna understands her creative mind | Anna knows that validating the camera validates Brooke |
 | 14-17 / middle | Brooke is adopted and wonders why her mother did not find her | Public uploads | `I knew you were waiting` | Her biological mother recognized the longing | Anna repeats a need Brooke exposed herself |
 | 16-18 / middle | Force, guilt, and pursuit make Brooke withdraw | Brooke's footage, comments, and observed public failures | Keeps distance and accepts `no` | Respect proves she is safe | Patience is the latest learned strategy |
-| 19 / middle | Biological mother's full name | Original signed letter and adoption records in the journal | Allows Brooke to introduce the name | Private knowledge proves identity | The name proves only that Anna read the original letter |
+| 18 / middle | Bennett layout, resemblance cues, and location of adoption materials | First school-day house visit | Returns later without searching blindly | No visible interpretation yet | The first visit makes her later precision plausible |
+| 19 / middle | Biological mother's full name | Original signed letter and adoption records in the journal during the second visit | Allows Brooke to introduce the name | Private knowledge proves identity | The name proves only that Anna read the original letter |
 | 19 / middle | Brooke uses recording to be known without risking true proximity and abandonment | Private journal entry | Gives Brooke distance, permission, and control | A mother intuitively understands Brooke's defenses | Anna learned the exact conditions under which closeness feels safe |
 | 19 / middle | Beach-sand memory with Claire | Journal and any public echo | Repeats or validates the emotional shape of the memory | Family recognition or uncanny empathy | She studied the memory; it is also the final-page proof |
 | 19-20 / middle | What Brooke's biological mother looked like | Photographs | Makes restrained changes to styling and posture | Brooke sees a plausible family resemblance | Anna constructed a resemblance using ordinary presentation |
@@ -28,5 +29,5 @@ Anna may only use information with a documented source. She never physically tra
 - Every private fact has a public-video or house-material source.
 - Brooke, not Anna, introduces the biological-mother interpretation.
 - Anna's answers remain technically true under the locked rule for every changed person.
-- Any knowledge requiring another house visit remains controlled by issue #7.
+- Anna's house-derived knowledge is divided between the first visit on Day 18 and second visit on Day 19.
 - Anna's whisper fragment is reader-facing or ambiguous. Brooke cannot receive clear proof before the final reveal.

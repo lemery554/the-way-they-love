@@ -4,7 +4,7 @@ These rules protect the novel's mystery, emotional logic, and reader trust. They
 
 ## Rule 1: Narrative certainty never exceeds Brooke's
 
-The narrative may give the reader a final visual clue Brooke does not witness, including Anna reading the journal. Before that final confirmation, neither Brooke nor the reader knows for certain that Anna is not her biological mother.
+All narrative chapters, including the prologue, use Brooke's close-third viewpoint. Found media broadens the world only when Brooke encounters or reviews it. The final visual clue of Anna reading the journal is the sole controlled exception. Before that confirmation, neither Brooke nor the reader knows for certain that Anna is not her biological mother.
 
 ## Rule 2: The whispers are never explained
 
@@ -50,28 +50,26 @@ No changed person knowingly states a direct falsehood. They can omit, misdirect,
 
 Touch does not spread the illness, although neither Brooke nor the public can prove that. The source and route of transmission remain unexplained.
 
-Anna cannot directly lie. Whether that limitation governs every changed person is unresolved and must not be assumed.
-
-## Rule 11: Curiosity wins over explanation
+## Rule 13: Curiosity wins over explanation
 
 Every new idea must answer: **Does this make the reader more curious, or does it explain too much?** If it reduces productive uncertainty without creating a stronger emotional consequence, reject it.
 
-## Rule 12: Brooke is not biologically special
+## Rule 14: Brooke is not biologically special
 
 No immunity, bloodline, inherited resistance, destiny, or biological-family mythology explains her importance.
 
-## Rule 13: Anna wins through consent
+## Rule 15: Anna wins through consent
 
 Anna adapts to failed aggression by honoring boundaries. The tragedy requires Brooke to choose trust and initiate the decisive closeness.
 
-## Rule 14: Continuity is evidence
+## Rule 16: Continuity is evidence
 
 Symptoms, timing, geography, injuries, knowledge, media changes, and character access must remain internally consistent. Mystery is not permission for contradiction.
 
-## Rule 15: Love remains emotionally real
+## Rule 17: Love remains emotionally real
 
 Changed people are not knowingly faking love. They sincerely redefine it as possession, permanent closeness, and protection from separation.
 
-## Rule 16: Brooke is understood, not chosen
+## Rule 18: Brooke is understood, not chosen
 
 Anna does not uniquely care about Brooke. The same patient strategy could be used with anyone studied closely enough. Brooke's tragedy comes from exposure, not destiny.

@@ -12,13 +12,13 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [x] **TWI-006 | P1 | Decide Brooke's vlog channel name**: The channel has no branded title and appears under Brooke Bennett's own name.
 - [x] **TWI-007 | P0 | Decide exact journal contents**: The journal includes the original full-name letter and a private entry explaining that mediated distance feels safer to Brooke than closeness.
 - [x] **TWI-008 | P0 | Place Anna's school-day entry**: Anna's first confirmed entry is Day 19 while Brooke is at school. A possible additional visit remains controlled by TWI-009.
-- [ ] **TWI-009 | P0 | Decide whether Anna enters once or multiple times**: Balance fair clues against implausible access and avoid making Anna omniscient.
+- [x] **TWI-009 | P0 | Decide whether Anna enters once or multiple times**: Anna makes two school-day visits, investigating first and taking the journal second.
 - [ ] **TWI-010 | P1 | Decide ending eye effect**: Determine whether any subtle reflective green-eye effect appears after the journal reveal. It cannot be the reveal itself.
 - [ ] **TWI-011 | P1 | Decide exact final line during Revision**: Deferred until the ending exists in prose. Preserve quiet dread and the realization that Anna is still studying Brooke.
 - [x] **TWI-012 | P1 | Decide civic operating window**: Answered in GitHub issue #20 with a six-phase, 30-day institutional progression; implementation remains under TWI-022.
-- [ ] **TWI-013 | P1 | Decide final POV policy**: Confirm whether every narrative chapter remains with Brooke or any limited alternate material is justified.
-- [ ] **TWI-024 | P0 | Design the unresolved Sarah-Brooke argument**: Center it on Sarah restricting Brooke's independence and Brooke accusing Sarah of treating biological daughter Claire differently.
-- [ ] **TWI-025 | P1 | Decide the delayed police arrival**: Choose whether officers arrive too late or arrive already changed, then align the 911 scene with the timeline.
+- [x] **TWI-013 | P1 | Decide final POV policy**: Brooke is the sole narrative viewpoint, including the prologue; found media broadens scope and the final journal image is the only exception.
+- [x] **TWI-024 | P0 | Design the unresolved Sarah-Brooke argument**: Sarah secretly cancels Brooke's film workshop; Brooke accuses her of control and weaponizes her biological mother's abandonment.
+- [x] **TWI-025 | P1 | Decide the delayed police arrival**: Changed officers arrive and prioritize returning Brooke to Sarah.
 - [x] **TWI-026 | P1 | Design Anna's limited appearance changes**: Hair styling, eyebrow silhouette, muted makeup, blue clothing, oval pendant, posture, and stillness create a plausible photographed resemblance without transformation.
 
 ## M1: Foundation documents and research
@@ -38,7 +38,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 - [ ] **TWI-101 | P0 | Map character arcs**: Define starting belief, pressure, choices, reversals, lowest point, climax behavior, and ending state.
 - [ ] **TWI-102 | P0 | Create master scene inventory**: List every necessary scene with POV, date, location, purpose, conflict, turn, clue, and dependency.
-- [ ] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Give every chapter a purpose, conflict, reveal, hidden clue, character movement, found-media use, projected word count, and final clue-ledger chapter assignments.
+- [x] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Completed as a prologue plus 34 chapters with purpose, conflict, reveal, clues, character movement, found media, continuity, question chain, and projected word count.
 - [ ] **TWI-104 | P0 | Design Anna's trust ladder**: Track permissions, technically true statements, misinterpretations, boundaries, hope, and Brooke's voluntary hug.
 - [ ] **TWI-105 | P1 | Design Claire and Sarah escalation ladders**: Keep their methods distinct, gradual, emotionally real, and synchronized with whisper evolution.
 - [ ] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns.

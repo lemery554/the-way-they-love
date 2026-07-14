@@ -32,7 +32,9 @@ Her most important breakthrough is crying without knowing why, connected emotion
 
 Sarah is loving, practical, protective, tired, and sometimes controlling. She and Brooke love one another but argue frequently. Sarah is overprotective partly because Brooke is adopted. Brooke believes Sarah treats Claire differently because Claire is Sarah's biological daughter. Sarah knows Brooke wonders about her biological mother, and that curiosity hurts because Sarah fears it means she has never been enough.
 
-After changing, Sarah uses concern, guilt, family obligation, private memory, and maternal authority because she believes she is protecting Brooke. During the bedroom siege she remembers the location of Mark's secured firearm and shoots through Brooke's door. The exact unresolved argument between Sarah and Brooke remains open, but should center on restricted independence and perceived unequal treatment.
+Before the outbreak reaches the family, Sarah secretly withdraws Brooke from a weekend student-film workshop in a nearby city because Mark is away and travel feels unsafe. Brooke discovers the cancellation instead of hearing it from Sarah. She accuses Sarah of controlling her more than biological daughter Claire and says, "You don't get to keep me forever just because she didn't." Sarah insists she has never treated Brooke as anything but her daughter, but the argument ends without repair.
+
+After changing, Sarah uses concern, guilt, family obligation, private memory, and maternal authority because she believes she is protecting Brooke. The unresolved workshop argument gives her later language about safety and keeping Brooke home a painful double meaning. During the bedroom siege she remembers the location of Mark's secured firearm and shoots through Brooke's door.
 
 ## Mark Bennett
 
@@ -46,7 +48,7 @@ Mark is practical, dependable, hands-on, and likely works in a trade such as con
 
 **Role:** A woman changed after the illness who lets Brooke conclude that she is Brooke's biological mother. She is not.
 
-Anna finds Brooke through YouTube. An old Bennett family video clearly shows someone entering the home keypad code in the background. Anna uses that code to enter the house while Brooke is at school. Inside, she studies family photographs, adoption documents, Brooke's old journal, and a letter from Brooke's biological mother. She learns the biological mother's real name and takes the journal, which Brooke initially assumes Claire stole.
+Anna finds Brooke through YouTube. An old Bennett family video clearly shows someone entering the home keypad code in the background. Anna uses that code for two school-day visits. On the first, she learns the layout, studies family photographs, and locates the adoption materials without taking the journal. On the second, she reads the original letter and private entries, then takes the journal. Brooke initially assumes Claire stole it.
 
 The journal is mostly unused now because Brooke records videos instead. It contains old personal writing, private fears, thoughts about Sarah, childhood memories, adoption materials, and an original letter from Brooke's biological mother bearing her full name. Sarah allows Brooke to keep it because she wants Brooke to know who her first mother was, even though Brooke's curiosity hurts her.
 

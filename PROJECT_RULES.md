@@ -9,7 +9,7 @@
 
 ## Prose
 
-- Use close third-person centered mainly on Brooke Bennett.
+- Use close third-person exclusively with Brooke Bennett, including the prologue. Found media broadens the visible world without changing narrative viewpoint. The final reader-only journal image is the sole controlled exception.
 - Write normal commercial novel prose with full scenes, natural paragraphs, and age-appropriate dialogue.
 - Keep found media to roughly 10 to 15 percent of the novel.
 - Brooke has no romantic subplot.

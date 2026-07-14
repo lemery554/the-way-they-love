@@ -4,6 +4,10 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-14
 
+- Locked Anna's two school-day house visits, with investigation first and journal theft second.
+- Locked Brooke as the sole narrative viewpoint, including the prologue, except for the final journal image.
+- Locked the student-film-workshop cancellation as the Sarah-Brooke argument trigger.
+- Locked changed officers as the 911 response outcome.
 - Locked Ashcroft, Connecticut and completed its practical town guide.
 - Locked Brooke's distance-through-recording journal entry as Anna's strongest leverage.
 - Locked Anna's restrained photograph-derived styling adjustments.

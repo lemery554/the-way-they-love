@@ -14,7 +14,7 @@
 
 **Target length:** Approximately 85,000 to 100,000 words
 
-**Primary narrative style:** Close third-person, centered mainly on Brooke Bennett
+**Primary narrative style:** Close third-person exclusively with Brooke Bennett, including the prologue. The final reader-only journal image is the sole controlled exception.
 
 **Found media:** Approximately 10 to 15 percent, including vlog uploads, comments, alerts, news, messages, hospital notices, and social posts
 

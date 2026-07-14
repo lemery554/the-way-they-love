@@ -28,4 +28,4 @@ Help is technically dispatched, but it is intentionally or unnaturally delayed. 
 - "Stay inside with her until officers arrive."
 - "She is still your mother, Brooke."
 
-Brooke never gave the dispatcher her name. Police arrive too late to help or arrive already changed. The final choice remains a scene-level outline decision.
+Brooke never gave the dispatcher her name. Changed officers arrive after Brooke escapes and interpret Sarah's behavior as separation distress rather than danger. Their priority is returning Brooke to her mother, not protecting her from Sarah. The response system still functions; its definition of safety has changed.
