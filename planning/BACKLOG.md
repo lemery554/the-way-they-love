@@ -11,7 +11,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [ ] **TWI-005 | P0 | Decide final town and state**: Validate the name, regional character, hospital access, roads, weather, and proximity to larger media markets.
 - [ ] **TWI-006 | P1 | Decide Brooke's vlog channel name**: Evaluate `Remember This` and alternatives against Brooke's voice and memory theme.
 - [ ] **TWI-007 | P0 | Decide exact journal contents**: Specify the biological-mother letters, adoption records, private writing, dates, and how each item can be misread by Brooke and used by Anna.
-- [ ] **TWI-008 | P0 | Place Anna's school-day entry**: Codex assigns the exact story day while building the master timeline and verifies access, opportunity, travel, and Brooke's awareness. Blocked by TWI-020 and informed by TWI-009.
+- [x] **TWI-008 | P0 | Place Anna's school-day entry**: Anna's first confirmed entry is Day 19 while Brooke is at school. A possible additional visit remains controlled by TWI-009.
 - [ ] **TWI-009 | P0 | Decide whether Anna enters once or multiple times**: Balance fair clues against implausible access and avoid making Anna omniscient.
 - [ ] **TWI-010 | P1 | Decide ending eye effect**: Determine whether any subtle reflective green-eye effect appears after the journal reveal. It cannot be the reveal itself.
 - [ ] **TWI-011 | P1 | Decide exact final line during Revision**: Deferred until the ending exists in prose. Preserve quiet dread and the realization that Anna is still studying Brooke.
@@ -23,15 +23,15 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 ## M1: Foundation documents and research
 
-- [ ] **TWI-014 | P1 | Research hospital and outbreak response**: Cover emergency triage, gastrointestinal illness, dehydration treatment, infection precautions, staffing, bodily-fluid cleanup, security, surge capacity, and public-health communication. Separate fact from fictional adaptation.
-- [ ] **TWI-015 | P0 | Design the Bennett house floor plan**: Place bedrooms, bathroom, stairs, kitchen, doors, keypad, garage or basement, gun safe, Brooke's window, sight lines, bullet path, and escape route.
+- [x] **TWI-014 | P1 | Research hospital and outbreak response**: Completed in `research/HOSPITAL_OUTBREAK_RESPONSE.md` with official CDC and AHRQ sources and separate fictional guardrails.
+- [x] **TWI-015 | P0 | Design the Bennett house floor plan**: Completed in `bible/world/BENNETT_HOUSE.md`, including routes, sight lines, sound, light, gun retrieval, bullet path, and escape.
 - [ ] **TWI-016 | P1 | Complete the town map and world guide**: Place the school, hospital, neighborhoods, police, stores, church, park, woods, roads, and final escape route with travel times.
 - [ ] **TWI-017 | P0 | Complete character dossiers**: Add biography, appearance, personality, voice, habits, fear, regret, secrets, relationships, arc, and whisper effects for Brooke, Claire, Sarah, Mark, Anna, and Cooper.
 - [ ] **TWI-018 | P0 | Complete infection behavior matrix**: Incorporate locked sleep, eating, drinking, daily function, inevitable post-purge change, whisper repetition, recognition, and silent coordination; finish remaining rules for hunger, driving, pain, imitation, and resistance.
 - [ ] **TWI-019 | P1 | Complete internet and hospital progression**: Map institutional changes to story days and Brooke's growing audience.
-- [ ] **TWI-020 | P0 | Build the day-by-day one-month timeline**: Fill every row in `outline/TIMELINE.md`, including symptoms, sleep, travel, uploads, clues, news phases, institutional changes, and Anna's movements.
-- [ ] **TWI-021 | P0 | Complete Anna clue ledger**: Assign every Anna clue to a day and chapter, test Brooke's access, add echoes, and verify the ending is surprising but inevitable.
-- [ ] **TWI-022 | P1 | Build the news progression timeline**: Assign all six phases to the one-month calendar and coordinate hospitals, internet, schools, and public messaging.
+- [ ] **TWI-020 | P0 | Build the day-by-day one-month timeline**: All 30 days are populated and Anna's first entry is placed. Final acceptance is blocked by decisions TWI-003 through TWI-007, TWI-009, TWI-013, TWI-024, and TWI-025 where referenced in the file.
+- [ ] **TWI-021 | P0 | Complete Anna clue ledger**: Days, sources, interpretations, and knowledge limits are mapped. Final chapter assignments are blocked by TWI-007, TWI-009, and TWI-103.
+- [x] **TWI-022 | P1 | Build the news progression timeline**: Six phases are fixed to Days 1 through 30 across news, hospitals, school, police, 911, internet, and public language.
 - [ ] **TWI-023 | P0 | Run Foundation continuity audit**: Check time, geography, character knowledge, injuries, objects, symptoms, direct statements, and rejected concepts before closing M1.
 
 ## M2: Story Design

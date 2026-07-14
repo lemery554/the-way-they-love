@@ -18,6 +18,12 @@ A close-knit but not tiny American suburb with a major local hospital, one high 
 - Woods
 - Final escape road
 
+## Location-independent topology
+
+The Bennett neighborhood sits on a residential loop with two practical exits: a main collector road toward school, stores, police, and the hospital, and a back road along the woods. The high school and familiar grocery store share the more developed corridor. The hospital lies beyond them on the route toward a larger population center. The police station and civic buildings remain close enough for an early response to feel plausible.
+
+This relationship is safe to outline before the final town decision. Names, distances, travel times, weather, regional architecture, and the final escape road remain blocked by GitHub issue #3.
+
 ## World rule
 
 Collapse is gradual. Schools, shops, restaurants, offices, neighborhood groups, utilities, and media continue operating while their social meaning becomes subtly wrong.

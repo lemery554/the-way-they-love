@@ -4,6 +4,11 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-14
 
+- Completed the sourced hospital and gastrointestinal outbreak response reference.
+- Designed the Bennett house, including both floors, garage, keypad, gun route, siege geometry, escape route, sound map, and lighting map.
+- Populated the complete 30-day working chronology and fixed Anna's first house entry on Day 19.
+- Synchronized the six institutional phases across news, hospitals, school, police, 911, internet, and public messaging.
+- Added an Anna knowledge matrix and assigned clue-ledger events to story days while preserving author-decision blockers.
 - Reorganized GitHub Issues into separate author-decision and Codex-work queues.
 - Rewrote author issues as short guided questions with concrete choices.
 - Closed the duplicate civic-timeline decision, deferred the final-line decision to Revision, and marked dependency-blocked work explicitly.

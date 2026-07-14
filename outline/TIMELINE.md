@@ -1,50 +1,45 @@
 # One-Month Outbreak Timeline
 
-**Status:** Framework only. Task TWI-020 must lock the daily chronology before chapter drafting.
+**Status:** Authoritative working chronology. Locked events have fixed days. Bracketed issue references identify details that cannot be finalized without an author decision.
 
-Use one row per story day. Do not collapse days without checking sleep, travel, injury, upload, news, hospital, and symptom continuity.
+| Day | Brooke and family | Public progression | Videos, clues, and Anna |
+|---|---|---|---|
+| 1 | Mark is already away for work. Ordinary Bennett morning, sister friction, Claire in Brooke's clothes, Cooper at the stairs. | Phase 1 begins: first national clusters, normal police response, school open. | Brooke records ordinary footage. An older public family video already exposes the keypad code. |
+| 2 | Brooke and Sarah argue about independence and unequal treatment, with exact scene blocked by #12. Brooke and Claire later bicker normally. | Graphic local reporting; emergency departments report gastrointestinal surges. | Brooke saves clips because reports conflict. |
+| 3 | Claire and Brooke's argument culminates in Brooke's cruel remark about biological mothers. Mark's call is late but normal enough. | School rumors spread; teachers discourage panic. | Upload 1 documents that something is going around. Low views and mockery. |
+| 4 | Cooper reacts before Claire admits stomach pain. Claire's purge begins at home and rapidly worsens. | Ambulances and police still operate normally. | Brooke records symptoms and Cooper's behavior, partly to establish what happened when. |
+| 5 | Hospital visit. Claire receives vivid red medicine, vomits it, and is treated for dehydration. Sarah is exhausted but protective. | Phase 1 peak: crowding, red-stained halls, conflicting reports, cautious isolation advice. | Brooke records discreetly. Mark's call breaks up; he promises to return when work permits. |
+| 6 | Claire's fever resolves and she appears recovered. She asks for mushrooms or another food she previously refused. | Phase 2 begins: officials emphasize survival and recovery. | Upload 2 covers Claire's illness; early comments accuse Brooke of exaggeration. |
+| 7 | Claire follows Brooke, requests touch, and enters her room. Cooper growls but Claire never harms him. | Hospital messaging praises rapid recovery; school remains open. | Brooke compares new footage with older affectionate behavior. Anna first encounters Brooke's videos within the growing recommendation stream. |
+| 8 | Claire sleeps, eats, drinks, and functions normally, making Sarah dismiss Brooke's concern as trauma. Mark's text arrives hours late. | Recovered students return. People share foods and sit unusually close. | Upload 3: Claire is better, Brooke thinks. Anna begins watching the public archive. |
+| 9 | Claire waits outside the bathroom and asks to enter. When Brooke refuses, Claire breaks the lock, enters calmly, and says she only wanted a hug. | Staff frame clinginess as post-illness reassurance seeking. | Brooke does not upload the most humiliating detail yet. Cooper positions himself between the sisters without being attacked. |
+| 10 | Sarah mediates and blames stress. Claire repeats a simple whisper fragment when she believes she is alone. | Phase 2 ends with high recovery statistics and softer isolation language. | Brooke catches a reflective green-eye flicker on camera and begins frame-by-frame review. |
+| 11 | Brooke returns to school and sees strangers pressed together, a student waiting outside a bathroom, and changed food preferences. | Phase 3 begins: `victims` becomes `recovered individuals`. | Upload 4 asks whether something is wrong. Comparable family reports begin arriving. |
+| 12 | Claire grips Brooke too tightly, then briefly loosens. Mark's call is interrupted by unexplained background voices. | Counselor echoes news language; staff discourage early departure. | Brooke starts `Things I Have Seen`: dogs notice, they remember, they dislike being alone. |
+| 13 | Claire cries during an escalating attempt at closeness and cannot explain why. Brooke invokes their beach-sand memory and recognizes a fragment of Claire. | Police still respond, but increasingly mediate toward reunion. | The beach memory becomes both proof of Claire's persistence and later material Anna can study. |
+| 14 | Sarah develops purge symptoms after trying to keep the household functioning. Brooke cares for both Sarah and Claire. | School and hospital absence rates rise while institutions remain open. | Upload 5 asks whether this is happening elsewhere. Audience jumps; survival comments compete with comforting messaging. |
+| 15 | Sarah is severely ill at home or briefly assessed through the strained medical system. Claire watches Brooke sleep. | Phase 3 language normalizes emotional support over separation. | Mark sends a delayed, ambiguous message. Brooke cannot tell whether it was composed normally. |
+| 16 | Sarah appears recovered. Her warmth becomes watchful and controlling. Mark misses a promised call and never speaks live to them again. | Phase 3 ends; several anchors and teachers have quietly been replaced. | Brooke documents Sarah privately. Anna learns Brooke's adoption wound and family dynamics from uploads. |
+| 17 | Sarah restricts Brooke's movement and insists the family stay home. Claire obeys without discussion. | Phase 4 begins: hospitals and schools discourage separation; police priorities shift. | Upload 6 states they may no longer be sick. Anna locates the keypad moment in the old family video. |
+| 18 | Brooke attends school under pressure to preserve normality. Sarah monitors her return time. | Teachers encourage physical reassurance; platforms boost reunion messages. | Anna identifies an opportunity to enter while Brooke is at school and studies the home's public visual details. |
+| 19 | Brooke is at school. The house later feels subtly wrong. Her old journal is missing; she assumes Claire took it. | Institutional drift is visible but deniable. | **Anna's confirmed house entry:** keypad, photographs, adoption records, biological-mother letter, journal theft. Additional visit remains blocked by #7. |
+| 20 | Sarah uses guilt and private memories to keep Brooke close. Claire quietly repeats `Wait` or `Not yet` when alone. | Hospitals begin arranging family reunions rather than meaningful separation. | Anna adjusts hair, makeup, clothing, jewelry, or posture using the photographs; exact details remain blocked by #5 and #14. |
+| 21 | Brooke searches for the journal and confronts Claire, who seems honestly confused. Cooper avoids Sarah but stays near Brooke. | Different stations repeat the same emotional framing; online warnings become harder to find. | Anna studies journal material and Brooke's language. Brooke adds `They can use what they remember.` |
+| 22 | Sarah's control tightens. Brooke prepares a small escape bag and keeps Cooper close without announcing a plan. | Phase 4 ends: school, police, hospital, news, and platforms still function but serve togetherness. | Anna's knowledge matrix is complete enough to build a patient approach; journal specifics remain blocked by #5. |
+| 23 | Brooke leaves or is forced outside after a household escalation. Unrelated recovered strangers notice her isolation. | Phase 5 begins: direct persuasion, `Go home`, `Stay together`. | Brooke's public posts expose enough location context for attention without giving Anna impossible knowledge. |
+| 24 | Strangers chase and corner Brooke, seeking contact rather than revenge. She runs home. | Bystanders and officers treat separation as the problem. | The chase demonstrates to the whispers that pursuit makes Brooke run. |
+| 25 | Sarah initially refuses entry. Brooke apologizes and says she loves her; maternal attachment wins. Sarah opens, locks out the strangers, turns, and says, `You came home.` | The 911 system technically functions. | Brooke realizes she traded one danger for another. |
+| 26 | Bedroom siege. Brooke calls 911; advice shifts toward accommodating Sarah, and the dispatcher uses Brooke's unprovided name. Sarah retrieves Mark's gun and fires through the door. Brooke escapes by the rear window with Cooper. | Phase 5 911 scene. Police outcome remains blocked by #13. | Sarah's failed guilt and force become part of the learned pattern. Upload 7 or an unsent recording preserves Brooke's warning. |
+| 27 | Injured, exhausted, and isolated, Brooke encounters Anna. Anna keeps distance, asks permission, and offers no demand. | Phase 5 ends as public messaging makes solitude sound dangerous and immoral. | Anna uses technically true statements. The scope of the no-direct-lying rule remains blocked by #2. |
+| 28 | Anna provides water, rest, and choices. Cooper permits proximity but watches her. Brooke refuses touch; Anna accepts it. | Phase 6 begins: quiet control, synchronized calm, little visible resistance. | Anna repeats Brooke's language and may be heard by the reader, not Brooke, murmuring a whisper fragment. |
+| 29 | Anna's trust ladder reaches its final step. Brooke voluntarily hugs her, the first chosen embrace since the escalation. | Institutions operate smoothly under the new emotional logic. | Brooke interprets restraint and resemblance as proof of kinship. Anna never states that she is Brooke's biological mother. |
+| 30 | Brooke sleeps in the passenger seat while Anna drives somewhere vague and quiet. Cooper remains awake in back. | Phase 6: the world has not visibly ended; it has accepted a different definition of care. | Reader-only reveal: Anna opens Brooke's missing journal and continues studying her. Ending eye effect and final wording remain blocked by #8 and deferred #9. |
 
-| Day | National and local outbreak | Bennett family | Brooke's videos and internet | News and hospitals | Anna and clues | Status |
-|---|---|---|---|---|---|---|
-| 1 | First widely noticed cases; police respond normally | Normal sister friction, beach-memory setup, Mark already away for work | Early documentation opportunity | Phase 1 begins; school remains open | Keypad code already exists in an older family video | Open |
-| 2 |  |  |  |  |  | Open |
-| 3 |  |  |  |  |  | Open |
-| 4 |  |  |  |  |  | Open |
-| 5 |  |  |  |  |  | Open |
-| 6 |  |  |  |  |  | Open |
-| 7 |  |  |  |  |  | Open |
-| 8 |  |  |  |  |  | Open |
-| 9 |  |  |  |  |  | Open |
-| 10 |  |  |  |  |  | Open |
-| 11 |  |  |  |  |  | Open |
-| 12 |  |  |  |  |  | Open |
-| 13 |  |  |  |  |  | Open |
-| 14 |  |  |  |  |  | Open |
-| 15 |  |  |  |  |  | Open |
-| 16 |  |  |  |  |  | Open |
-| 17 |  |  |  |  |  | Open |
-| 18 |  |  |  |  |  | Open |
-| 19 |  |  |  |  |  | Open |
-| 20 |  |  |  |  |  | Open |
-| 21 |  |  |  |  |  | Open |
-| 22 |  |  |  |  |  | Open |
-| 23 |  |  |  |  |  | Open |
-| 24 |  |  |  |  |  | Open |
-| 25 |  |  |  |  |  | Open |
-| 26 |  |  |  |  |  | Open |
-| 27 |  |  |  |  |  | Open |
-| 28 |  |  |  |  |  | Open |
-| 29 |  |  |  |  |  | Open |
-| 30 | Final drive occurs on or near this day | Brooke chooses to trust Anna |  | Phase 6 by the ending | Journal reveal | Open |
+## Continuity constraints
 
-## Required anchors to place
-
-- Claire's purge, hospital visit, apparent recovery, food changes, bathroom-lock break, and unexplained crying
-- Sarah's purge, apparent recovery, front-door choice, and bedroom siege
-- Mark's delayed, interrupted, suspicious, and finally absent communications
-- Brooke's upload sequence and audience growth
-- Each whisper-evolution stage
-- All six news phases and institutional changes
-- Anna's first viewing of Brooke, keypad discovery, entry while Brooke is at school, journal theft, appearance adjustment, arrival, trust ladder, final hug, and drive
-- Cooper's location and reactions
-- School social changes, Brooke's 911 call, delayed police response, and police priority changes
+- Everyone who completes the purge eventually changes; no cure or recovery occurs.
+- Mark's communication degrades, then stops. His fate stays unknown.
+- School remains open through institutional drift.
+- Anna's first confirmed house entry is Day 19. A second visit cannot be added without resolving #7.
+- Brooke does not become sick, but the story never defines her as immune.
+- Transmission remains unstated until #1 is decided.
