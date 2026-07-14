@@ -24,7 +24,7 @@ Confirms the ending's central clues survive a **reread test**: after the final j
 - **First read:** Claire's boundary-crossing, or Brooke's own stress and unreliable memory.
 - **Reread:** Anna entered and studied the home while Brooke was at school.
 - **Literal-truth check:** N/A.
-- **Verdict:** PASS **with caveats** — (i) the *exact* displaced object is still a placeholder (**OQ-09**); (ii) the *day* of this first entry is contested across files (**OQ-11**, see companion audit TWI-023). Neither affects fairness — the clue's accessibility and dual readability hold regardless of which object or which day is locked — but both must be resolved before drafting.
+- **Verdict:** PASS **with one caveat** — the *exact* displaced object is still a placeholder (**OQ-09**). The day of this first entry (previously contested) is now resolved: **Day 18** under the two-visit model (OQ-11 closed). Neither affected fairness — the clue's accessibility and dual readability hold regardless of which object is locked.
 
 ### 3. Missing journal / second entry — AN-03
 - **Planted:** S21 (Ch 20, Day 19) — Brooke cannot find her old journal; drawer/letter storage disturbed. Leveraged at S34 (Ch 30) when Anna "knows" the biological mother's full name.
@@ -71,7 +71,8 @@ Confirms the ending's central clues survive a **reread test**: after the final j
 
 ## Result
 
-**TWI-107: PASS.** The ending survives the reread test. Two items must still be closed before drafting, but neither undermines fairness:
+**TWI-107: PASS.** The ending survives the reread test. One item remains to close before drafting, and it does not undermine fairness:
 
 - **OQ-09** — lock the exact AN-02 displaced object.
-- **OQ-11** — resolve Anna's first-entry day (Day 18 vs Day 19); see TWI-023. The clue chain is fair under either day; only the timeline needs to agree with itself.
+
+*(OQ-11, Anna's first-entry day, was resolved this session — Day 18 investigation / Day 19 journal — so the house-disturbance clue's timing now agrees across all files.)*

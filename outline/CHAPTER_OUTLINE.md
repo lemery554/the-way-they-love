@@ -158,11 +158,26 @@
 - **Continuity:** Touch remains non-transmissive but feared.
 - **Question answered / created:** Can changed people function normally? / Is Claire's pattern happening elsewhere?
 
-## Chapter 10: Frame by Frame
+## Chapter 10: What They Remember
 
 - **Day:** 9
+- **Purpose / setting:** Establish memory as a weapon rather than evidence of safety.
+- **Emotional goal:** Self-doubt to dread.
+- **Conflict:** Claire uses a shared private memory to coax Brooke closer.
+- **Reveal:** Mark's live call contains unexplained background voices and cuts off.
+- **Hidden clues / payoff:** Claire loosens a painful grip for one second; Mark's last confirmed live contact.
+- **Character movement:** Brooke adds `They remember everything` to her list.
+- **Tension:** 5/10
+- **Found media:** Call log and partial recording.
+- **Estimated words:** 2,700
+- **Continuity:** Mark never speaks live again.
+- **Question answered / created:** Is Claire's memory intact? / Is Mark still unaffected?
+
+## Chapter 11: Frame by Frame
+
+- **Day:** 10
 - **Purpose / setting:** Turn Brooke's craft into investigative power.
-- **Emotional goal:** Self-doubt to focused suspicion.
+- **Emotional goal:** Dread to focused suspicion.
 - **Conflict:** Sarah insists Brooke is interpreting everything cruelly.
 - **Reveal:** Brooke finds the reflective green-eye effect in recorded footage.
 - **Hidden clues / payoff:** Claire whispers `Wait` when she thinks she is alone; the eye effect is clearer on camera.
@@ -172,21 +187,6 @@
 - **Estimated words:** 2,500
 - **Continuity:** Effect is reflective, brief, and unexplained.
 - **Question answered / created:** Did Brooke imagine the wrongness? / What is Claire listening to?
-
-## Chapter 11: There You Are
-
-- **Day:** 10
-- **Purpose / setting:** Deliver Claire's first undeniable violence in the hall bathroom.
-- **Emotional goal:** Suspicion to fear.
-- **Conflict:** Brooke refuses to open the bathroom door for a hug.
-- **Reveal:** Claire breaks the lock and enters without anger.
-- **Hidden clues / payoff:** Claire injures her hand without reacting; doorway violations contrast with Anna's later permission.
-- **Character movement:** Brooke stops accepting trauma as a complete explanation.
-- **Tension:** 7/10
-- **Found media:** None; the private scene forces Brooke to trust memory temporarily.
-- **Estimated words:** 2,800
-- **Continuity:** Lock failure follows the house plan.
-- **Question answered / created:** Will Claire respect a boundary? / What will she do after stronger refusal?
 
 # Part III: Recognition
 
@@ -205,20 +205,20 @@
 - **Continuity:** School remains fully operational.
 - **Question answered / created:** Is Claire the only one? / How far through school has it spread?
 
-## Chapter 13: What They Remember
+## Chapter 13: There You Are
 
 - **Day:** 12
-- **Purpose / setting:** Establish memory as a weapon rather than evidence of safety.
-- **Emotional goal:** Determination to dread.
-- **Conflict:** Claire uses a shared private memory to coax Brooke closer.
-- **Reveal:** Mark's live call contains unexplained background voices and cuts off.
-- **Hidden clues / payoff:** Claire loosens a painful grip for one second; Mark's last confirmed live contact.
-- **Character movement:** Brooke adds `They remember everything` to her list.
-- **Tension:** 5/10
-- **Found media:** Call log and partial recording.
-- **Estimated words:** 2,700
-- **Continuity:** Mark never speaks live again.
-- **Question answered / created:** Is Claire's memory intact? / Is Mark still unaffected?
+- **Purpose / setting:** Deliver Claire's first undeniable violence in the hall bathroom.
+- **Emotional goal:** Wariness to fear.
+- **Conflict:** Brooke refuses to open the bathroom door for a hug.
+- **Reveal:** Claire breaks the lock and enters without anger.
+- **Hidden clues / payoff:** Claire injures her hand without reacting; doorway violations contrast with Anna's later permission.
+- **Character movement:** Brooke stops accepting trauma as a complete explanation.
+- **Tension:** 7/10
+- **Found media:** None; the private scene forces Brooke to trust memory temporarily.
+- **Estimated words:** 2,800
+- **Continuity:** Lock failure follows the house plan.
+- **Question answered / created:** Will Claire respect a boundary? / What will she do after stronger refusal?
 
 ## Chapter 14: Sand
 

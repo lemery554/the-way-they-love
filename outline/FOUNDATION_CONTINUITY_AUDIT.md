@@ -2,13 +2,13 @@
 
 Pre-M1-close continuity sweep across the eight required categories: **time, geography, character knowledge, injuries, objects, symptoms, direct statements, and rejected concepts** (STORY_RULES Rule 16). Audited against the bible, the timeline set, the clue ledger, the knowledge matrix, the chapter outline, and the scene inventory.
 
-**Result: 1 P0 finding (blocks M1 closure), 0 P1, 3 notes.** The P0 finding is the only thing standing between the current Foundation and the TWI-109 drafting gate.
+**Result: 1 P0 finding — now RESOLVED this session — 0 P1, 3 notes.** With the P0 finding reconciled, the Foundation has no known continuity defects blocking the TWI-109 drafting gate (only the detail-lock OQ-09 remains).
 
 ---
 
 ## Findings
 
-### F1 — P0 — Anna's first house-entry day contradicts itself across files
+### F1 — P0 — Anna's first house-entry day contradicts itself across files — **RESOLVED**
 **Category:** time, character knowledge, objects.
 
 After TWI-009 locked Anna's **two** school-day visits (investigate first, take the journal second), the two visits were placed on **Day 18** (investigation) and **Day 19** (journal). Several files were never updated from the earlier single-visit-on-Day-19 model, so canon now says both things:
@@ -23,7 +23,7 @@ After TWI-009 locked Anna's **two** school-day visits (investigate first, take t
 
 **Recommended resolution (reconcile to locked canon, not a new decision):** adopt the two-visit model everywhere — **first/investigation visit Day 18, journal visit Day 19** — since it is what TWI-009, the chapter outline, the timeline rows, and the scene inventory already encode. Then update the five stale references above (BACKLOG TWI-008 note, TIMELINE continuity constraint, CLUE_LEDGER AN-02/AN-03, BENNETT_HOUSE line 66 incl. removing the "#7 blocked" second-visit language, and matrix line 9).
 
-**Not auto-fixed here** because it touches five canon files on a P0 point and `BENNETT_HOUSE` still frames the second visit as an *open* GitHub decision (#7); author/issue sign-off should land before the mass edit. Tracked as **OQ-11**.
+**Resolution (applied this session, author-approved):** adopted the two-visit model — investigation **Day 18**, journal **Day 19** — and updated all five stale references (`planning/BACKLOG.md` TWI-008, `outline/TIMELINE.md` constraint, `outline/CLUE_LEDGER.md` AN-02, `bible/world/BENNETT_HOUSE.md` incl. removing the "#7 blocked" second-visit language, and `ANNA_KNOWLEDGE_MATRIX.md` line 9). **OQ-11 closed.**
 
 ---
 
@@ -62,4 +62,4 @@ After TWI-009 locked Anna's **two** school-day visits (investigate first, take t
 
 ## Result
 
-**TWI-023: audit complete.** Foundation is continuity-clean except **F1 (OQ-11)**, which is a P0 blocker for M1 closure and the TWI-109 drafting gate. Recommend resolving OQ-11 (adopt the Day 18 / Day 19 two-visit model and update the five stale references), after which M1 has no known continuity defects. OQ-09 (AN-02 object) remains open but is a lock-a-detail task, not a contradiction.
+**TWI-023: audit complete; F1 resolved this session.** Foundation is now continuity-clean: the Day 18 / Day 19 two-visit model has been applied across all previously conflicting files. The only remaining open item is **OQ-09** (lock the exact AN-02 displaced object), which is a detail to lock, not a contradiction. M1 has no known continuity defects blocking the TWI-109 drafting gate.

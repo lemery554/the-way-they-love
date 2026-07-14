@@ -46,15 +46,15 @@ Claire is the collective's first, worst-calibrated attempt. She wants closeness 
 - **Deniability:** Thinning — Brooke starts her observation list.
 
 ### C5 — Private memory as a lure *(memory weaponized)*
-- **Step:** 6 (Repeating private memories) — Claire reaches step 6 out of order, skipping bargaining, because early-stage whispers don't yet understand negotiation.
-- **Day/Chapter:** Day 12 / Ch 13.
+- **Step:** 6 (Repeating private memories) — Claire skips bargaining, because early-stage whispers don't yet understand negotiation.
+- **Day/Chapter:** Day 9 / Ch 10 ("What They Remember").
 - **Behavior:** Uses a shared private memory to coax Brooke closer.
 - **Fragment/tell:** Claire loosens a painful grip for exactly one second (trigger: interruption/self-recognition). Lasts seconds, not minutes; does not recur identically (`RULES.md`).
 - **Deniability:** Low — Brooke logs "They remember everything."
 
 ### C6 — Breaking the lock *(first undeniable violence)*
-- **Step:** 9 (Breaking barriers) — Claire jumps to step 9 early. This is the ladder's defining feature: **early-stage whispers reach for force the moment asking fails**, which is exactly why Claire fails.
-- **Day/Chapter:** Day 10 / Ch 11 ("There You Are"). *(Note continuity: the breakthrough-violence beat still precedes C5's memory-lure at Day 12 in story-day terms — see central Open Questions; the ladder is an emotional-escalation model, not strictly monotonic by day.)*
+- **Step:** 9 (Breaking barriers) — Claire escalates from the memory-lure straight to force, skipping the middle rungs. This is the ladder's defining feature: **early-stage whispers reach for force the moment gentler approaches fail**, which is exactly why Claire fails.
+- **Day/Chapter:** Day 12 / Ch 13 ("There You Are"). The memory-lure (C5, Day 9) now precedes this breakthrough, so Claire's rungs ascend in story-day order.
 - **Behavior:** Brooke refuses to open the bathroom door; Claire breaks the lock and enters **without anger**. She only wants a hug.
 - **Fragment/tell:** Injures her hand on the lock and does not react in the moment (pain felt, self-preservation absent, `RULES.md` "Strength and pain"). A private wince or later tending may show the pain registered.
 - **Deniability:** Gone. This is the rung where Brooke stops accepting "trauma" as a complete explanation. **This is the failure the collective learns from** — force got contact and destroyed trust (`EVOLUTION.md` early stage).
@@ -160,4 +160,4 @@ The three ladders are one escalating argument the book makes about love-as-posse
 
 ## Open questions
 
-Unresolved items raised by this file (Claire day-order vs. ladder-order, fragment frequency, Sarah's terminal placement) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-07, OQ-03, OQ-06).
+Unresolved items raised by this file (fragment frequency, Sarah's terminal placement) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-03, OQ-06). Claire's day-order concern is resolved: the Day 9 ↔ Day 12 swap makes her rungs ascend monotonically (C5 Day 9 before C6 Day 12).

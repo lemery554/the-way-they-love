@@ -6,7 +6,7 @@ Anna may only use information with a documented source. She never physically tra
 
 | Day / chapter | What Anna knows | Source | What Anna says or does | What Brooke thinks | Actual meaning |
 |---|---|---|---|---|---|
-| Before Day 1 / archival insert | Bennett keypad code | Digits visible while entered in an old public family video | Uses it on Day 19 | No one outside the family should have access | Brooke published the means of entry years earlier |
+| Before Day 1 / archival insert | Bennett keypad code | Digits visible while entered in an old public family video | Uses it on Day 18 (first visit) and Day 19 (second visit) | No one outside the family should have access | Brooke published the means of entry years earlier |
 | 7-17 / early-middle | Brooke records to preserve emotional truth | Public uploads | Treats Brooke's recordings as important evidence | Anna understands her creative mind | Anna knows that validating the camera validates Brooke |
 | 14-17 / middle | Brooke is adopted and wonders why her mother did not find her | Public uploads | `I knew you were waiting` | Her biological mother recognized the longing | Anna repeats a need Brooke exposed herself |
 | 16-18 / middle | Force, guilt, and pursuit make Brooke withdraw | Brooke's footage, comments, and observed public failures | Keeps distance and accepts `no` | Respect proves she is safe | Patience is the latest learned strategy |

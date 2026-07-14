@@ -11,7 +11,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [x] **TWI-005 | P0 | Decide final town and state**: Ashcroft, Connecticut is a fictional wooded suburb connected to a larger media market.
 - [x] **TWI-006 | P1 | Decide Brooke's vlog channel name**: The channel has no branded title and appears under Brooke Bennett's own name.
 - [x] **TWI-007 | P0 | Decide exact journal contents**: The journal includes the original full-name letter and a private entry explaining that mediated distance feels safer to Brooke than closeness.
-- [x] **TWI-008 | P0 | Place Anna's school-day entry**: Anna's first confirmed entry is Day 19 while Brooke is at school. A possible additional visit remains controlled by TWI-009.
+- [x] **TWI-008 | P0 | Place Anna's school-day entry**: Anna makes two school-day entries (TWI-009): the first, an investigation visit, is Day 18; the second, when she takes the journal, is Day 19. Both occur while Brooke is at school.
 - [x] **TWI-009 | P0 | Decide whether Anna enters once or multiple times**: Anna makes two school-day visits, investigating first and taking the journal second.
 - [ ] **TWI-010 | P1 | Decide ending eye effect**: Determine whether any subtle reflective green-eye effect appears after the journal reveal. It cannot be the reveal itself.
 - [ ] **TWI-011 | P1 | Decide exact final line during Revision**: Deferred until the ending exists in prose. Preserve quiet dread and the realization that Anna is still studying Brooke.
@@ -32,7 +32,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [x] **TWI-020 | P0 | Build the day-by-day one-month timeline**: All 30 days, major events, institutional phases, and Anna's first entry are placed. Later approved decisions update this living continuity document through their own tasks.
 - [x] **TWI-021 | P0 | Complete Anna clue ledger**: Days, sources, first-read interpretations, true meanings, and knowledge limits are mapped. Chapter-number assignment moves into TWI-103.
 - [x] **TWI-022 | P1 | Build the news progression timeline**: Six phases are fixed to Days 1 through 30 across news, hospitals, school, police, 911, internet, and public language.
-- [x] **TWI-023 | P0 | Run Foundation continuity audit**: Check time, geography, character knowledge, injuries, objects, symptoms, direct statements, and rejected concepts before closing M1. Completed in `outline/FOUNDATION_CONTINUITY_AUDIT.md`. One P0 finding (OQ-11: Anna's first-entry day conflict) must be resolved before M1 closes.
+- [x] **TWI-023 | P0 | Run Foundation continuity audit**: Check time, geography, character knowledge, injuries, objects, symptoms, direct statements, and rejected concepts before closing M1. Completed in `outline/FOUNDATION_CONTINUITY_AUDIT.md`. Its one P0 finding (Anna's first-entry day conflict) was resolved this session via the Day 18 / Day 19 two-visit reconciliation; Foundation is now continuity-clean.
 
 ## M2: Story Design
 
