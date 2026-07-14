@@ -14,11 +14,15 @@ The people who recover from the illness remain recognizable, retain their memori
 
 - `docs/COMPLETE_PROJECT_BRIEF.md`: controlling project brief and canon source
 - `PROJECT_RULES.md`: prose, continuity, and scope guardrails
+- `STORY_RULES.md`: inviolable mystery and emotional-logic rules
 - `bible/`: characters, infection rules, world, and themes
 - `outline/`: story structure, chapter planning, and unresolved decisions
+- `planning/`: milestones, prioritized backlog, epics, and working templates
 - `manuscript/`: eventual prose drafts
 - `notes/`: uncategorized ideas pending review
 - `research/`: factual and setting research
 - `archive/`: retired material retained for history
 
 When files conflict, use the complete project brief and the latest explicit canon decision. Record material changes in `CHANGELOG.md`.
+
+Start current work in `planning/BACKLOG.md`. Drafting remains blocked until the Foundation milestone and all P0 Story Design tasks are accepted.
