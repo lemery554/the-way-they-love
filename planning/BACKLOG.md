@@ -26,8 +26,8 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [x] **TWI-014 | P1 | Research hospital and outbreak response**: Completed in `research/HOSPITAL_OUTBREAK_RESPONSE.md` with official CDC and AHRQ sources and separate fictional guardrails.
 - [x] **TWI-015 | P0 | Design the Bennett house floor plan**: Completed in `bible/world/BENNETT_HOUSE.md`, including routes, sight lines, sound, light, gun retrieval, bullet path, and escape.
 - [x] **TWI-016 | P1 | Complete the town map and world guide**: Ashcroft's key locations, travel relationships, regional texture, woods, back roads, and final escape route are mapped.
-- [ ] **TWI-017 | P0 | Complete character dossiers**: Add biography, appearance, personality, voice, habits, fear, regret, secrets, relationships, arc, and whisper effects for Brooke, Claire, Sarah, Mark, Anna, and Cooper.
-- [ ] **TWI-018 | P0 | Complete infection behavior matrix**: Incorporate locked sleep, eating, drinking, daily function, inevitable post-purge change, whisper repetition, recognition, and silent coordination; finish remaining rules for hunger, driving, pain, imitation, and resistance.
+- [x] **TWI-017 | P0 | Complete character dossiers**: Add biography, appearance, personality, voice, habits, fear, regret, secrets, relationships, arc, and whisper effects for Brooke, Claire, Sarah, Mark, Anna, and Cooper. Completed in `bible/characters/MAIN_CAST.md`.
+- [x] **TWI-018 | P0 | Complete infection behavior matrix**: Incorporate locked sleep, eating, drinking, daily function, inevitable post-purge change, whisper repetition, recognition, and silent coordination; finish remaining rules for hunger, driving, pain, imitation, and resistance. Completed in `bible/infection/RULES.md`.
 - [ ] **TWI-019 | P1 | Complete internet and hospital progression**: Map institutional changes to story days and Brooke's growing audience.
 - [x] **TWI-020 | P0 | Build the day-by-day one-month timeline**: All 30 days, major events, institutional phases, and Anna's first entry are placed. Later approved decisions update this living continuity document through their own tasks.
 - [x] **TWI-021 | P0 | Complete Anna clue ledger**: Days, sources, first-read interpretations, true meanings, and knowledge limits are mapped. Chapter-number assignment moves into TWI-103.
@@ -36,11 +36,11 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 ## M2: Story Design
 
-- [ ] **TWI-101 | P0 | Map character arcs**: Define starting belief, pressure, choices, reversals, lowest point, climax behavior, and ending state.
-- [ ] **TWI-102 | P0 | Create master scene inventory**: List every necessary scene with POV, date, location, purpose, conflict, turn, clue, and dependency.
+- [x] **TWI-101 | P0 | Map character arcs**: Define starting belief, pressure, choices, reversals, lowest point, climax behavior, and ending state. Completed in `outline/CHARACTER_ARCS.md`.
+- [x] **TWI-102 | P0 | Create master scene inventory**: List every necessary scene with POV, date, location, purpose, conflict, turn, clue, and dependency. Completed in `outline/SCENE_INVENTORY.md`.
 - [x] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Completed as a prologue plus 34 chapters with purpose, conflict, reveal, clues, character movement, found media, continuity, question chain, and projected word count.
-- [ ] **TWI-104 | P0 | Design Anna's trust ladder**: Track permissions, technically true statements, misinterpretations, boundaries, hope, and Brooke's voluntary hug.
-- [ ] **TWI-105 | P1 | Design Claire and Sarah escalation ladders**: Keep their methods distinct, gradual, emotionally real, and synchronized with whisper evolution.
+- [x] **TWI-104 | P0 | Design Anna's trust ladder**: Track permissions, technically true statements, misinterpretations, boundaries, hope, and Brooke's voluntary hug. Completed in `outline/ANNA_TRUST_LADDER.md`.
+- [x] **TWI-105 | P1 | Design Claire and Sarah escalation ladders**: Keep their methods distinct, gradual, emotionally real, and synchronized with whisper evolution. Completed in `outline/ESCALATION_LADDERS.md`.
 - [ ] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns.
 - [ ] **TWI-107 | P0 | Audit ending fairness**: Confirm keypad, house disturbance, missing journal, repeated language, and final journal proof all survive a reread test.
 - [ ] **TWI-108 | P1 | Run outline pacing and continuity pass**: Check chronology, geography, emotional escalation, quiet space, clue density, found-media ratio, and projected length.
