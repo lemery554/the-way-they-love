@@ -26,7 +26,7 @@ This directory organizes the novel as a product backlog without turning the crea
 6. Reader and professional feedback
 7. Publication preparation
 
-The phase epics live in `planning/epics/`. `BACKLOG.md` mirrors the operational task list, `MILESTONES.md` defines completion gates, and `GITHUB_ISSUES.md` maps active tasks to their discussion threads.
+`BACKLOG.md` is the operational task list, and `MILESTONES.md` defines completion gates. GitHub Issues are temporary collaboration threads; completed decisions are recorded in canon and their issues are closed.
 
 Use GitHub Issues for comments, decisions, and status. A comment does not authorize implementation. Add the `codex-ready` label when the issue is ready for Codex to act. After implementation, the repository bible and outline become the durable source of truth.
 

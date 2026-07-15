@@ -45,11 +45,11 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [x] **TWI-107 | P0 | Audit ending fairness**: Confirm keypad, house disturbance, missing journal, repeated language, and final journal proof all survive a reread test. Completed in `outline/ENDING_FAIRNESS_AUDIT.md` — PASS; re-run against the one-night ending rework (2026-07-15) with a new engineered-pickup fairness check — still PASS.
 - [x] **TWI-108 | P1 | Run outline pacing and continuity pass**: Check chronology, geography, emotional escalation, quiet space, clue density, found-media ratio, and projected length. Completed in `outline/PACING_PASS.md` — PASS; corrected projected length to ~85,000 and flagged the Ch 17–22 tension plateau for drafting. Resolves OQ-10.
 - [x] **TWI-109 | P0 | Authorize drafting**: Drafting authorized by the author (2026-07-15). All P0 M1 and M2 tasks complete; the active author-decision queue is empty; only the exact final line (TWI-011) remains intentionally deferred to drafting/revision. The drafting gate is open, beginning with the prologue (TWI-110).
-- [ ] **TWI-110 | P0 | Draft and review the prologue**: First draft complete in `manuscript/prologue.md` (~1,960 words; commercial close-third prose, red-medicine horror, synchronized vomiting, the uncanny recovery, no authoritative explanation, Brooke's footage-preserving habit, and Cooper's early unease). Awaiting author review before it's marked done.
+- [x] **TWI-110 | P0 | Draft and review the prologue**: Revised editorial draft complete in `manuscript/prologue.md` (1,637 words), reviewed against issue #22 and pushed to `main`.
 
 ## M3: First Draft
 
-- [ ] **TWI-201 | P0 | Draft chapters sequentially**: Target 2,000 to 3,000 polished words per week.
+- [ ] **TWI-201 | P0 | Draft chapters sequentially**: In progress. Prologue and Chapter 1 are drafted; continue in architecture order at a sustainable pace.
 - [ ] **TWI-202 | P1 | Maintain weekly drafting log**: Track words, scenes, discoveries, continuity changes, and next intent.
 - [ ] **TWI-203 | P0 | Maintain living canon**: Update the timeline, character dossiers, and clue ledger when approved discoveries alter them.
 - [ ] **TWI-204 | P0 | Complete Draft One audit**: Verify beginning, middle, ending, word count, missing scenes, and unresolved placeholders.
@@ -66,6 +66,6 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 ## M5: Publication
 
-- [ ] **TWI-401 | P1 | Choose traditional, self-publishing, or sequential strategy**
+- [x] **TWI-401 | P1 | Choose publication path**: Self-publishing is locked. Final distribution choice between IngramSpark, Amazon KDP, or a coordinated use of both remains deferred until production planning.
 - [ ] **TWI-402 | P1 | Build the appropriate query or self-publishing package**
 - [ ] **TWI-403 | P2 | Complete cover, interior, ebook, metadata, distribution, and marketing plans**

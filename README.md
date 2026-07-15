@@ -1,6 +1,6 @@
-# The Whispers Inside
+# The Way They Love
 
-Development repository for *The Whispers Inside*, a psychological family-horror novel about trust, memory, and love becoming possession.
+Development repository for *The Way They Love*, a psychological family-horror novel about trust, memory, and love becoming possession.
 
 ## Story hook
 
@@ -21,7 +21,7 @@ Full, spoiler-inclusive dossiers live in `bible/characters/MAIN_CAST.md`.
 
 ## Project status
 
-Pre-draft development. The current goal is to complete the novel bible, one-month timeline, clue ledger, house plan, research, and chapter outline. Do not draft the prologue or full novel until the Foundation and Story Design gates are complete.
+Draft One is underway. The Foundation and Story Design gates are complete, the prologue has been revised, and Chapter 1 is drafted. New chapters should follow the accepted architecture while the timeline, clue ledger, and canon remain living continuity references.
 
 ## Creative north star
 
@@ -34,17 +34,17 @@ The people who recover from the illness remain recognizable, retain their memori
 - `STORY_RULES.md`: inviolable mystery and emotional-logic rules
 - `bible/`: characters, infection rules, world, and themes
 - `outline/`: story structure, chapter planning, and unresolved decisions
-- `planning/`: milestones, prioritized backlog, epics, and working templates
-- `manuscript/`: eventual prose drafts
-- `notes/`: uncategorized ideas pending review
+- `planning/`: milestones and prioritized backlog
+- `manuscript/`: current prose drafts
+- `notes/`: rejected directions retained for protection against regression
 - `research/`: factual and setting research
 - `archive/`: retired material retained for history
 
 When files conflict, use the complete project brief and the latest explicit canon decision. Record material changes in `CHANGELOG.md`.
 
-Start current work in `planning/BACKLOG.md`. Drafting remains blocked until the Foundation milestone and all P0 Story Design tasks are accepted.
+Start current work in `planning/BACKLOG.md`. Drafting is authorized and proceeds sequentially from the accepted chapter architecture.
 
-Discuss and resolve active decisions in [GitHub Issues](https://github.com/lemery554/the-whispers-inside/issues). The task-to-issue map lives in `planning/GITHUB_ISSUES.md`.
+Discuss and resolve active decisions in GitHub Issues. Close completed issues promptly so the open queue contains only current work.
 
 Codex acts on an issue only when the user has added the `codex-ready` label. Comments without that label remain discussion.
 

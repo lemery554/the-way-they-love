@@ -4,6 +4,9 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-15
 
+- Changed the novel title from *The Whispers Inside* to *The Way They Love* and prepared the repository for the new GitHub name.
+- Removed completed planning scaffolds, empty placeholders, and the obsolete closed-issue map; retained active canon, research, archive, milestones, and backlog.
+- Locked self-publishing as the publication path while leaving the IngramSpark/KDP distribution mix for later production planning.
 - Drafted Chapter 1, `Ordinary Evidence`, establishing the Bennett family's normal rhythms and planting the keypad, beach memory, porch-roof, Cooper, and Mark-absence continuity.
 - Rewrote the prologue from issue #22's editorial plan: immediate Brooke POV, corrected footage-window continuity, less explanatory narration, ambiguous red treatment, an objective recovery-girl proximity clue, and Cooper's unexplained local warning.
 - Added the expanded character dossiers (`MAIN_CAST.md`, TWI-017) and the full illness-behavior matrix (`RULES.md`, TWI-018); added character arcs (TWI-101), the master scene inventory (TWI-102), Anna's approach doc (TWI-104), and the Claire/Sarah escalation ladders (TWI-105).

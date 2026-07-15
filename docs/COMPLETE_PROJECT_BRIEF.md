@@ -1,12 +1,12 @@
-# THE WHISPERS INSIDE
+# THE WAY THEY LOVE
 
 ## Complete Novel Development Brief
 
-> Purpose: This document consolidates the current concept, canon decisions, rejected directions, characters, infection rules, structure, themes, ending, and repository direction for developing *The Whispers Inside* as a novel.
+> Purpose: This document consolidates the current concept, canon decisions, rejected directions, characters, infection rules, structure, themes, ending, and repository direction for developing *The Way They Love* as a novel.
 
 ## 1. Project overview
 
-**Title:** *The Whispers Inside*
+**Title:** *The Way They Love*
 
 **Format:** Novel first, with possible later screenplay adaptation
 

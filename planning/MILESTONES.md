@@ -55,10 +55,10 @@ Exit criteria:
 
 ## M5: Publication
 
-**Goal:** Prepare the chosen publication path without prematurely locking the decision.
+**Goal:** Prepare a professional self-publishing release.
 
 Exit criteria:
 
-- Traditional, self-publishing, or sequential strategy selected
-- Query package or self-publishing production package complete
+- IngramSpark, Amazon KDP, or a coordinated two-platform distribution strategy selected
+- Self-publishing production package complete
 - Cover, interior formatting, metadata, and marketing plan complete for the selected path
