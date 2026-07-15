@@ -100,7 +100,7 @@ Mark is practical, dependable, hands-on, and likely works in a trade such as con
 
 **Fear:** Being away when his family needs him — this is largely inferred/dramatic-ironic rather than stated, since he's off-page.
 
-**Regret / Secret:** Left open deliberately — his fate is already locked as unknown, and inventing a regret or secret risks implying resolution that STORY_RULES forbids. These two fields stay blank in canon. *(Flagged open — confirm this is the desired permanent treatment rather than a placeholder.)*
+**Regret / Secret:** Intentionally and permanently blank in canon — his fate is locked as unknown, and inventing a regret or secret risks implying resolution that STORY_RULES forbids. *(Confirmed permanent, not a placeholder — OQ-01 resolved.)*
 
 **Arc:** Reliable, present-by-absence father whose silence escalates from delayed replies to nothing. No resolution — this is intentional, not an oversight.
 
@@ -160,4 +160,4 @@ Cooper detects changed people before humans do. He growls at Claire after recove
 
 ## Open questions
 
-Unresolved items raised by this file (Mark's blank dossier fields, Claire's changed-state fear) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-01, OQ-02).
+Mark's blank dossier fields are confirmed permanent (OQ-01 resolved). Claire's changed-state fear remains tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-02).

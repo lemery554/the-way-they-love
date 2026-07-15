@@ -106,4 +106,4 @@ Maps each character's starting belief, the pressure applied across the month, th
 
 ## Open questions
 
-Unresolved items raised by this file (Sarah's post-climax fate, Mark's blank arc fields) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-06, OQ-01).
+Mark's blank arc fields are confirmed permanent (OQ-01 resolved). Sarah's post-climax fate remains tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-06).

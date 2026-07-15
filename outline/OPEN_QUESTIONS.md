@@ -6,7 +6,6 @@
 
 | # | Question | Raised in | Priority | Related task |
 |---|---|---|---|---|
-| OQ-01 | Mark's **regret / secret / arc** fields are intentionally blank. Confirm this is permanent (his fate is locked unknown) rather than a placeholder to fill later. | `bible/characters/MAIN_CAST.md`, `outline/CHARACTER_ARCS.md` | P1 | TWI-001 |
 | OQ-02 | Claire's changed-state **"fear"** is written as inarticulate panic at closed doors/distance rather than a nameable fear. Confirm this reads as intended, or replace with a single sharper image. | `bible/characters/MAIN_CAST.md` | P2 | TWI-017 |
 | OQ-03 | **Resistance-fragment frequency:** how often a personality fragment may surface per character (and the rule that none repeats identically) belongs in continuity tracking, not locked in canon. Confirm the tracking home. | `bible/infection/RULES.md`, `outline/ESCALATION_LADDERS.md` | P2 | TWI-018 / TWI-203 |
 | OQ-04 | **Anna trust-ladder rung → chapter mapping** is not fixed. Cross-reference each rung against the 34-chapter outline so pacing isn't compressed or padded. | `outline/ANNA_TRUST_LADDER.md` | P1 | TWI-103 / TWI-108 |
@@ -28,5 +27,6 @@
 
 ### Recently resolved
 
+- **OQ-01 (resolved)** — Mark's regret / secret / arc fields stay permanently blank, matching his locked-unknown fate. Confirmed in `MAIN_CAST.md` and `CHARACTER_ARCS.md`.
 - **OQ-07 (resolved)** — Claire's ladder day-order: the Day 9 ↔ Day 12 swap moved the memory-lure (C5) to Day 9 and the bathroom-lock (C6) to Day 12, so her rungs now ascend monotonically. Applied across the chapter outline, timeline, scene inventory, and escalation ladders.
 - **OQ-11 (resolved)** — Anna's first-entry day: adopted the two-visit model (investigation **Day 18**, journal **Day 19**) per TWI-009 and updated the five stale references (`planning/BACKLOG.md` TWI-008, `outline/TIMELINE.md` constraint, `outline/CLUE_LEDGER.md` AN-02, `bible/world/BENNETT_HOUSE.md`, `outline/ANNA_KNOWLEDGE_MATRIX.md`).
