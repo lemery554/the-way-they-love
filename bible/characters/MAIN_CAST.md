@@ -144,7 +144,7 @@ Anna's only goal is closeness. She does not uniquely care about Brooke and would
 
 **Role:** Bennett family dog and early behavioral detector.
 
-Cooper detects changed people before humans do. He growls at Claire after recovery, avoids changed family members, and reacts before reflective eye effects or strong control shifts. Claire never harms him. Cooper is in Anna's car during the final sequence. Anna has gained enough of his trust that he permits her near Brooke, but he remains uneasy and watches Anna instead of sleeping.
+Cooper detects the underlying alteration during the early purge, before apparent recovery or recognizable behavioral change. His first responses are subtle avoidance, refusal of familiar food or contact, tension, and watchfulness; directed growling comes later. He avoids changed family members and reacts before reflective eye effects or strong control shifts. Claire never harms him. Cooper is in Anna's car during the final sequence. Anna has gained enough of his trust that he permits her near Brooke, but he remains uneasy and watches Anna instead of sleeping.
 
 **Behavioral signature (in place of voice):** Reads people before events do. Calm and affectionate with unchanged family; stiff, watchful, low-tail with changed people. Growls are rare and specific — never generalized anxiety, always directed.
 

@@ -4,6 +4,8 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-15
 
+- Implemented Batch 1 developmental feedback across Chapters 3–5: tightened upload, call, camera-test, symptom-cycle, debate, and departure material; varied Brooke's failed-repair beats; corrected the vomiting-duration wording; and preserved the central emotional and horror sequences.
+- Locked animal detection timing: animals sense the underlying alteration during the early purge, before apparent recovery or recognizable behavioral change.
 - Adopted a hybrid first-draft workflow: chapters are drafted in continuity batches, reviewed individually through their GitHub issues, and followed by a full-draft continuity pass and developmental rewrite.
 - Drafted Batch 1: Chapter 3 `Sisters`, Chapter 4 `The Dog Knows`, and Chapter 5 `Empty`, carrying the story from Brooke's cruel pre-illness remark through Claire's first symptoms and the decision to seek hospital care.
 - Reflowed Chapter 2 to the same commercial-novel paragraph standard and made dense prose formatting a permanent rule for all future chapters.

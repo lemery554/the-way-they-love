@@ -38,8 +38,6 @@ He backed away at once, so quickly his nails clicked against the hardwood. He st
 
 "Sleep talking. It's serious."
 
-The joke was weak, but it was an offer. Brooke could answer it, reopen the familiar rhythm, and perhaps find a way toward the apology she had refused in the hallway.
-
 "Mom wants your laundry," Brooke said instead.
 
 "No, she doesn't."
@@ -144,19 +142,13 @@ Upstairs, Claire put on one of Brooke's old camera tests without asking. Brooke 
 
 Claire lay on top of the covers with Brooke's laptop balanced against her knees. "You said I could borrow this."
 
-"In 2022."
-
-"No expiration date."
+"You didn't ask."
 
 The image on the screen had paused on Claire in the backyard, squinting into reflected sunlight while Cooper tried to drag the collapsible screen away by one handle. Brooke sat at the foot of the bed. "Why are you watching that?"
 
-"I wanted to see if you were always bossy."
+"I wanted to see if you were always bossy. You used to let me help."
 
-"What did the evidence show?"
-
-"You used to let me help."
-
-Brooke could still apologize for yesterday. She could say the sentence had been designed to hurt and therefore said more about her than Claire. Instead she reached for the laptop. "You're getting fingerprints on it."
+Brooke reached for the laptop. "You're getting fingerprints on it."
 
 Claire closed the screen before Brooke took it. "I'm sorry about the workshop."
 

@@ -64,7 +64,7 @@ Sarah wiped Claire's face with a damp washcloth. "We should call first."
 
 "She's dehydrated."
 
-"She has been sick for less than an hour."
+"She's been vomiting for less than an hour."
 
 "She can't drink."
 
@@ -78,15 +78,13 @@ Claire closed her eyes. "I'm here."
 
 Sarah placed a hand against her cheek. "I know, honey."
 
-Brooke did not say that Claire had forgotten Sarah was beside her earlier. Sarah had seen it. They were arranging the same evidence differently again, only now Claire sat between them burning hot enough to make the air feel altered.
+Brooke did not say that Claire had forgotten Sarah was beside her earlier. Sarah had seen it.
 
 Sarah called the pediatrician's after-hours line. A recording advised anyone experiencing severe dehydration or altered mental status to call 911 or proceed to the nearest emergency department. For all other concerns, they could leave a message for the on-call provider. Sarah left Claire's name, temperature, symptoms, and callback number with the calm precision of someone placing an order. Then they waited.
 
-Brooke searched the comments under the state notice while Sarah replaced the damp cloth on Claire's neck. Most replies were arguments about school closures and whether the illness was real. Farther down, people described children vomiting for hours, adults unable to stand, entire families falling sick within days of one another. One comment said Saint Vincent's had stopped letting relatives beyond triage. Another said that was false and attached a photograph of three people sitting together beneath the emergency-room sign.
+Brooke searched beneath the state notice while Sarah replaced the damp cloth on Claire's neck. One comment said Saint Vincent's had stopped letting relatives beyond triage. Another showed three people sitting together beneath the emergency-room sign. Contradiction had become the only detail every report shared.
 
-Brooke saved both. Contradiction had become the only detail every report shared.
-
-She found a video posted twenty minutes earlier from inside a crowded waiting room. The camera faced the floor, showing shoes, chair legs, and a white paper cup tipped on its side. A vivid red line ran from the cup toward the filmer's sneaker. Someone out of frame retched. A staff member told the person recording to put the phone away.
+A video posted twenty minutes earlier showed shoes, chair legs, and a white paper cup tipped on its side in a crowded waiting room. A vivid red line ran from the cup toward the filmer's sneaker. Someone out of frame retched.
 
 Brooke watched six seconds, muted it, and locked her screen. Claire was sick in front of her. The footage did not make Claire safer or tell Sarah what to do. For the first time since the clips began, saving more felt like refusing to look at what was already in the room.
 
@@ -108,21 +106,9 @@ Cooper lay at the far end of the hall. He had tried twice to come closer when Cl
 
 Brooke lifted her phone and recorded the time, the thermometer on the carpet, the unopened electrolyte bottle, and Cooper's position in the hall. She did not point the camera toward the bathroom. The clips were no longer material for an upload. They were a record for a doctor who might ask when something happened, and for Brooke if morning arrived and everyone began saying it had not been this bad.
 
-Sarah opened the door enough to take the clothes. Her college shirt was damp at the collar, and strands of hair had worked free from the clip at the back of her head. "Put a trash bag in the bathroom bin. Then bring another blanket."
+Sarah opened the door enough to take the clothes. Her college shirt was damp at the collar, and strands of hair had worked free from the clip at the back of her head. "Put a trash bag in the bathroom bin. Then bring another blanket. I need ten minutes where you're helping me instead of fighting me."
 
-"We should already be leaving."
-
-"I heard you."
-
-"That isn't the same as listening."
-
-Sarah's face tightened. For an instant the kitchen argument returned intact between them: the workshop, the waiting list, every choice Sarah believed fear allowed her to make. Then Claire called for her, and Sarah looked back into the bathroom.
-
-"I need ten minutes where you're helping me instead of fighting me," she said.
-
-Brooke wanted to tell her that arguing for a hospital was helping. She went for the blanket instead.
-
-At nine-oh-three, Mark called. Sarah put him on speaker from the bathroom counter. His voice broke around the edges, flattened by poor service and the fan Sarah had turned on.
+Brooke went for the blanket. At nine-oh-three, Mark called. Sarah put him on speaker from the bathroom counter. His voice broke around the edges, flattened by poor service and the fan Sarah had turned on.
 
 "How high?" he asked.
 
@@ -178,13 +164,9 @@ Claire frowned at the toilet, the sink, the bath mat beneath her knees. "The whi
 
 The nurse told Sarah to take her to the emergency department.
 
-For the next twenty minutes, the house became a list. Insurance card. Phone chargers. Clean clothes. Plastic bags. Water for the car. Claire's medication history. A basin. Sarah moved through it all without stopping, issuing instructions while Brooke obeyed.
+The house became a list: insurance card, phones, clean clothes, plastic bags, medication history, basin. Sarah moved through it without stopping while Brooke obeyed.
 
-"Shoes. Yours and hers."
-
-"She can't walk."
-
-"Then get shoes she can put on in the car. Bring the gray blanket, not the white one. Put Cooper in the kitchen."
+"Shoes she can put on in the car. Bring the gray blanket. Put Cooper in the kitchen."
 
 At his name, Cooper rose but would not approach Claire. Sarah had helped her into sweatpants and one of Mark's old T-shirts. Claire stood between them in the hallway, swaying slightly.
 
@@ -212,7 +194,7 @@ Brooke put the phone in her pocket and wrapped the gray blanket around her siste
 
 The words were faint but familiar. Brooke tightened the blanket around her. "Yeah."
 
-She could apologize now. The bathroom light was too bright, Claire smelled sour, and Sarah was shouting from the bedroom that they needed to move. None of it looked like the place an apology belonged. Brooke promised herself there would be a better moment.
+The apology rose and stopped behind Brooke's teeth. Sarah called from the bedroom that they needed to move.
 
 Claire's body jerked. Brooke caught the basin just before she vomited again.
 

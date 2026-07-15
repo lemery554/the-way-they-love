@@ -85,7 +85,7 @@ Physical contact does not transmit the illness. The craving for touch is psychol
 
 ## Animals
 
-Animals detect the change. This is canon.
+Animals detect the underlying alteration from the early purge onward, before apparent recovery or recognizable behavioral change. They are not reacting merely to fever, smell, or ordinary sickness. Their responses may begin as avoidance, refusal of familiar contact or food, tension, and watchfulness before escalating to directed growls. The mechanism remains unexplained.
 
 ## Reflective green eyes
 

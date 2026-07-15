@@ -38,17 +38,15 @@ At school, the outbreak had become ordinary enough to schedule around. The nurse
 
 Brooke heard three people repeat *inaccurate social-media reports* before lunch. None of them knew which reports were inaccurate.
 
-She saved the nurse's email and a screenshot of the district notice. During study hall, she opened the folder called *the color* and built a sequence from the clips she had collected: the red pavement, the synchronized movement in hospital corridors, the recovering girl tightening both hands around her mother's wrist. She added the state hospitalization count from the radio and footage of the white intake screens outside Saint Vincent's.
+She saved the nurse's email and a screenshot of the district notice. During study hall, she opened the folder called *the color* and built a sequence from the clips she had collected: the red pavement, the synchronized movement in hospital corridors, the recovering girl tightening both hands around her mother's wrist, and the white intake screens outside Saint Vincent's.
 
-The video was one minute and forty-three seconds long. Brooke recorded narration in the empty audiovisual room, keeping her voice low because the walls were thinner than they looked.
+Brooke recorded narration in the empty audiovisual room, keeping her voice low because the walls were thinner than they looked.
 
 "This started showing up three nights ago. I don't know if the red liquid is medicine or something else, and I don't know whether it matters. Hospitals in at least four states are using it. The people in these clips seem to recover quickly, but the reports don't agree about how sick they were first. I'm saving the sources in the description. If anything gets corrected, I'll update it."
 
-She stopped there. No warning. No theory. She titled the upload *Something's going around* and posted it under Brooke Bennett, between a thirty-second lighting test and last month's video of Cooper refusing to walk through fresh snow.
+She stopped there. No warning. No theory. She titled the upload *Something's going around* and posted it under Brooke Bennett.
 
-It had twelve views by final bell. One comment said *dramatic much*. Another asked whether the red liquid was fruit punch.
-
-Brooke did not reply. Twelve people had seen it. That was twelve more copies of the sequence than had existed that morning.
+By final bell, one comment said *dramatic much*. Another asked whether the red liquid was fruit punch. Brooke did not reply.
 
 Sarah texted that her last meeting would run late and told Brooke to make sure Claire came straight home. The message included a heart at the end, the same one Sarah used after reminders about dentist appointments and laundry. Brooke stared at it long enough for the screen to dim, then sent back *okay*.
 
@@ -218,10 +216,10 @@ Mark's eyes shifted toward her voice. "Tomorrow night. That's the plan."
 
 Claire leaned against the frame without laughing. She had changed into her own sweatshirt.
 
-The call lasted eleven more minutes. Mark showed them a lamp in his room that flickered whenever he turned on the bathroom fan. Sarah told him not to touch the wiring. He reminded her what he did for a living. By the end, the family almost sounded normal.
+The call continued until Mark repeated that tomorrow night was still the plan. By the end, the family almost sounded normal.
 
 When the screen went dark, Claire left first. Brooke waited for Sarah to mention the workshop or the laundry room. Sarah only said, "Good night," and followed her.
 
 Brooke opened the video from the beach. She stopped on a frame where Claire's hands were buried in the sand around Brooke's knees. The picture shook with Mark's laughter behind the camera.
 
-She considered sending Claire the clip. Instead she saved a second copy to the family folder and refreshed *Something's going around* again. Forty-one views.
+She considered sending Claire the clip. Instead she saved a second copy to the family folder.
