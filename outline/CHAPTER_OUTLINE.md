@@ -2,7 +2,7 @@
 
 **Status:** Complete working architecture for review. Prose drafting remains gated.
 
-**Target:** Prologue plus 29 numbered chapters, approximately 80,000 words. Brooke is the sole narrative viewpoint. The final journal image is the only controlled exception. The climax and ending compress into a single night (Day 26): siege, escape, the engineered car pickup, and the journal reveal.
+**Target:** Prologue plus 29 numbered chapters, approximately 85,000 words. Brooke is the sole narrative viewpoint. The final journal image is the only controlled exception. The climax and ending compress into a single night (Day 26): siege, escape, the engineered car pickup, and the journal reveal.
 
 ## Prologue: The Color
 
@@ -466,7 +466,7 @@
 
 ## Architecture totals and gates
 
-- **Projected prose:** Approximately 80,000 words including prologue (prologue + 29 chapters), after the one-night ending compressed the former Chapters 28–34 into two.
+- **Projected prose:** Approximately 85,000 words including prologue (prologue + 29 chapters; per-chapter estimates sum to ≈ 85,100), after the one-night ending compressed the former Chapters 28–34 into two.
 - **Found media:** Brief throughout; target remains 10 to 15 percent of final word count.
 - **POV:** Brooke throughout, with only the final journal image (Chapter 29) exceeding her awareness.
 - **Structure note:** The narrative concludes on the night of Day 26; the final days of institutional drift (Phase 6) occur off-page. Anna's arc compresses to surveillance plus two brief in-person meetings (dog park, Day 11; diner, Day 23) and the engineered escape-night pickup.

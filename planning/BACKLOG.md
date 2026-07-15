@@ -38,12 +38,12 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 - [x] **TWI-101 | P0 | Map character arcs**: Define starting belief, pressure, choices, reversals, lowest point, climax behavior, and ending state. Completed in `outline/CHARACTER_ARCS.md`.
 - [x] **TWI-102 | P0 | Create master scene inventory**: List every necessary scene with POV, date, location, purpose, conflict, turn, clue, and dependency. Completed in `outline/SCENE_INVENTORY.md`.
-- [x] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Completed, then revised by the one-night ending rework (2026-07-15) to a prologue plus 29 chapters (~80,000 words); the climax and ending compress into a single night (Day 26).
+- [x] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Completed, then revised by the one-night ending rework (2026-07-15) to a prologue plus 29 chapters (~85,000 words); the climax and ending compress into a single night (Day 26).
 - [x] **TWI-104 | P0 | Design Anna's approach**: Completed, then rewritten by the one-night ending rework (2026-07-15) from a nine-rung patient courtship into surveillance + two brief in-person meetings (dog park Day 11, diner Day 23) + an engineered escape-night pickup, in `outline/ANNA_TRUST_LADDER.md`.
 - [x] **TWI-105 | P1 | Design Claire and Sarah escalation ladders**: Keep their methods distinct, gradual, emotionally real, and synchronized with whisper evolution. Completed in `outline/ESCALATION_LADDERS.md`.
-- [ ] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns.
+- [x] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns. Completed in `outline/UPLOAD_SEQUENCE.md` (7 uploads, Days 3–26, with the Anna-learning throughline).
 - [x] **TWI-107 | P0 | Audit ending fairness**: Confirm keypad, house disturbance, missing journal, repeated language, and final journal proof all survive a reread test. Completed in `outline/ENDING_FAIRNESS_AUDIT.md` — PASS; re-run against the one-night ending rework (2026-07-15) with a new engineered-pickup fairness check — still PASS.
-- [ ] **TWI-108 | P1 | Run outline pacing and continuity pass**: Check chronology, geography, emotional escalation, quiet space, clue density, found-media ratio, and projected length.
+- [x] **TWI-108 | P1 | Run outline pacing and continuity pass**: Check chronology, geography, emotional escalation, quiet space, clue density, found-media ratio, and projected length. Completed in `outline/PACING_PASS.md` — PASS; corrected projected length to ~85,000 and flagged the Ch 17–22 tension plateau for drafting. Resolves OQ-10.
 - [ ] **TWI-109 | P0 | Authorize drafting**: Open the drafting gate only after M1 and every P0 M2 task pass review.
 - [ ] **TWI-110 | P0 | Draft and review the prologue**: Begin only after TWI-109. Use commercial prose, red-medicine horror, and no authoritative explanation.
 

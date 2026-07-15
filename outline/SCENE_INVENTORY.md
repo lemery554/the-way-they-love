@@ -6,7 +6,7 @@ Every necessary scene in the book, one row per scene, with POV, story day, locat
 
 **How to read "Depends on":** lists the scene(s) whose setup this scene needs, or a clue/setup label. A scene with no upstream dependency is a clean entry point. This column is the drafting-order and continuity spine — no scene should pay off something its dependency hasn't yet planted.
 
-**Scene count:** 34 scenes (S00–S33) across prologue + 29 chapters (~80,000 projected words, TWI-103). The one-night ending compresses siege → escape → engineered car pickup → journal reveal into the final scenes (S30–S33), all on Day 26. Anna's two in-person meetings are folded into S13 (dog park, Day 11) and S25 (diner, Day 23).
+**Scene count:** 34 scenes (S00–S33) across prologue + 29 chapters (~85,000 projected words, TWI-103). The one-night ending compresses siege → escape → engineered car pickup → journal reveal into the final scenes (S30–S33), all on Day 26. Anna's two in-person meetings are folded into S13 (dog park, Day 11) and S25 (diner, Day 23).
 
 ---
 

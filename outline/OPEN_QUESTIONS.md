@@ -6,9 +6,8 @@
 
 | # | Question | Raised in | Priority | Related task |
 |---|---|---|---|---|
-| OQ-10 | **Pacing check:** 34 scenes over ~80,000 words (~2,350 words/scene) needs verification against the 10–15% found-media ratio. | `outline/SCENE_INVENTORY.md` | P1 | TWI-108 |
 
-The one remaining question resolves inside the **TWI-108 outline pacing pass** — no standalone author decision is needed first.
+**No active author-decision questions.** All previously open questions are resolved (see below). The remaining pre-drafting work is task execution (e.g., drafting itself), not author decisions.
 
 ## Tracked elsewhere (not active author decisions)
 
@@ -24,6 +23,7 @@ The one remaining question resolves inside the **TWI-108 outline pacing pass** �
 
 - **OQ-01 (resolved)** — Mark's regret / secret / arc fields stay permanently blank, matching his locked-unknown fate. Confirmed in `MAIN_CAST.md` and `CHARACTER_ARCS.md`.
 - **OQ-04 (resolved)** — The one-night ending rework fixed Anna's in-person placements: dog park Day 11 / Ch 12, diner Day 23 / Ch 24, engineered pickup Day 26 / Ch 28. No rung-to-chapter ambiguity remains.
+- **OQ-10 (resolved)** — The TWI-108 pacing pass (`outline/PACING_PASS.md`) verified pacing and the found-media ratio (~9–11%, within/near the 10–15% target) and corrected the projected length to ~85,000 words. PASS with two drafting notes (vary the Ch 17–22 tension plateau; length figure corrected).
 - **OQ-02 (resolved)** — Claire's fears kept as written: pre-illness fear is being left behind / left out, which the infection warps into the changed-state panic at closed doors and distance.
 - **OQ-03 (resolved)** — No fixed limit on fragment frequency; it varies per infected person and is tracked case-by-case in the drafting continuity log (TWI-203).
 - **OQ-05 (resolved)** — Anna and Brooke's first in-person meeting is set at a public **dog park** (Day 11, casual; the diner meeting on Day 23 is the mother reveal-to-Brooke).
