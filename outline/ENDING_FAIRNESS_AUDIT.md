@@ -4,7 +4,7 @@ Confirms the ending's central clues survive a **reread test**: after the final j
 
 **Standard applied:** STORY_RULES Rule 3 (every twist is fair), Rule 10 (no direct biological claim), Rule 11 (no direct lies), Rule 15 (Anna wins through consent), Rule 16 (continuity is evidence), plus the fairness test in `CLUE_LEDGER.md`.
 
-**Overall verdict: PASS**, with two tracked caveats that do not break fairness (OQ-09, OQ-11).
+**Overall verdict: PASS.** The two previously tracked caveats (OQ-09, OQ-11) are now both resolved, so no open item remains against the ending's fairness.
 
 ---
 
@@ -24,7 +24,7 @@ Confirms the ending's central clues survive a **reread test**: after the final j
 - **First read:** Claire's boundary-crossing, or Brooke's own stress and unreliable memory.
 - **Reread:** Anna entered and studied the home while Brooke was at school.
 - **Literal-truth check:** N/A.
-- **Verdict:** PASS **with one caveat** — the *exact* displaced object is still a placeholder (**OQ-09**). The day of this first entry (previously contested) is now resolved: **Day 18** under the two-visit model (OQ-11 closed). Neither affected fairness — the clue's accessibility and dual readability hold regardless of which object is locked.
+- **Verdict:** PASS. Both previously open details are now locked: the displaced object is the adoption-papers container left slightly ajar in the keepsake box at the foot of Brooke's bed (OQ-09), and the first-entry day is **Day 18** under the two-visit model (OQ-11). Neither affected fairness — the clue's accessibility and dual readability held regardless.
 
 ### 3. Missing journal / second entry — AN-03
 - **Planted:** S21 (Ch 20, Day 19) — Brooke cannot find her old journal; drawer/letter storage disturbed. Leveraged at S34 (Ch 30) when Anna "knows" the biological mother's full name.
@@ -71,8 +71,7 @@ Confirms the ending's central clues survive a **reread test**: after the final j
 
 ## Result
 
-**TWI-107: PASS.** The ending survives the reread test. One item remains to close before drafting, and it does not undermine fairness:
+**TWI-107: PASS, no open items.** The ending survives the reread test, and the two details it depended on are now locked this session:
 
-- **OQ-09** — lock the exact AN-02 displaced object.
-
-*(OQ-11, Anna's first-entry day, was resolved this session — Day 18 investigation / Day 19 journal — so the house-disturbance clue's timing now agrees across all files.)*
+- **OQ-09 (resolved)** — the AN-02 displaced object is the adoption-papers container left slightly ajar in the keepsake box at the foot of Brooke's bed.
+- **OQ-11 (resolved)** — Anna's first-entry day is Day 18 (investigation) / Day 19 (journal), consistent across all files.

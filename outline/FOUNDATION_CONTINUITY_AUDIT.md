@@ -2,7 +2,7 @@
 
 Pre-M1-close continuity sweep across the eight required categories: **time, geography, character knowledge, injuries, objects, symptoms, direct statements, and rejected concepts** (STORY_RULES Rule 16). Audited against the bible, the timeline set, the clue ledger, the knowledge matrix, the chapter outline, and the scene inventory.
 
-**Result: 1 P0 finding — now RESOLVED this session — 0 P1, 3 notes.** With the P0 finding reconciled, the Foundation has no known continuity defects blocking the TWI-109 drafting gate (only the detail-lock OQ-09 remains).
+**Result: 1 P0 finding — now RESOLVED this session — 0 P1, 3 notes.** With the P0 finding reconciled and the last detail-lock (OQ-09) now closed, the Foundation has no known continuity defects blocking the TWI-109 drafting gate.
 
 ---
 
@@ -47,7 +47,7 @@ After TWI-009 locked Anna's **two** school-day visits (investigate first, take t
 
 ### Objects — PASS (except F1)
 - Journal (taken on the second visit), keypad, garage gun safe, camera/phone, escape bag (placed Day 22 / Ch 23), Cooper's leash, beach photo — all introduced before use. The escape window is established in ordinary family life before the siege. ✔
-- The AN-02 displaced object is an intentional placeholder (**OQ-09**), not a contradiction.
+- The AN-02 displaced object is now locked (**OQ-09 resolved**): the adoption-papers container left slightly ajar in the keepsake box at the foot of Brooke's bed.
 
 ### Symptoms — PASS
 - Eating changes, muted hunger, dulled self-preservation, reflective green eye, whisper repetition, and animal detection are used consistently and never explained (Rule 2). The green-eye discovery moved cleanly from Day 10 to **Day 9** in the swap; no other file pins it to Day 10 (`BENNETT_HOUSE.md`'s green-eye note is day-agnostic). ✔
@@ -62,4 +62,4 @@ After TWI-009 locked Anna's **two** school-day visits (investigate first, take t
 
 ## Result
 
-**TWI-023: audit complete; F1 resolved this session.** Foundation is now continuity-clean: the Day 18 / Day 19 two-visit model has been applied across all previously conflicting files. The only remaining open item is **OQ-09** (lock the exact AN-02 displaced object), which is a detail to lock, not a contradiction. M1 has no known continuity defects blocking the TWI-109 drafting gate.
+**TWI-023: audit complete; F1 resolved this session.** Foundation is now continuity-clean: the Day 18 / Day 19 two-visit model has been applied across all previously conflicting files, and the AN-02 object is locked (OQ-09). No continuity items remain open; M1 has no known continuity defects blocking the TWI-109 drafting gate.

@@ -160,4 +160,4 @@ Cooper detects changed people before humans do. He growls at Claire after recove
 
 ## Open questions
 
-Mark's blank dossier fields are confirmed permanent (OQ-01 resolved). Claire's changed-state fear remains tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-02).
+Mark's blank dossier fields are confirmed permanent (OQ-01 resolved). Claire's fears are confirmed as written (OQ-02 resolved): her pre-illness fear is being left behind / left out, which the infection warps into the changed-state panic at closed doors and distance.

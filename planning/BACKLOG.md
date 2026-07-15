@@ -42,7 +42,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [x] **TWI-104 | P0 | Design Anna's trust ladder**: Track permissions, technically true statements, misinterpretations, boundaries, hope, and Brooke's voluntary hug. Completed in `outline/ANNA_TRUST_LADDER.md`.
 - [x] **TWI-105 | P1 | Design Claire and Sarah escalation ladders**: Keep their methods distinct, gradual, emotionally real, and synchronized with whisper evolution. Completed in `outline/ESCALATION_LADDERS.md`.
 - [ ] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns.
-- [x] **TWI-107 | P0 | Audit ending fairness**: Confirm keypad, house disturbance, missing journal, repeated language, and final journal proof all survive a reread test. Completed in `outline/ENDING_FAIRNESS_AUDIT.md` — PASS, with OQ-09 and OQ-11 to close before drafting.
+- [x] **TWI-107 | P0 | Audit ending fairness**: Confirm keypad, house disturbance, missing journal, repeated language, and final journal proof all survive a reread test. Completed in `outline/ENDING_FAIRNESS_AUDIT.md` — PASS; the two dependent details (OQ-09, OQ-11) are now both resolved.
 - [ ] **TWI-108 | P1 | Run outline pacing and continuity pass**: Check chronology, geography, emotional escalation, quiet space, clue density, found-media ratio, and projected length.
 - [ ] **TWI-109 | P0 | Authorize drafting**: Open the drafting gate only after M1 and every P0 M2 task pass review.
 - [ ] **TWI-110 | P0 | Draft and review the prologue**: Begin only after TWI-109. Use commercial prose, red-medicine horror, and no authoritative explanation.

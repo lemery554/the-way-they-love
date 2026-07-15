@@ -6,14 +6,10 @@
 
 | # | Question | Raised in | Priority | Related task |
 |---|---|---|---|---|
-| OQ-02 | Claire's changed-state **"fear"** is written as inarticulate panic at closed doors/distance rather than a nameable fear. Confirm this reads as intended, or replace with a single sharper image. | `bible/characters/MAIN_CAST.md` | P2 | TWI-017 |
-| OQ-03 | **Resistance-fragment frequency:** how often a personality fragment may surface per character (and the rule that none repeats identically) belongs in continuity tracking, not locked in canon. Confirm the tracking home. | `bible/infection/RULES.md`, `outline/ESCALATION_LADDERS.md` | P2 | TWI-018 / TWI-203 |
 | OQ-04 | **Anna trust-ladder rung → chapter mapping** is not fixed. Cross-reference each rung against the 34-chapter outline so pacing isn't compressed or padded. | `outline/ANNA_TRUST_LADDER.md` | P1 | TWI-103 / TWI-108 |
-| OQ-05 | **Anna trust-ladder Rung 5 meeting location** is generic. Lock a specific, concrete venue when the scene is chosen. | `outline/ANNA_TRUST_LADDER.md` | P2 | TWI-104 |
-| OQ-06 | **Sarah's precise fate/placement after the climax** is written to stay compatible with multiple endings. Confirm once the ending fairness audit runs. | `outline/CHARACTER_ARCS.md`, `outline/ESCALATION_LADDERS.md` | P1 | TWI-107 |
-| OQ-08 | **Scene ↔ chapter splits:** Chapters 6, 26, and 27 are split into two scenes each (S06/S07, S28/S29, S30/S31). Confirm these match intended chapter breaks or fold them. | `outline/SCENE_INVENTORY.md` | P2 | TWI-102 / TWI-103 |
-| OQ-09 | **AN-02 exact displaced object** (the trace of Anna's first entry) is still a placeholder. Lock the specific object. | `outline/SCENE_INVENTORY.md`, `outline/CLUE_LEDGER.md` | P1 | Codex issue #5 |
 | OQ-10 | **Pacing check:** 49 scenes over ~93,500 words (~1,900 words/scene) needs verification against the 10–15% found-media ratio. | `outline/SCENE_INVENTORY.md` | P1 | TWI-108 |
+
+Both remaining questions resolve inside the **TWI-108 outline pacing pass** — no standalone author decision is needed first.
 
 ## Tracked elsewhere (not active author decisions)
 
@@ -28,5 +24,11 @@
 ### Recently resolved
 
 - **OQ-01 (resolved)** — Mark's regret / secret / arc fields stay permanently blank, matching his locked-unknown fate. Confirmed in `MAIN_CAST.md` and `CHARACTER_ARCS.md`.
+- **OQ-02 (resolved)** — Claire's fears kept as written: pre-illness fear is being left behind / left out, which the infection warps into the changed-state panic at closed doors and distance.
+- **OQ-03 (resolved)** — No fixed limit on fragment frequency; it varies per infected person and is tracked case-by-case in the drafting continuity log (TWI-203).
+- **OQ-05 (resolved)** — Anna and Brooke's first in-person meeting (trust-ladder Rung 5) is set at a public **dog park**.
+- **OQ-06 (resolved)** — Sarah's fate: changed and left behind; her final act is a single technically-true post-escape text ("It isn't safe out there. Come home.") on Day 27, unanswered; she never appears again.
+- **OQ-08 (resolved)** — The Ch 6 / 26 / 27 two-scene splits are kept.
+- **OQ-09 (resolved)** — AN-02's displaced object is locked: the adoption-papers container left slightly ajar inside the keepsake box at the foot of Brooke's bed (also answers Codex issue #5).
 - **OQ-07 (resolved)** — Claire's ladder day-order: the Day 9 ↔ Day 12 swap moved the memory-lure (C5) to Day 9 and the bathroom-lock (C6) to Day 12, so her rungs now ascend monotonically. Applied across the chapter outline, timeline, scene inventory, and escalation ladders.
 - **OQ-11 (resolved)** — Anna's first-entry day: adopted the two-visit model (investigation **Day 18**, journal **Day 19**) per TWI-009 and updated the five stale references (`planning/BACKLOG.md` TWI-008, `outline/TIMELINE.md` constraint, `outline/CLUE_LEDGER.md` AN-02, `bible/world/BENNETT_HOUSE.md`, `outline/ANNA_KNOWLEDGE_MATRIX.md`).

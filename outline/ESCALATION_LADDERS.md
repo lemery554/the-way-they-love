@@ -133,7 +133,7 @@ Sarah is the collective's second, more sophisticated attempt. She never breaks a
 ### S7 — Still present, still "protecting" *(ending state)*
 - **Step:** N/A.
 - **Day/Chapter:** Post-climax.
-- **Behavior:** Changed, in the house, still framing everything as protection. Exact fate/placement compatible with multiple endings pending TWI-107.
+- **Behavior:** Changed, left behind in the house, still framing everything as protection. Her one post-climax act is a single technically-true text to Brooke on Day 27 ("It isn't safe out there. Come home."), which Brooke never answers. She does not appear again (OQ-06 resolved).
 - **Function:** Sarah's love was never fake; that's the tragedy the middle stage is built to prove.
 
 **Sarah's ladder in one line:** loves → restricts → guilts → bargains → shoots. Love and guilt work until they're seen, then collapse into force — the lesson Anna inherits from the *other* direction.
@@ -160,4 +160,4 @@ The three ladders are one escalating argument the book makes about love-as-posse
 
 ## Open questions
 
-Unresolved items raised by this file (fragment frequency, Sarah's terminal placement) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-03, OQ-06). Claire's day-order concern is resolved: the Day 9 ↔ Day 12 swap makes her rungs ascend monotonically (C5 Day 9 before C6 Day 12).
+All open questions raised by this file are now resolved: Claire's day-order (Day 9 ↔ Day 12 swap makes her rungs ascend monotonically, C5 Day 9 before C6 Day 12); Sarah's terminal placement (single post-escape text, then left behind — OQ-06); and fragment frequency (no fixed count — it varies per infected and is tracked case-by-case in the drafting continuity log — OQ-03).

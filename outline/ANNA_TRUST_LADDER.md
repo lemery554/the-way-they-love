@@ -64,7 +64,7 @@ This ladder runs on the public/parasocial track — comments, messages, eventual
 
 ### Rung 5 — First meeting, controlled setting
 
-**Action:** A public, low-stakes in-person meeting, at a time and place that reads as safe (Brooke's choice of venue, or something equivalently low-pressure).
+**Action:** A public, low-stakes in-person meeting at a **dog park** (venue locked) — open sightlines, daylight, other people, and a natural place for Cooper to be present. Brooke controls the distance; Anna stays across the space and never closes it.
 
 **Technically true statement:** Anna's demeanor and answers remain literally accurate; she may deflect a direct question with a narrower true answer rather than a lie.
 
@@ -141,4 +141,4 @@ This ladder runs on the public/parasocial track — comments, messages, eventual
 
 ## Open questions
 
-Unresolved items raised by this file (rung-to-chapter placement, Rung 5's meeting location) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-04, OQ-05).
+Rung 5's meeting location is locked (a dog park; OQ-05 resolved). Rung-to-chapter placement remains tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-04).

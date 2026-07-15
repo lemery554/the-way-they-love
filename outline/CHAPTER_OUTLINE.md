@@ -437,16 +437,16 @@
 ## Chapter 28: No Closer
 
 - **Day:** 27
-- **Purpose / setting:** Introduce Anna after Brooke's escape without relieving dread too quickly.
+- **Purpose / setting:** Introduce Anna after Brooke's escape, at a public dog park, without relieving dread too quickly.
 - **Emotional goal:** Hypervigilance to cautious attention.
 - **Conflict:** Anna offers help but refuses to approach without permission.
 - **Reveal:** She knows Brooke's public work and says Brooke should not trust her yet.
-- **Hidden clues / payoff:** Restrained resemblance cues; technically true language; Cooper watches but does not attack.
+- **Hidden clues / payoff:** Restrained resemblance cues; technically true language; Cooper watches but does not attack; Sarah's single post-escape text ("It isn't safe out there. Come home.") lands and goes unanswered.
 - **Character movement:** Brooke allows conversation but not proximity.
 - **Tension:** 7/10
-- **Found media:** Brooke verifies Anna has watched the channel.
+- **Found media:** Brooke verifies Anna has watched the channel; Sarah's unanswered text.
 - **Estimated words:** 2,900
-- **Continuity:** Anna never claims motherhood or states a falsehood.
+- **Continuity:** Anna never claims motherhood or states a falsehood. Sarah's text is technically true (Rule 11) and is her final appearance.
 - **Question answered / created:** Who found Brooke? / Why does Anna feel familiar?
 
 ## Chapter 29: Your Choice

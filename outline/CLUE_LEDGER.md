@@ -5,7 +5,7 @@
 | ID | Reveal supported | Earlier clue | First-read interpretation | True meaning | Timing | Status |
 |---|---|---|---|---|---|---|
 | AN-01 | Anna accessed the house | An old family video clearly shows the keypad while someone enters the code | Harmless family background detail | Anna can recover the door code from Brooke's public archive | Archive established Day 1; Anna finds it Day 17 | Day locked; chapter open |
-| AN-02 | Anna entered the house | Brooke notices a subtly displaced object or drawer after school | Claire or family disorder | Anna searched the home while Brooke was at school | Day 18 (first visit) | Day locked; exact object blocked by #5 |
+| AN-02 | Anna entered the house | Brooke notices the adoption-papers container left slightly ajar inside the keepsake box at the foot of her bed | Claire or family disorder | Anna searched the home and studied the adoption materials while Brooke was at school | Day 18 (first visit) | Locked (object and day) |
 | AN-03 | Anna took the journal | Brooke cannot find her old journal and assumes Claire took it | Claire's escalating boundary violation | Anna removed it during the house visit | Day 19 | Locked |
 | AN-04 | Anna studied Brooke online | Anna repeats Brooke's own phrasing | Empathy or family resemblance | She learned Brooke's emotional language from videos | Days 27-29 | Exact line open |
 | AN-05 | Anna avoids direct lies | Anna answers only the precise question Brooke asks | Careful honesty | She permits Brooke to construct the biological-mother claim | During trust sequence | Locked method; dialogue open |

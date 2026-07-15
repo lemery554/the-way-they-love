@@ -54,7 +54,7 @@ Maps each character's starting belief, the pressure applied across the month, th
 
 **Climax behavior:** Acts entirely within the "changed" behavioral rules (retains memory, cannot lie, believes she's protecting Brooke) — her violence is sincere, not malicious in her own understanding.
 
-**Ending state:** Changed, in the house, presumably still present in Brooke's life in some capacity going forward — full resolution of Sarah's specific fate should be confirmed against the ending chapters once TWI-107 (ending fairness audit) is run.
+**Ending state:** Changed and left behind in the house. Her final contact with Brooke is a **single post-escape text message** (Day 27) — technically true and quietly devastating, framing captivity as safety ("It isn't safe out there. Come home."). Brooke does not answer it, and Sarah never appears again. No reconciliation; the door-shot and the text are her last two acts. (OQ-06 resolved.)
 
 ---
 
