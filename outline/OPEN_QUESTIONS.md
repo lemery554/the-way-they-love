@@ -12,7 +12,7 @@
 ## Tracked elsewhere (not active author decisions)
 
 - Implementation placement for Anna's entry and appearance is tracked as Codex work in issues #6 and #14. The civic-progression decision is answered in issue #20 and awaits implementation.
-- The **ending eye effect** (TWI-010) and **final sentence** (TWI-011) are intentionally deferred to the ending outline and revision. Tracked in the backlog, not the active queue.
+- The **ending eye effect** (TWI-010) is now decided: a brief green flicker in Anna's eyes after the reveal, noticed by Cooper; it never carries the reveal. The **exact final sentence** (TWI-011) stays deferred to drafting/revision, with the "continued learning how to love her" direction banked. Tracked in the backlog, not the active queue.
 
 ## Settled — not open
 

@@ -89,7 +89,7 @@ Animals detect the change. This is canon.
 
 ## Reflective green eyes
 
-Keep the brief eye effect. It is brighter in darkness, sometimes clearer on camera, reflective rather than fantasy-glowing, and associated with stronger control or emotional shifts. Its cause remains unexplained.
+Keep the brief eye effect. It is brighter in darkness, sometimes clearer on camera, reflective rather than fantasy-glowing, and associated with stronger control or emotional shifts. Its cause remains unexplained. In the final scene it appears once more — a brief green flicker in Anna's eyes *after* the journal reveal, registered through Cooper's reaction (his whine), never carrying the reveal itself (TWI-010).
 
 ## Naming
 

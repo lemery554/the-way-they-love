@@ -14,6 +14,8 @@ All notable project-development changes are recorded here.
 - **Reinterpreted Anna's method** from a patient multi-day courtship to surveillance plus two meetings plus an *engineered* escape-night pickup. STORY_RULES Rule 15/18 are preserved by two guardrails: Anna's arrival is engineered (studied and waiting), not luck, and Brooke still chooses — she gets into the car herself and initiates the one closeness beat; Anna never forces, grabs, or reaches first. Recorded here per the STORY_RULES exception-logging requirement.
 - Cut the changed-police "reunion" arrival on the escape night (`SCHOOL_POLICE_AND_911.md`, TWI-025 superseded for that beat); the 911-corruption dispatch (IN-01) still stands during the siege.
 - Re-ran the ending fairness audit (TWI-107) against the one-night structure, including a new engineered-pickup fairness check — PASS.
+- Added the upload sequence (TWI-106), the pacing pass (TWI-108, which corrected projected length to ~85,000 and flagged the Ch 17–22 tension plateau), and the internet/hospital progression mapped to story days and Brooke's audience (TWI-019).
+- Decided the ending eye effect (TWI-010): a brief reflective green flicker in Anna's eyes after the journal reveal, registered through Cooper's reaction; it never carries the reveal. Banked the final-line direction ("continued learning how to love her") for TWI-011, to be locked during drafting.
 
 ## 2026-07-14
 
