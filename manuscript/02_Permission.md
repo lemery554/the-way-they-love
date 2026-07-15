@@ -1,0 +1,336 @@
+# Chapter 2: Permission
+
+The cancellation arrived at 6:42 the next morning and thanked Brooke for a decision she had not made.
+
+She read it twice before getting out of bed.
+
+**ASHCROFT YOUTH FILM COLLABORATIVE**  
+**Registration Withdrawal Confirmed**
+
+*Hi Brooke,*
+
+*This message confirms that your registration for Saturday's Student Film Intensive has been withdrawn at your parent or guardian's request. Your seat has been released to the waiting list. We hope you can join us for a future program.*
+
+The rest was a refund policy and a signature from someone named Celia who wished her all the best.
+
+Brooke pressed the phone to her blanket as if covering the screen could restore her place.
+
+The workshop was not a summer camp or a school club pretending phones made everyone a director. It was six hours at the Harlan Media Center in New Haven with three working filmmakers, actual lighting equipment, and an editing suite Brooke had looked up so many times she knew which stations had color-calibrated monitors. Twenty-four students had been accepted. Applicants submitted a two-minute film and a statement about why they wanted to tell stories.
+
+Brooke had spent four nights cutting hers.
+
+Sarah had watched the finished application at the kitchen island. She had cried at the wrong part, denied crying, then paid the registration fee before Brooke could talk herself out of going.
+
+Now Brooke opened the message details.
+
+The withdrawal request had come from Sarah's email at 9:18 the previous night, while Brooke was upstairs editing and Sarah was reminding Claire to take her shower.
+
+Brooke took a screenshot. Then another with the sender information expanded.
+
+Evidence did not improve with quantity, but anger did.
+
+Across the hall, Claire's alarm began playing the first eight seconds of a pop song before she silenced it. Pipes knocked inside the wall. Downstairs, a cabinet opened and shut.
+
+The house had started without Brooke.
+
+She got dressed, tucked the phone into her pocket, and carried the workshop email downstairs.
+
+Sarah stood at the counter packing lunches. No pancakes today. Two slices of bread lay open beside a jar of peanut butter, and the television murmured from the living room about increased emergency-department traffic across the state. Sarah had turned the volume low enough that the anchors sounded apologetic.
+
+Claire sat at the island in Brooke's hoodie again, picking raisins out of a bowl of cereal and lining them along a napkin.
+
+"Those are the only part with nutritional value," Sarah said.
+
+"They're wet," Claire said.
+
+"They were dry when I bought them. You did this."
+
+Cooper waited beneath Claire's stool, prepared to resolve the dispute.
+
+Brooke placed her phone on the counter in front of Sarah.
+
+Sarah looked at the screen. Her hands stopped above the sandwich.
+
+That was enough.
+
+"You canceled it."
+
+Claire ate one of the raisins.
+
+Sarah folded the bread together and pressed her palm over it. "I was going to talk to you this morning."
+
+"You talked to them first."
+
+"Brooke."
+
+"Did you think I wouldn't get an email?"
+
+"Of course I knew you'd get an email. I thought I would have a chance to explain before you saw it."
+
+"You sent it nine hours ago."
+
+Sarah's eyes flicked toward Claire.
+
+Claire lowered her spoon. "I can go away."
+
+"Eat your breakfast," Sarah said.
+
+"I can do both."
+
+She lifted the bowl and slid off the stool. Cooper followed her toward the living room, watching the milk tip dangerously close to the rim.
+
+Brooke waited until Claire disappeared around the corner. "Explain."
+
+Sarah put the knife in the sink. She rinsed it though nothing remained on the blade.
+
+"Your dad isn't coming home tomorrow."
+
+"I know."
+
+"The hotel added another floor to the inspection. He doesn't know when they'll release his crew."
+
+"What does that have to do with Saturday?"
+
+"It means he's not here. It means I'd have to take you to New Haven and leave Claire with Mrs. Dunn all day, assuming Mrs. Dunn is still comfortable having people in her house."
+
+"Why wouldn't she be?"
+
+Sarah looked toward the television. The anchor had been replaced by footage of cars waiting outside a hospital entrance. A bright banner beneath them read *STATE MONITORING STOMACH ILLNESS*.
+
+"People are getting sick," Sarah said.
+
+"People are always getting sick."
+
+"Not like this."
+
+The certainty in her voice surprised Brooke. "Yesterday you said everything was fine."
+
+"Yesterday I said your father was fine."
+
+It was an answer built to survive inspection.
+
+Sarah reached for the remote and muted the television. "The reports got worse overnight. New Haven has cases. Hartford has cases. Saint Vincent's put out a notice asking people not to come in unless they can't keep fluids down. We don't know what this is yet."
+
+"The workshop isn't at a hospital."
+
+"I understand that."
+
+"Do you? Because you seem confused about what I registered for."
+
+Sarah leaned both hands against the counter. "I am not sending you into a city for an optional workshop while your father is away and hospitals are filling up."
+
+"Sending me? I'm not eight."
+
+"You're seventeen."
+
+"Exactly."
+
+"That is not the argument you think it is."
+
+Brooke picked up the phone. The email was still open between them, bright and bloodless. "You could have asked me."
+
+"And you would have said no."
+
+"Then at least I would have been part of the decision."
+
+Sarah's face softened, which made Brooke angrier than if she had shouted. "This isn't a decision I can hand you when I don't think it's safe."
+
+"You handed it to yourself."
+
+"I'm your mother. Sometimes that is my job."
+
+From the living room came the soft scrape of Claire's spoon and a commercial promising that families could save twenty percent by switching mobile plans together.
+
+Brooke lowered her voice. "You don't do this to her."
+
+Sarah glanced toward the doorway. "Do what?"
+
+"Decide who she is allowed to be before she gets a chance."
+
+"Claire is thirteen. I decide most of what she's allowed to do."
+
+"That's not what I mean."
+
+"Then tell me what you mean."
+
+Brooke knew. The answer had lived in the house for years without anyone agreeing to name it.
+
+Sarah checked Brooke's location when she went out. Sarah asked for the address, the parents' names, the time she would leave, the time she would return, and a text when she arrived. Claire could cross two backyards to a friend's house with one shouted sentence over her shoulder. There were reasonable explanations for all of it. Age. Friends. Distance. The fact that Brooke was the one who wanted to go farther.
+
+Reasonable explanations arranged themselves easily when Sarah was the one arranging them.
+
+"You trust her," Brooke said.
+
+"This has nothing to do with Claire."
+
+"It always has something to do with Claire."
+
+Sarah went very still. "You think I treat her differently."
+
+It was not a question. Brooke heard how long Sarah had been waiting for the accusation.
+
+"I think you look at her and know she belongs here."
+
+Sarah's expression changed, not into anger at first. Hurt came before it, clean enough that Brooke almost stopped.
+
+"I have never looked at you as anything but my daughter."
+
+"That's not the same thing."
+
+"It is exactly the same thing."
+
+"Not to you."
+
+Sarah stepped back from the counter. "Do not tell me what you are to me."
+
+The sentence struck harder because Sarah did not raise her voice.
+
+Brooke could have apologized. She could have said that wanting to know why one woman had left did not erase the woman who stayed. She had tried to explain that before, but the words always made Sarah listen for a contest Brooke had not started.
+
+Instead she looked at the cancellation email and saw her empty seat offered to somebody on a waiting list.
+
+"You don't get to keep me forever just because she didn't."
+
+The refrigerator motor turned on.
+
+In the living room, the cereal bowl met the coffee table with a small ceramic knock.
+
+Sarah's mouth opened. Nothing came out. She looked as though Brooke had slapped her, and for one terrible second Brooke felt the satisfaction of having finally found the exact place to hurt.
+
+Then the satisfaction became something else.
+
+Sarah picked up the two lunch bags. She folded the tops once, then again, making the creases hard beneath her thumbs.
+
+"We need to leave in six minutes," she said.
+
+"Mom."
+
+"Your lunch is on the counter."
+
+"I didn't mean it like that."
+
+Sarah put Claire's lunch beside Brooke's. "How did you mean it?"
+
+Brooke had no version that would make the sentence harmless.
+
+"I meant you can't make every choice for me."
+
+"Then that is what you should have said."
+
+Claire appeared in the doorway holding her empty bowl. Her gaze moved from Sarah to Brooke and stayed there.
+
+"Are we still going to school?"
+
+"Yes," Sarah said.
+
+"Even if it's closing Monday?"
+
+"It isn't closing Monday."
+
+"That's what schools say before they close."
+
+Normally Brooke would have answered. Sarah would have told Claire that schools were not people and therefore could not plot against her. The rhythm was waiting for them.
+
+Nobody stepped into it.
+
+Sarah took her keys from the hook. "Shoes. Both of you."
+
+On the drive, Claire sat in the back with Cooper's hair stuck to the sleeve of Brooke's hoodie. She talked about a history quiz, stopped after two sentences, and turned to the window.
+
+Sarah drove with both hands on the wheel. The radio reported twenty-seven confirmed hospitalizations statewide, then corrected itself to thirty-one before the traffic update. Officials urged people with symptoms to stay home, drink clear fluids, and contact a medical provider if they became severely dehydrated.
+
+At a red light, Sarah reached for the volume and turned it down.
+
+Brooke watched her hand return to the wheel.
+
+The camera in her bag stayed there.
+
+At school, the workshop email remained unread in Brooke's notifications even though she had opened it four times. She kept swiping it away. It returned whenever she checked the time.
+
+At lunch, Nora Patel asked whether Brooke was still going Saturday. Brooke said the program had canceled. The lie came out flat and easy.
+
+"Because of the outbreak?" Nora asked.
+
+"Probably."
+
+Brooke hated Sarah for making the lie necessary. She hated herself for choosing it.
+
+After final bell, she waited beside Claire's locker while three students blocked the hall in a loose embrace. One of them was crying. The other two held her without speaking until a teacher asked them to move along.
+
+Claire arrived with her backpack open and two pencils caught in her hair.
+
+"Mom's outside," she said.
+
+"I can see that."
+
+Through the front doors, Sarah's car waited at the curb. Sarah looked down at her phone, then toward the entrance. Even through the glass, Brooke could tell she was counting the seconds.
+
+"Are you mad at me?" Claire asked.
+
+"Why would I be mad at you?"
+
+Claire shrugged. "You made it about me."
+
+Brooke looked at the hoodie. "I made it about Mom."
+
+"You said my name a lot for something about Mom."
+
+"Give me my hoodie."
+
+Claire crossed her arms. "It's cold."
+
+Brooke almost told her she had other clothes. The argument from yesterday sat ready, familiar and safe.
+
+"Keep it," she said.
+
+Claire studied her as if this might be a trap. Then she zipped the hoodie higher and started toward the doors.
+
+Sarah did not mention the workshop in the car. At home she carried groceries into the kitchen and began wiping down containers before putting them away, something she had never done before. When Claire asked why, Sarah said there were a lot of germs going around.
+
+Brooke went upstairs.
+
+The cancellation email looked different on her monitor. Larger, not more meaningful. She saved a copy in a folder with the workshop application, her acceptance, and the two-minute film that had earned the seat.
+
+Then she opened her messages with Mark.
+
+His last text had arrived at 5:37 that morning.
+
+*Another day in glamorous Albany. Call tonight. Proud of you, kid.*
+
+Brooke typed beneath it.
+
+*Mom canceled the workshop without asking me. She says it's because you're gone and people are sick, but that's not all of it. She thinks if she watches me closely enough nothing can happen. I said something awful.*
+
+She stopped.
+
+The cursor waited after the period.
+
+If she sent it, Mark would call Sarah. Sarah would know Brooke had made him referee from a hotel two hours away. He would tell Brooke her mother worried because she loved her. He would be right, which would not make Sarah right.
+
+Brooke selected the message and copied it into a blank note instead.
+
+She did not delete it. Deleting and deciding not to send were different things.
+
+Downstairs, a cupboard closed. Water ran. Sarah called to Claire that dinner would be ready in twenty minutes. Her voice sounded ordinary again, which meant she had chosen ordinary and expected the rest of them to follow.
+
+Brooke set her phone against the monitor and opened the camera.
+
+She recorded the workshop email first. Then the acceptance letter. Then the application film paused on its opening frame.
+
+She did not speak. She let the documents occupy the screen long enough to be read.
+
+When she finished, the room had darkened around the monitor. A local-news alert appeared across the corner of the display.
+
+**SAINT VINCENT'S EXPANDS INTAKE AREA AMID SURGE**
+
+Brooke opened it. The article said the hospital remained fully operational. It said most patients were expected to recover. It said temporary outdoor screening had been established to reduce pressure on the emergency department.
+
+Below the article, a photograph showed workers unfolding white privacy screens beside the ambulance entrance.
+
+Brooke saved that too.
+
+She placed the cancellation recording beside the hospital footage in her archive, separate folders sharing the same date. One was evidence that something had been taken from her. The other was evidence that Sarah might have been afraid for a reason.
+
+Both could be true.
+
+Brooke closed neither file.

@@ -4,6 +4,7 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-15
 
+- Drafted Chapter 2, `Permission`, establishing the canceled film workshop, Brooke and Sarah's unresolved adoption wound, the unsent message to Mark, and the first local hospital-surge alert.
 - Revised Chapter 1 from issue #35's developmental review: tightened descriptive and dialogue passages, clarified Sarah's remote-work logistics, grounded the school sequence, made the keypad exposure mechanically fair without blaming Brooke, and locked Mark as an electrician.
 - Created GitHub issues #35 through #63 as drafting and editor-feedback workspaces for all 29 numbered chapters under the `M3: First Draft` milestone.
 - Flattened the manuscript directory and standardized draft filenames as `00_Prologue.md` and `01_Ordinary-Evidence.md`.
