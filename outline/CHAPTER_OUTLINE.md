@@ -179,9 +179,9 @@
 - **Purpose / setting:** Turn Brooke's craft into investigative power.
 - **Emotional goal:** Dread to focused suspicion.
 - **Conflict:** Sarah insists Brooke is interpreting everything cruelly.
-- **Reveal:** Brooke finds the reflective green-eye effect in recorded footage.
-- **Hidden clues / payoff:** Claire whispers `Wait` when she thinks she is alone; the eye effect is clearer on camera.
-- **Character movement:** Brooke chooses recorded evidence over reassurance.
+- **Reveal:** Brooke finds one arguable green reflection in recorded footage but cannot reproduce or validate it.
+- **Hidden clues / payoff:** Accidental audio may contain Claire saying `Wait` when she thinks she is alone, but the clipped word remains open to ordinary interpretations.
+- **Character movement:** Brooke chooses to preserve uncertain evidence without pretending it proves more than it does.
 - **Tension:** 5/10
 - **Found media:** Editing timeline and isolated frames.
 - **Estimated words:** 2,500

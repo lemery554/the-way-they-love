@@ -36,7 +36,7 @@ Every necessary scene in the book, one row per scene, with POV, story day, locat
 | S09 | 7 | Bennett house | Begin behavioral escalation inside affection | Claire wants constant proximity; Brooke needs privacy | Cooper growls at Claire for the first time | **C-ladder C3** ("Sit with me"); Claire doesn't retaliate; Anna first meets uploads off-page | S08 |
 | S10 | 8 | Bennett house / kitchen | Wrongness coexists with daily function | Sarah defends Claire's habits, calls Brooke unkind | Recovered students already returning to school | Claire eats disliked foods; Brooke starts observation list; Mark's text late | S09 |
 | S11 | 9 | Bennett house / phone | Memory as a weapon, not a comfort | Claire uses a shared private memory to coax Brooke closer | Mark's live call has background voices, cuts off | **C-ladder C5**; Claire loosens grip one second; Mark's last live contact | S03, S07, S09 |
-| S12 | 10 | Brooke's room, editing | Turn craft into investigative power | Sarah insists Brooke interprets everything cruelly | Brooke finds the reflective green-eye effect on footage | Eye effect (clearer on camera); Claire whispers "Wait" alone | S09, S10 |
+| S12 | 10 | Brooke's room, editing | Turn craft into investigative power without allowing the mystery to become solvable | Sarah insists Brooke interprets everything cruelly | Brooke finds one arguable green frame, fails to reproduce it, and stops the experiment when Claire invokes her veto | Ambiguous eye reflection; clipped audio may contain "Wait"; Brooke's evidence gathering breaches Claire's trust | S09, S10 |
 
 ## Part III — Recognition
 
@@ -87,7 +87,7 @@ Every planted clue must have its planting scene precede its payoff scene. Confir
 - **Missing journal / second entry:** S21 (AN-03) → leveraged S25 (diner) → resolved S33.
 - **Beach memory / cruel line:** planted S03 (EM-01) → Claire's crack S15 → reread S33.
 - **Red medicine:** S00 → S06.
-- **Green-eye effect:** S12 → (deferred final-image eye effect, TWI-010).
+- **Green-eye effect:** one arguable frame at S12, never clean proof → deferred final-image eye effect (TWI-010).
 - **Whisper repetition:** "Wait" S12 → "Not yet" S22 → "Wait" near Anna S32 (AN-10).
 - **Escape geometry / gun-safe:** rehearsed S24 → siege payoff S30–S31.
 - **911 corruption:** S30 (IN-01), single-beat, self-contained.

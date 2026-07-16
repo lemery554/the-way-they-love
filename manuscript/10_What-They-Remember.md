@@ -94,7 +94,7 @@ That was true as well. Brooke stood up, because the conversation had a floor she
 
 Claire's hand closed around her wrist.
 
-It was not a grab. That was what Brooke would remember later, trying to write it down. Claire did not lunge or clutch. Her hand simply arrived around Brooke's wrist and tightened, and kept tightening, past the pressure of affection and past the pressure of a joke, into a grip with a mechanical evenness behind it, as if the hand were being closed by something that did not know when a wrist was done.
+It was not a grab. Claire did not lunge or clutch. Her hand simply closed around Brooke's wrist and tightened past the pressure of affection and past the pressure of a joke, as if she did not know when a wrist was done.
 
 "Claire."
 
@@ -114,7 +114,7 @@ It happened all at once, her fingers releasing and her whole face changing, the 
 
 "Sorry," she whispered. "I didn't."
 
-Then the second passed. Brooke watched it pass. The fear smoothed out of Claire's face the way a footprint smooths out of wet sand when the water comes back, and the calm returned, and Claire looked at her freed wrist with mild, distant interest.
+Then the second passed. The fear left Claire's face. She looked at Brooke's freed wrist with mild, distant interest.
 
 "You have marks," Claire said.
 
@@ -186,16 +186,12 @@ Sarah set down the dish towel. "His phone dies in there. You know that."
 
 But she had opened the phone's own recording, the one it made of video calls when she remembered to start it, and she had remembered. She put in one earbud in the powder room with the door locked and scrubbed to the last thirty seconds and turned the volume as high as it went, past the point of comfort, into the hiss.
 
-Under her father's voice saying he would try in the morning, under the fan and the bad signal and the flat digital wind of the call, the other voices were there. She could not make out a single word. She played it four times. On the fourth pass, in the last two seconds before the audio cut, one voice came a little clear of the others, close enough to the microphone on Mark's end that a shape almost surfaced out of it, and the shape her ear kept insisting on, the shape she could not prove and could not unhear, was *soon*.
+Under her father's voice saying he would try in the morning, under the fan and the bad signal and the flat digital wind of the call, the other voices were there. She could not make out a single word. She played it twice more and stopped before noise could become language simply because she wanted it to.
 
 She stopped the recording. She sat on the closed lid of the toilet for a while with the earbud still in and the silence in it.
 
 Then she took out her phone and opened *Things I Have Seen*.
 
-*They remember everything.* She looked at it, and thought of Claire counting breaths in the dark eleven years ago, a thing that lived nowhere but inside the two of them, produced tonight like a key cut from a lock Brooke had forgotten she owned. She thought of her father saying *keep an eye on things, you're good at that,* which was true, which had always been true, which was the kind of thing a person who loved you would say and also the kind of thing a person could learn to say by watching you.
-
-She deleted the period and typed the rest of it.
-
-*They remember everything, and they know exactly where to put it.*
+*They remember everything.* She thought of Claire counting breaths in the dark, a memory that lived nowhere but inside the two of them. Claire might only have wanted to remind her that she had once been welcome. Brooke could not tell where remembering ended and pressure began.
 
 Upstairs, faint through the floor, Claire was still humming.

@@ -52,6 +52,8 @@ Resistance fragments surface only under specific triggers: an overwhelming, deep
 
 They remember relationships, routines, nicknames, arguments, passwords, door codes, weapon locations, emotional vulnerabilities, sources of guilt, and sources of safety. They plan, drive when physically capable, use tools, and use weapons. They are not mindless.
 
+Retained memory is not automatically conscious manipulation. Early in the progression, a memory may surface through genuine association and become coercive because the changed person no longer respects the other person's stopping point. More deliberate use of guilt and emotional leverage develops later as the whispers learn human strategy.
+
 ## Direct lying
 
 All changed people are incapable of making a statement they understand to be directly false. They can omit, redirect, answer only part of a question, repeat someone else's words, and allow an unaffected person to reach a false conclusion. Their restraint is not moral honesty. Anna is simply the most sophisticated known user of the limitation.
@@ -93,9 +95,11 @@ Physical contact does not transmit the illness. The craving for touch is psychol
 
 Animals detect the underlying alteration from the early purge onward, before apparent recovery or recognizable behavioral change. They are not reacting merely to fever, smell, or ordinary sickness. Their responses may begin as avoidance, refusal of familiar contact or food, tension, and watchfulness before escalating to directed growls. The mechanism remains unexplained.
 
+Detection does not produce an identical alarm response to every changed person. Familiarity, immediate behavior, distance, and whether the person advances on the animal affect intensity. Anna is changed, but at the dog park she remains still, does not reach, and allows Cooper distance. He stays watchful with a lowered tail rather than reacting as strongly as he does to Claire's repeated approaches inside his home. This is tolerance under controlled conditions, not failure to detect her.
+
 ## Reflective green eyes
 
-Keep the brief eye effect. It is brighter in darkness, sometimes clearer on camera, reflective rather than fantasy-glowing, and associated with stronger control or emotional shifts. Its cause remains unexplained. In the final scene it appears once more — a brief green flicker in Anna's eyes *after* the journal reveal, registered through Cooper's reaction (his whine), never carrying the reveal itself (TWI-010).
+Keep the brief eye effect, but never make it cleanly reproducible proof. It is brighter in darkness, sometimes clearer on camera, reflective rather than fantasy-glowing, and associated with stronger control or emotional shifts. Early footage may contain one arguable frame that could still be sensor noise or ordinary reflection. Brooke cannot summon it on demand or scientifically validate it. Its cause remains unexplained. In the final scene it appears once more — a brief green flicker in Anna's eyes *after* the journal reveal, registered through Cooper's reaction (his whine), never carrying the reveal itself (TWI-010).
 
 ## Naming
 

@@ -14,7 +14,7 @@ Cooper reacts first. Claire becomes violently ill and goes to the hospital. Red 
 
 ## Part Three: Recognition
 
-School remains open and provides Brooke's first proof that the problem extends beyond Claire. Students and staff display excessive closeness, changed food preferences, bathroom waiting, and news-derived language. Brooke's uploads attract matching reports and grow into an information network. She compares footage, comments, food changes, Cooper's behavior, reflective eye effects, and changing broadcasts. Claire cries without knowing why as the beach memory and Brooke's cruel remark echo, showing a fragment of her original personality without offering a coherent warning. Sarah becomes sick. Mark's messages degrade and then stop.
+School remains open and provides Brooke's first proof that the problem extends beyond Claire. Students and staff display excessive closeness, changed food preferences, bathroom waiting, and news-derived language. Brooke's uploads attract matching reports and grow into an information network. She compares footage, comments, food changes, Cooper's behavior, one arguable reflective-eye frame, and changing broadcasts without obtaining clean paranormal proof. Claire cries without knowing why as the beach memory and Brooke's cruel remark echo, showing a fragment of her original personality without offering a coherent warning. Sarah becomes sick. Mark's messages degrade and then stop.
 
 ## Part Four: Sarah and the House
 

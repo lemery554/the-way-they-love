@@ -4,7 +4,7 @@ The comments were still coming the next morning. Brooke did not read them on the
 
 At school the water had risen another inch. She could not stop seeing it now. By third period she wanted out of the building the way you want out of a dream, and she went to the front office and said she had a headache and asked to sign out early.
 
-The woman at the desk was sympathetic and did not let her go. She was sorry Brooke wasn't feeling well. But they were trying to keep everyone in the building through the end of the day, it was so much better for the kids to be together right now, and wouldn't Brooke rather lie down in the nurse's office where people could keep an eye on her than be all alone at home? She said *all alone* like it was the frightening option. She said it gently, and she meant it kindly, and it was the exact inversion of every rule Brooke had ever been taught about a locked door and a stranger, and Brooke understood that the inversion had reached the front office of her own high school and been written down as policy.
+The woman at the desk was sympathetic and did not let her go. District guidance required a parent or listed guardian to sign out any student reporting illness, and Sarah could not leave work. The woman offered the nurse's office instead, where people could keep an eye on Brooke rather than send her home alone. She said *alone* like it was the dangerous part.
 
 She lay in the nurse's office until the final bell and then went home, because home was where Claire was, and there was no version of the day that did not end with Claire.
 
@@ -16,7 +16,7 @@ After dinner Brooke needed to be behind a door.
 
 That was all it was. She was not hiding. She just needed four minutes in a room where no one was watching her, and the hall bathroom was the closest one, and she went in and pushed the little lever lock on the handle and sat on the edge of the tub in the light of the one weak fixture and put her face in her hands and breathed.
 
-She had left her phone in her room. She noticed it the way you notice a missing tooth with your tongue, a reflexive reach into an empty pocket, and then she let it go, because she was not filming anything, she was sitting in a bathroom, and she did not need to record herself sitting in a bathroom. She would think about that later, the smallness of the decision, the ordinary human choice to leave the phone on the charger and go be alone for four minutes without it. She would think about it a great deal.
+She had left her phone charging in her room. She reached toward an empty pocket, then let it go. She was sitting in a bathroom. She did not need to record it.
 
 The knock came soft.
 
@@ -76,11 +76,11 @@ Brooke stood rigid with her arms half-raised and did not hug her back and looked
 
 "Claire, your hand."
 
-"It's fine."
+"It doesn't matter."
 
 "You're bleeding, you cut your hand on the lock."
 
-"It's fine." Claire did not look at it. She did not so much as glance down. Her hand was split open and pressed against her sister's arm and she felt it, Brooke was sure she felt it, no one could not feel that, and it simply did not reach the part of her that would have made her let go and hiss and hold the hand to her chest the way a person does. It registered nowhere. She kept her arms around Brooke and her face against her shoulder and her injured hand where it was, and the not-flinching was worse than a scream would have been.
+"It doesn't matter." Claire did not look at it. Her hand was split open and pressed against Brooke's arm, but the injury was not enough to make her release the hug.
 
 Cooper appeared in the doorway.
 
@@ -92,13 +92,13 @@ But Claire only looked at him. Whatever it was that had made her break a lock an
 
 "He's still weird," Claire said, in a voice that was almost normal, almost her own, and it was that, the almost, that finally undid Brooke's composure.
 
-Sarah came up the stairs then, alerted by the crack of the jamb or by the quality of the quiet. She took in the broken door and the blood and Brooke pinned against the sink with the dog between her and Claire. For one second she only stared at the ruined frame. Then she moved to Claire, and Brooke watched her mother's face perform the calculation Brooke already knew the answer to.
+Sarah came up the stairs then, alerted by the crack of the jamb or by the quality of the quiet. She took in the broken door and the blood and Brooke pinned against the sink with the dog between her and Claire. Her hand closed around the banister. Then she moved to Claire.
 
 "What happened?"
 
 "She broke the lock," Brooke said. Her voice came out flat and careful and much steadier than she felt. "I closed the door and she broke the lock to get in."
 
-"The lock's ancient, it barely worked." Sarah was already reaching for Claire's hand, turning it over, her mouth tightening at the torn knuckles. "Claire, baby, look what you did to yourself. Why would you do that?"
+Sarah looked once more at the splintered jamb. "The lock was old." She reached for Claire's hand and turned it over, her mouth tightening at the torn knuckles. "Claire, baby, look what you did to yourself. Why would you do that?"
 
 "I wanted to be with Brooke."
 
@@ -122,13 +122,9 @@ Sarah was pressing a towel to Claire's knuckles. Claire watched her do it with m
 
 Brooke went. She kept her hand in Cooper's collar and drew the dog with her out of the bathroom and down the hall to her own room, and she shut the door, and she stood in the middle of the room with her heart slamming and understood the true horror of the last ten minutes only now that it was over.
 
-She had no footage.
+She had no footage. Sarah had already called the lock old, and Brooke could feel the scene becoming arguable.
 
-It had happened in a bathroom with no camera and her phone on the charger six feet from where she now stood, and there was no clip, no timestamp, no frame she could isolate and export and back up in triplicate. There was only what she remembered, and she was already, standing there, feeling it start to move. Had the hand really not flinched, or had she wanted it not to. Had Claire really said *there you are* in that voice, or was her frightened mind scoring it after the fact. In a day, in a week, when her mother said the lock had simply been old and Claire had simply been clingy and Brooke had simply been shut in a bathroom refusing her sister, Brooke would have nothing to hold the real thing in place, nothing but a memory, and memory was the one thing she had never trusted, the reason she had bought her first camera, the reason she recorded her whole life instead of living inside it. Her deepest, oldest fear was that she would misremember the people she loved. Tonight it had walked through a broken door and hugged her, and she had not been filming.
-
-She wrote it down anyway, fast, everything, while it was still sharp, the way you preserve a dream before the daylight takes it. The door. The turning handle. *I can't be out here.* The blood on the lever. The hand that did not flinch. *There you are.* Cooper's body forcing the inch of space. She wrote it all into *Things I Have Seen* with the time at the top, knowing as she typed that a written account was not proof, that anyone could write anything, that this was the weakest evidence she had ever collected, and collecting it anyway because the alternative was to let it dissolve.
-
-Then she added the sentence that had been forming under everything all week, the one she had not been willing to write while there was still a version of this where Claire was only a little sister who had almost died.
+She wrote it down while it was sharp: the turning handle, the blood on the lever, *There you are*, Cooper forcing an inch of space. A written account was not proof, but it was what she had.
 
 *It isn't trauma. I don't know what it is, but trauma does not explain all of it.*
 
@@ -136,4 +132,4 @@ Across the hall, through the wall, she heard the water run in the bathroom while
 
 So she had felt it. She had felt it the whole time. It had hurt, and she had known it hurt, and it simply had not been enough to make her stop.
 
-Brooke stayed against the wall with Cooper leaning warm and trembling into her legs, and listened to her sister feel pain in private that she had refused to feel in the room, and was, for the first time, past wariness, all the way into fear.
+Brooke stayed against the wall with Cooper leaning into her legs. Claire had felt the injury. It simply had not mattered until Brooke was no longer within reach.
