@@ -6,4 +6,6 @@ These images are development references, not automatically print-ready covers. B
 
 ## Current concepts
 
-- `the-way-they-love-cover-concept-01.jpg`: front-cover concept featuring Brooke, Cooper, and the Bennett house
+- `the-shape-love-takes-cover-concept-01.jpg`: current front-cover concept using the heading `Something is wrong with them.`
+
+The prior-title concept is retained under `archive/cover-concepts/`.

@@ -58,6 +58,10 @@ The fingers disappeared.
 
 Brooke closed and locked the door.
 
+The room showed the evidence of the night's absence. Her loosened screen leaned against the wall. One shoe remained beside the window where she had left it. The old phone on the desk displayed the automatic diner-recording filename she had sent before leaving.
+
+Brooke photographed the closed door, the time, the backpack, and Cooper's wrapped paw. Then she placed the phone where the charger could reach without pulling it from her hand.
+
 She moved before Sarah could reconsider. Desk chair beneath the handle. Low dresser dragged across the carpet and wedged behind it. The sound was loud enough that pretending became impossible.
 
 "Brooke," Sarah said.
@@ -79,6 +83,8 @@ Sarah knocked once. "You came home because you knew you needed us."
 Brooke powered on the camera instead of answering. The battery showed forty-one percent. She set it on the desk facing the door and pressed record.
 
 "It is Sunday morning," she said quietly. "I got home after the police and other people tried to return me. My mother let me in. Now she won't let me leave my room unless I leave the door open."
+
+She gave the date, then corrected herself when exhaustion made her say Saturday. The correction stayed in the recording. A trustworthy record did not pretend the witness was perfect.
 
 "That is not what I said," Sarah called.
 
@@ -176,6 +182,20 @@ The call ended.
 
 Brooke stared at the screen. Two percent battery.
 
+The call log listed the address and duration. Brooke took a screenshot before the phone could die again. She held the screen toward the camera and read the dispatcher's exact phrases from memory while they were fresh.
+
+> Do not antagonize your mother.
+>
+> Separation distress.
+>
+> She is still your mother, Brooke.
+>
+> Welfare return.
+>
+> Remain with your family.
+
+The list sounded less frightening without the dispatcher's calm voice. Brooke saved it anyway.
+
 Outside the door, Claire whispered, "They said to stay."
 
 "You heard one side of it."
@@ -223,6 +243,20 @@ Sarah's voice changed. Not louder. Less careful.
 "Because you needed me."
 
 "Because you needed me here."
+
+"Because I know what happens when nobody is there," Sarah said. "Your father disappears. Strangers find your school. People follow you through the dark. You come home bleeding and freezing. Every time I let you prove you can handle something alone, somebody hurts you."
+
+"You canceled the one thing that could help me leave."
+
+"I canceled a workshop."
+
+"You made it a rule. Then the school made it a rule. Then the police made it a rule."
+
+"I am not the police."
+
+"You use the same words."
+
+Sarah's hand struck the door once, not hard enough to break it. "Because the words are true."
 
 The door moved inward half an inch. The chair legs scraped.
 
@@ -276,6 +310,22 @@ The honesty hurt worse than another plea.
 
 "Because I love you."
 
+Brooke sat with her back against the dresser. On the other side, Sarah lowered herself too. Brooke heard fabric slide down the wood.
+
+"You are my mother," Brooke said.
+
+Sarah drew a breath.
+
+"I meant what I said outside. I love you."
+
+"Then open the door."
+
+"Love isn't the door."
+
+The sentence sounded like something Brooke would edit out for being too neat. Sarah began to cry harder.
+
+"It is for me," she said.
+
 Brooke lowered her hands.
 
 The hall went quiet.
@@ -297,6 +347,12 @@ Then metal struck metal in the garage.
 Brooke knew the sound because she had mistaken the file cabinet for it two days earlier.
 
 The safe door.
+
+Brooke looked at the camera. Its red recording light remained on. She said what she knew without claiming more.
+
+"The safe is in the attached garage. Dad showed Mom the combination for emergencies. The shotgun was secured when I called. I think she is opening it now."
+
+She checked the phone. Four percent. No missed call from police. No approaching siren.
 
 Mark had shown Sarah the electronic combination when he bought the safe. If the alarm failed or he was hurt, she was supposed to know how to reach the twelve-gauge pump shotgun inside. Brooke had watched him make Sarah enter the numbers twice.
 
@@ -336,6 +392,10 @@ The shotgun fired.
 
 Sarah fired low and diagonally through the latch-side jamb, away from the center of the room. The buckshot tore through wood, lock metal, and the front corner of the dresser before burying itself in the floor and side wall. The chair overturned. The damaged door kicked inward against the barricade.
 
+For an instant the room filled with powdered drywall and the bitter smell of burned propellant. A lamp fell from the dresser. Pellets struck the side wall in a pattern Brooke would later have been able to measure if later still belonged to her.
+
+The camera toppled but continued recording from the carpet. Its frame held the ruined lower door, the dresser corner, and nothing outside the window.
+
 Cooper tried to bolt down the roof. Brooke held him until the echo left the air.
 
 Downstairs, Claire screamed.
@@ -355,6 +415,8 @@ The upstairs window opened wider behind them.
 "Brooke, wait."
 
 She ran through the side gate and into the street.
+
+The backpack struck her spine with every step. The camera inside was still recording. Her phone, external drive, diner audio, gas-station video, and photographs remained with her. For once the evidence and the person who made it escaped together.
 
 A car alarm began shrieking two houses away. Porch lights came on. A man opened his front door, saw Sarah in the upstairs window with the shotgun, and disappeared inside again.
 

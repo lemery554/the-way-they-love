@@ -10,6 +10,10 @@ Brooke stepped onto the porch and tried the handle.
 
 Locked.
 
+The window chimes Sarah had installed glowed red along the frames. The chair beneath the inside handle cast a crooked shadow through the sidelight. Sarah had turned the house into the secure place Brooke demanded, only the security faced both directions now.
+
+Cooper lifted the injured paw and leaned against Brooke's shin. She crouched to check the gauze. It had gone dark with water and dirt but held. Her fingers shook too badly to retie it.
+
 She knocked softly. "Mom."
 
 Nothing moved inside.
@@ -55,6 +59,8 @@ Silence.
 That was also true.
 
 The car at the corner rolled forward. Not fast. Its headlights moved across the neighboring lawns and stopped halfway down the block.
+
+The woman in the first car had been on the porch behind the swing set. Brooke recognized the pale robe beneath her open coat. The second vehicle was the sedan from outside the gas station, or one like it. No group had planned to converge here. Sarah's bulletin and a night of phone calls had simply taught the neighborhood where kindness should deliver Brooke.
 
 "Mom, let me in."
 
@@ -130,6 +136,10 @@ The porch stayed silent.
 
 "I thought you were trying to keep me because you didn't trust me. I thought leaving would prove I could take care of myself." Brooke looked at Cooper's lifted paw. "I was wrong."
 
+The words were true in the narrowest possible way. Brooke had been wrong that leaving proved anything. She had been wrong that evidence could make strangers respect her decision. She had been wrong that outside meant free.
+
+Inside, Sarah heard the version she needed.
+
 The choice in front of her had nothing to do with Sarah being right. The woman was halfway across the yard, another car had stopped at the curb, and Cooper could barely stand on one paw. Brooke could choose the people closing around her or the locked house whose windows and exits she knew. She chose the house.
 
 The second car stopped in front of the house.
@@ -168,6 +178,8 @@ The dead bolt turned.
 
 The door opened six inches. Sarah stood behind it in Mark's old sweatshirt, her face pale with exhaustion. Claire pressed against her side.
 
+Sarah's eyes moved over Brooke with a speed that felt like touch: torn coat, wet jeans, backpack, dog, empty hands. She checked the yard after checking Brooke. She was still the mother who counted dangers before allowing relief.
+
 Cooper forced his nose through the opening first.
 
 Sarah looked past Brooke at the people near the sidewalk.
@@ -185,6 +197,12 @@ Sarah locked the dead bolt. Then the chain. Then she pushed the chair beneath th
 "She's with her family," Sarah called.
 
 The knocking stopped.
+
+"An officer is coming," the woman said through the door.
+
+"Thank you," Sarah answered. Her voice carried the firm politeness she used with delivery drivers and school secretaries. "We'll wait inside."
+
+Footsteps withdrew across the porch. A car door closed, but the engine remained running at the curb.
 
 Brooke stood in the foyer with Claire's arms around her and Cooper pressed between their legs. For several seconds relief was stronger than fear. The house smelled like coffee, laundry detergent, and the soup Sarah had made two days earlier. The stairs rose toward Brooke's room. Her charger was upstairs. The window was upstairs.
 
@@ -233,3 +251,11 @@ Sarah did not look toward the door.
 She looked only at Brooke.
 
 "You came home," she said.
+
+Brooke looked at the chain, the chair, and Sarah's bare feet planted between her and the stairs.
+
+"Yes," Brooke said.
+
+Sarah smiled with exhausted tenderness. "I knew you would."
+
+The certainty made Brooke understand that the front-door bargain had not ended anything. It had only taught Sarah which words opened Brooke.

@@ -4,6 +4,10 @@
 
 Development repository for *The Shape Love Takes*, a psychological family-horror novel about trust, memory, and love becoming possession.
 
+![Cover concept for The Shape Love Takes](assets/cover-concepts/the-shape-love-takes-cover-concept-01.jpg)
+
+*Early cover concept. Final production artwork, typography, dimensions, and print specifications remain subject to the self-publishing design process.*
+
 ## Story hook
 
 When a violent stomach illness sweeps through her suburban town, seventeen-year-old Brooke Bennett turns to her camera to preserve the truth. The people who survive seem healthy, but recovery leaves them desperate for affection, reassurance, and physical closeness. They still remember every private joke, family argument, password, and regret. They still say they love you. They simply no longer understand why love should ever let someone leave.

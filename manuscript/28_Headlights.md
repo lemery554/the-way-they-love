@@ -12,6 +12,8 @@ Anna sat behind the wheel.
 
 She wore the same blue cardigan from the diner. A brown coffee stain marked one cuff.
 
+She looked imperfectly prepared. The cardigan was wrinkled. An empty paper cup sat in the console. Her hair had fallen loose from the style Brooke had noticed at the diner. If she had been waiting all night, the waiting had cost her something visible.
+
 "Brooke."
 
 Brooke looked behind her. Sarah had reached the front yard. She was barefoot, still holding the shotgun angled toward the ground.
@@ -39,6 +41,16 @@ Brooke reached the car.
 "Where?"
 
 "On Hawthorne. Two streets over." Anna hesitated. "I heard the shot."
+
+"You followed me."
+
+"I followed the roads after other people followed you. Then I stopped."
+
+"Why Hawthorne?"
+
+"It connects the town center to your neighborhood without passing the front of your house."
+
+Brooke knew the route. It was the same road she used when filming long walks with Cooper. Anna could have learned it from those videos, a map, or prior surveillance. The answer explained location without innocence.
 
 The answer should have frightened her.
 
@@ -69,6 +81,12 @@ She pulled the seat forward and Cooper climbed into the back, dragging the sore 
 Brooke closed the passenger door herself.
 
 Anna drove.
+
+Brooke kept one hand on the door handle until the house disappeared. The lock was mechanical. She tested it once. It opened.
+
+Anna heard the click. "You can leave it unlocked."
+
+She did not activate the child lock or ask Brooke to stop. Brooke closed the door again because cold air rushed through the seal.
 
 Sarah reached the car too late. Her palm struck the rear window once, then slid away. Anna did not accelerate hard or swerve. She turned onto the back road with both hands steady on the wheel.
 
@@ -118,6 +136,10 @@ Brooke found two sealed bottles, a folded towel, and a paper pharmacy bag holdin
 
 "You told me what happens when people push you."
 
+The supplies were ordinary enough to belong in any careful driver's car: drugstore first-aid kit, old towel, bottled water, flashlight. The gauze package had already been opened. Anna said she had used some on her own hand after the coffee burn blistered.
+
+Brooke checked the burn. A pink crescent crossed Anna's thumb. It made the diner spill feel less like a planted imperfection and more like a mistake that continued after Brooke stopped watching.
+
 Brooke had told everyone.
 
 "Did you take my journal?"
@@ -133,6 +155,34 @@ Anna's eyes stayed on the road.
 For the first time, Anna sounded frustrated. The single word came too quickly, aimed at Brooke's accusation about the answer rather than the question beneath it. She breathed in through her nose.
 
 "I should have answered differently."
+
+"Answer now."
+
+Anna's jaw tightened. "You are hurt and exhausted."
+
+"That's true and not an answer."
+
+"Yes."
+
+"Did you take it?"
+
+Anna looked ahead. "If I answer the wrong question, you will hear what you need instead of what I say."
+
+"Then answer the right one."
+
+"I do not know which question that is yet."
+
+Each sentence preserved the possibility Brooke feared without confirming it. Brooke reached for the door handle again.
+
+Anna slowed and pulled onto the shoulder.
+
+"If you want to get out, I will stop," she said.
+
+Brooke looked back. The road behind them was empty, but Ashcroft remained only minutes away. Police had her description. Sarah had a gun. Cooper could barely walk.
+
+"Keep driving," Brooke said.
+
+Anna did.
 
 Brooke looked at the dark profile she had wanted to resemble. Anna had been near the house. Anna knew private words. Anna had waited within hearing distance of the shotgun.
 
@@ -178,6 +228,28 @@ Brooke took out her phone and started an audio recording. She left it facedown i
 
 "There is a motel beyond the county line. It allows dogs. We can stop there, or keep driving."
 
+"Whose name is the room under?"
+
+"Mine."
+
+"Do you have an extra phone?"
+
+"No."
+
+"Did you tell anyone you were waiting?"
+
+"No."
+
+"Can I choose a different motel?"
+
+"Yes."
+
+"Can I keep the room key?"
+
+"Yes."
+
+Brooke asked until she ran out of practical tests. Anna never sounded offended by suspicion. Sarah had always treated distrust as an injury. Anna treated it as a right.
+
 The car heater warmed Brooke's wet jeans. Cooper's breathing slowed behind her.
 
 Anna kept both hands on the wheel. She did not ask Brooke to call her anything. She did not ask for forgiveness or gratitude. She did not touch Brooke.
@@ -203,6 +275,8 @@ Brooke closed her eyes.
 She had not hugged anyone willingly since Claire got sick.
 
 Anna returned her hand to her lap before Brooke pulled away.
+
+Brooke remained close for one breath after the pressure disappeared. Anna had answered the hug without converting it into restraint. That single absence felt larger than every promise made that night.
 
 "Try to sleep," she said.
 

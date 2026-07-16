@@ -32,10 +32,10 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 - `23_Pack-Light.md`: developmental rewrite D
 - `24_Outside.md`: developmental rewrite D
 - `25_Contact.md`: developmental rewrite D
-- `26_You-Came-Home.md`: Chapter 26 first draft
-- `27_Separation-Distress.md`: Chapter 27 first draft
-- `28_Headlights.md`: Chapter 28 first draft
-- `29_Continue-Learning.md`: Chapter 29 first draft
+- `26_You-Came-Home.md`: developmental rewrite E
+- `27_Separation-Distress.md`: developmental rewrite E
+- `28_Headlights.md`: developmental rewrite E
+- `29_Continue-Learning.md`: developmental rewrite E
 
 ## Chapter issue workflow
 

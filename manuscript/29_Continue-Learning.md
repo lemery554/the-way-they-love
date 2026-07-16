@@ -12,6 +12,8 @@ He lay across the back seat with his sore paw extended, head raised whenever the
 
 Anna drove without the radio.
 
+The motel remained seventeen miles ahead according to the road sign. Anna passed one turnoff without slowing. The final-drive recording continued to collect tires, heater fan, Cooper's breathing, and the occasional click of a turn signal.
+
 At a long, empty stretch between intersections, she opened the center console.
 
 The blue journal lay beneath a folded map.
@@ -19,6 +21,8 @@ The blue journal lay beneath a folded map.
 Its cover was worn at the corners. A pale rectangle marked where a sticker had once been. Brooke had searched drawers, accused Claire, and locked the keepsake box around the absence of it.
 
 Anna placed the journal open across her lap while keeping one hand on the wheel.
+
+She had wrapped it in a clear produce bag against moisture. A receipt from an Ashcroft pharmacy marked a page near the middle. The date on the receipt was the day Brooke first found the photograph moved.
 
 She did not begin at the first page.
 
@@ -35,6 +39,10 @@ Underneath, in darker ink added later, Brooke had written:
 *I think safety was believing the water would stop because I asked it to.*
 
 Anna read the sentence twice.
+
+On the facing page Brooke had listed things that made a place safe: a door she could close, Cooper nearby, batteries charged, someone who waited for an answer. Two items had been crossed out in later ink.
+
+Anna read those too.
 
 Cooper lifted his head.
 
@@ -55,6 +63,14 @@ Anna returned to the page.
 Brooke shifted against the window but did not wake.
 
 Anna rested two fingers beneath the sentence about safety, following the handwriting without touching the ink. Then she turned back to the page where Brooke had written that a camera could know her without asking for trust. A folded corner marked it.
+
+The fold was softened from being opened more than once.
+
+Cooper saw it. His nose moved toward the familiar paper, then toward Brooke asleep beyond the front seat. He gave another quiet whine.
+
+Anna waited again.
+
+She had learned that force made Brooke run, guilt made her fight, and pursuit taught her to hide. She did not need to understand why the lessons worked. She only needed to keep using them.
 
 Outside, the road bent away from Ashcroft.
 

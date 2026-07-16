@@ -108,6 +108,8 @@ Projected contribution: approximately 12,000 words.
 
 Chapters 26 through 29.
 
+**Completed first developmental pass:** approximately 5,930 words. The pass preserves the ending's required speed while completing the front-door bargain, siege logistics, engineered pickup, Brooke's conscious trust decision, and quiet journal proof. Further expansion should follow a manuscript-wide structural audit rather than slowing the climax to meet a numerical target.
+
 Primary goals:
 
 - preserve speed
