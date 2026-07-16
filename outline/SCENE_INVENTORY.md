@@ -87,7 +87,7 @@ Every planted clue must have its planting scene precede its payoff scene. Confir
 - **Missing journal / second entry:** S21 (AN-03) → leveraged S25 (diner) → resolved S33.
 - **Beach memory / cruel line:** planted S03 (EM-01) → Claire's crack S15 → reread S33.
 - **Red medicine:** S00 → S06.
-- **Green-eye effect:** one arguable frame at S12, never clean proof → deferred final-image eye effect (TWI-010).
+- **Green-eye effect:** one arguable frame at S12, never clean proof; it does not recur in the final image.
 - **Whisper repetition:** arguable "Wait" S12 → ambiguous reader-facing fragment near Anna S32 (AN-10). No changed person holds a clear audible conversation with an unseen presence.
 - **Escape geometry / gun-safe:** rehearsed S24 → siege payoff S30–S31.
 - **911 corruption:** S30 (IN-01), single-beat, self-contained.
@@ -97,4 +97,4 @@ Every planted clue must have its planting scene precede its payoff scene. Confir
 
 ## Open questions
 
-The Ch 6 / 26 / 27 scene splits are confirmed kept (OQ-08 resolved) and AN-02's object is locked (OQ-09 resolved). The remaining pacing check (~2,350 words/scene across 34 scenes vs found-media ratio) is tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-10). Deferred beats (ending eye effect TWI-010, final line TWI-011) are intentionally not scened here.
+The Ch 6 / 26 / 27 scene splits are confirmed kept (OQ-08 resolved) and AN-02's object is locked (OQ-09 resolved). The remaining pacing check (~2,350 words/scene across 34 scenes vs found-media ratio) is tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-10). The ending now omits the green-eye marker and uses the drafted final line, "Anna turned the page and continued learning how to love her."

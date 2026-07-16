@@ -4,7 +4,7 @@
 
 Brooke slept against the passenger window.
 
-Her phone lay facedown in her lap, Sarah's message unanswered beneath the dark screen. One hand remained curled near the center console, close enough to Anna that the space between them looked accidental.
+Her phone lay facedown in her lap, the recording still running and Sarah's message unanswered beneath the dark screen. One hand remained curled near the center console, close enough to Anna that the space between them looked accidental. The last image in her camera roll was Claire at the beach, half buried in sand and wearing Brooke's towel.
 
 Cooper did not sleep.
 
@@ -21,8 +21,6 @@ Its cover was worn at the corners. A pale rectangle marked where a sticker had o
 Anna placed the journal open across her lap while keeping one hand on the wheel.
 
 She did not begin at the first page.
-
-She knew where to look.
 
 The copied name appeared near the front in Brooke's childhood handwriting, each letter practiced several times beneath sentences from the original letter. Later pages held questions Brooke had never uploaded. Whether Sarah loved Claire differently. Whether being chosen once could outweigh being left first. Whether recording people was easier because a camera could know her without asking her to trust it.
 
@@ -42,8 +40,6 @@ Cooper lifted his head.
 
 His eyes fixed on the journal, then on Anna.
 
-Passing light moved across the windshield. For an instant, a pale green reflection crossed Anna's eyes.
-
 Cooper gave a low, uncertain whine.
 
 Anna looked at him in the mirror.
@@ -58,7 +54,7 @@ Anna returned to the page.
 
 Brooke shifted against the window but did not wake.
 
-Anna rested two fingers beneath the sentence about safety, following the handwriting without touching the ink. The journal had given her the name, the resemblance, the wound, and the exact distance from which Brooke could be approached without running. It had taught her why demands failed. It had shown her that patience could feel like permission, and permission could feel like love.
+Anna rested two fingers beneath the sentence about safety, following the handwriting without touching the ink. Then she turned back to the page where Brooke had written that a camera could know her without asking for trust. A folded corner marked it.
 
 Outside, the road bent away from Ashcroft.
 

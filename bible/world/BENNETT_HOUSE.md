@@ -67,11 +67,11 @@ Anna recovers the keypad code from an old public family video and enters through
 
 ### Sarah and the gun
 
-From Brooke's closed door, Sarah goes down the stairs, crosses the foyer, enters the garage through the mudroom, opens Mark's secured safe, and returns by the same route. The distance creates the siege's long silence. Sarah's memory of the combination or key location is the point.
+From Brooke's closed door, Sarah goes down the stairs, crosses the foyer, enters the garage through the mudroom, opens Mark's secured electronic safe, and returns by the same route. Mark previously required Sarah to learn the combination for household emergencies, so her access is retained family knowledge rather than unexplained skill. The safe contains his twelve-gauge pump shotgun, stored with 2¾-inch low-recoil No. 4 buckshot. The distance creates the siege's long silence.
 
 ### Bedroom siege and escape
 
-Brooke pushes her desk chair and a low dresser against the inward-opening bedroom door. Sarah fires from the hall at an angle through the latch-side panel. Brooke is crouched beyond the direct line behind the bed. The shots make the barricade untenable without placing Brooke conveniently in their path. She opens the rear window, lowers herself onto the shallow porch roof, crosses to its low edge, drops into the backyard, and runs toward the side gate or woods.
+Brooke pushes her desk chair and a low dresser against the inward-opening bedroom door. Before firing, Sarah hears the open window and Cooper's claws on the sill, orders Claire downstairs, and knows Brooke has moved outside below the window line. Sarah fires once from the hall, low and diagonally through the latch-side jamb, away from the room's center. The shot destroys the latch, damages the dresser corner, and terminates in the floor and side wall. Her intent is to breach the barrier and regain access, but the act still creates lethal risk and proves that possessive protection can justify violence. Brooke lowers herself from the rear window onto the shallow porch roof, crosses to its low edge, drops into the backyard, and runs toward the side gate or woods. A nearby car alarm and porch lights acknowledge the blast; no police arrive before Brooke escapes because the earlier call was downgraded as a family welfare return during reduced staffing.
 
 ## Sound map
 

@@ -461,7 +461,7 @@
 - **Tension:** 7/10, quiet rather than explosive.
 - **Found media:** None.
 - **Estimated words:** 2,300
-- **Continuity:** Anna rereads the beach passage; a brief reflective green flicker crosses her eyes (passing light), and **Cooper — the detector — reacts to it; his whine is that reaction**. She waits until he settles and turns the page. The eye effect comes *after* the reveal and never carries it (TWI-010). Exact final sentence remains deferred to drafting (TWI-011; banked direction: "continued learning how to love her").
+- **Continuity:** The sole controlled POV exception remains explicit. Anna rereads the beach passage while Brooke sleeps and Cooper watches. Cooper's unease and recognition of the stolen journal carry the warning without a final green-eye marker. The drafted final sentence is: "Anna turned the page and continued learning how to love her."
 - **Question answered / created:** Was Anna Brooke's mother? / How much more can learned love become?
 
 ## Architecture totals and gates

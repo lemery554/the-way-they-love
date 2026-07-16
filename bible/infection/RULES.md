@@ -99,7 +99,7 @@ Detection does not produce an identical alarm response to every changed person. 
 
 ## Reflective green eyes
 
-Keep the brief eye effect, but never make it cleanly reproducible proof. It is brighter in darkness, sometimes clearer on camera, reflective rather than fantasy-glowing, and associated with stronger control or emotional shifts. Early footage may contain one arguable frame that could still be sensor noise or ordinary reflection. Brooke cannot summon it on demand or scientifically validate it. Its cause remains unexplained. In the final scene it appears once more — a brief green flicker in Anna's eyes *after* the journal reveal, registered through Cooper's reaction (his whine), never carrying the reveal itself (TWI-010).
+Keep the brief eye effect, but never make it cleanly reproducible proof. It is brighter in darkness, sometimes clearer on camera, reflective rather than fantasy-glowing, and associated with stronger control or emotional shifts. Early footage may contain one arguable frame that could still be sensor noise or ordinary reflection. Brooke cannot summon it on demand or scientifically validate it. Its cause remains unexplained. The effect does not appear in the final scene. Anna's stolen journal and Cooper's unease provide the ending's proof and warning without a conventional visual monster marker.
 
 ## Naming
 

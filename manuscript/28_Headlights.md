@@ -34,7 +34,11 @@ Brooke reached the car.
 
 "How are you here?"
 
-"I was waiting nearby."
+"I stayed after you left the diner."
+
+"Where?"
+
+"On Hawthorne. Two streets over." Anna hesitated. "I heard the shot."
 
 The answer should have frightened her.
 
@@ -67,6 +71,8 @@ Brooke closed the passenger door herself.
 Anna drove.
 
 Sarah reached the car too late. Her palm struck the rear window once, then slid away. Anna did not accelerate hard or swerve. She turned onto the back road with both hands steady on the wheel.
+
+In the side mirror, Sarah ran toward the driveway. The garage light came on before the trees hid the house.
 
 Brooke watched the Bennett house shrink in the side mirror.
 
@@ -102,7 +108,7 @@ Anna's hands tightened on the wheel. "Were you hit?"
 
 "There is water behind your seat."
 
-Brooke found two sealed bottles and a folded towel. She poured water into Cooper's collapsible bowl. Anna had not known Brooke would still have it. She had prepared for a dog anyway.
+Brooke found two sealed bottles, a folded towel, and a paper pharmacy bag holding gauze and antiseptic spray. She poured water into Cooper's collapsible bowl. Anna had not known Brooke would still have it. She had prepared for a dog anyway.
 
 "You knew I was going to run," Brooke said.
 
@@ -113,6 +119,24 @@ Brooke found two sealed bottles and a folded towel. She poured water into Cooper
 "You told me what happens when people push you."
 
 Brooke had told everyone.
+
+"Did you take my journal?"
+
+Anna's eyes stayed on the road.
+
+"I know why you are asking."
+
+"That isn't an answer."
+
+"No. It isn't."
+
+For the first time, Anna sounded frustrated. The single word came too quickly, aimed at Brooke's accusation about the answer rather than the question beneath it. She breathed in through her nose.
+
+"I should have answered differently."
+
+Brooke looked at the dark profile she had wanted to resemble. Anna had been near the house. Anna knew private words. Anna had waited within hearing distance of the shotgun.
+
+Brooke did not forget any of it. She measured it against Sarah firing through the bedroom door, police returning her to that house, and Cooper's scraped paw trembling on the back seat.
 
 She wet the towel and cleaned dirt from Cooper's paw. The pad was scraped, not split. He watched Anna through the gap between the seats.
 
@@ -140,13 +164,19 @@ Anna took a second too long to answer.
 
 "I was watching for you."
 
-Brooke could have asked what that meant. She could have played the diner audio and listened for every narrow answer. She could have demanded to know why Anna had been waiting near her house.
+"Why didn't you come to the door?"
 
-Instead she rested her head against the seat.
+"I almost did when the cars stopped outside." Anna rubbed her thumb once across the coffee stain on her cuff. "I thought seeing me might make you run again."
+
+Brooke took out her phone and started an audio recording. She left it facedown in her lap.
 
 "I don't know what happens now."
 
 "You do not have to decide now."
+
+"Where is quiet?"
+
+"There is a motel beyond the county line. It allows dogs. We can stop there, or keep driving."
 
 The car heater warmed Brooke's wet jeans. Cooper's breathing slowed behind her.
 
@@ -154,7 +184,9 @@ Anna kept both hands on the wheel. She did not ask Brooke to call her anything. 
 
 Brooke thought of the porch, Sarah's face behind the opening door, Claire's arms around her, and the gunshot breaking the room where she had once believed a lock meant privacy.
 
-She reached across the console.
+Anna turned into an unlit scenic pull-off and stopped beneath a bare oak. She shifted into park but left the engine and heater running.
+
+Brooke reached across the console.
 
 Anna did not move toward her.
 
@@ -162,7 +194,7 @@ Brooke wrapped both arms around Anna as far as the seat belt allowed and pressed
 
 For one moment Anna remained perfectly still.
 
-Then she lifted one hand from the wheel and rested it lightly against Brooke's back.
+Then she lifted one hand and rested it lightly against Brooke's back.
 
 No grip. No pull. Only enough pressure to answer.
 
@@ -170,15 +202,15 @@ Brooke closed her eyes.
 
 She had not hugged anyone willingly since Claire got sick.
 
-Anna returned her hand to the wheel before Brooke pulled away.
+Anna returned her hand to her lap before Brooke pulled away.
 
 "Try to sleep," she said.
 
 "Where are we going?"
 
-"Away from all of this."
+"To the motel first. After that, you decide."
 
-Brooke watched the dark road unspool ahead of them.
+Anna put the car in gear. Brooke watched the dark road unspool ahead of them.
 
 It was not an answer.
 

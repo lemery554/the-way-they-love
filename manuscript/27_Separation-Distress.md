@@ -126,7 +126,11 @@ The dispatcher said, "Try to remain calm."
 
 "Send someone."
 
-"A unit has been notified. Do not antagonize your mother while you wait."
+"The weapon is secured?"
+
+"Right now."
+
+Keys clicked beneath the dispatcher's voice. "Your address is attached to an active missing-minor return. A unit has been notified. Do not antagonize your mother while you wait."
 
 "She can hear this."
 
@@ -156,7 +160,7 @@ She had given the address. She had not given her name.
 
 The dispatcher did not answer the question.
 
-"Brooke, officers are managing multiple family-reunification calls. If your mother is calm, do not escalate the situation."
+"Brooke, officers are managing multiple family-reunification calls. Your report is coded as a welfare return because the weapon remains secured. If your mother is calm, do not escalate the situation."
 
 "You didn't send anyone."
 
@@ -166,7 +170,7 @@ The dispatcher did not answer the question.
 
 A pause.
 
-"Remain with your family."
+"Reduced staffing has extended response times. Remain with your family."
 
 The call ended.
 
@@ -214,7 +218,7 @@ Sarah's voice changed. Not louder. Less careful.
 
 "After everything I have done to keep you safe."
 
-"You canceled the workshop. You took my phone. You called the school. You took my key. You reported me missing."
+"You canceled the workshop. You took my key. You reported me missing."
 
 "Because you needed me."
 
@@ -294,6 +298,8 @@ Brooke knew the sound because she had mistaken the file cabinet for it two days 
 
 The safe door.
 
+Mark had shown Sarah the electronic combination when he bought the safe. If the alarm failed or he was hurt, she was supposed to know how to reach the twelve-gauge pump shotgun inside. Brooke had watched him make Sarah enter the numbers twice.
+
 She lifted the window.
 
 "Cooper."
@@ -320,15 +326,19 @@ The door shuddered.
 
 "I don't want to hurt you," Sarah said.
 
-Brooke crouched below the window line, one hand locked in Cooper's harness.
+Brooke heard Sarah order Claire downstairs. Claire protested once, then her footsteps retreated toward the landing.
+
+Brooke crouched outside below the window line, one hand locked in Cooper's harness. From the hall, Sarah could hear the open window and the scrape of Cooper's nails. She knew Brooke was no longer standing behind the door.
+
+"I'm opening it," Sarah said.
 
 The shotgun fired.
 
-The blast punched through the latch side of the bedroom door. Wood and metal struck the far wall. The chair overturned. The dresser shifted.
+Sarah fired low and diagonally through the latch-side jamb, away from the center of the room. The buckshot tore through wood, lock metal, and the front corner of the dresser before burying itself in the floor and side wall. The chair overturned. The damaged door kicked inward against the barricade.
 
 Cooper tried to bolt down the roof. Brooke held him until the echo left the air.
 
-Inside, Claire screamed.
+Downstairs, Claire screamed.
 
 Sarah said, "Brooke?"
 
@@ -346,7 +356,9 @@ The upstairs window opened wider behind them.
 
 She ran through the side gate and into the street.
 
-No siren came. No cruiser turned the corner. The house remained lit behind her, warm in every window.
+A car alarm began shrieking two houses away. Porch lights came on. A man opened his front door, saw Sarah in the upstairs window with the shotgun, and disappeared inside again.
+
+No siren came. No cruiser turned the corner. The house remained lit behind Brooke, warm in every window.
 
 Brooke ran until the second gunshot she expected never came.
 

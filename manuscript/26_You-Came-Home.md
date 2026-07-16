@@ -40,7 +40,7 @@ It was true for the moment.
 
 "Outside."
 
-"With that woman?"
+"The officer said you met a woman at the diner."
 
 Brooke looked at the dark glass beside the door. She could see only herself and the porch light behind her.
 
@@ -78,6 +78,8 @@ The dead bolt did not move.
 
 Sarah said, "You told strangers I was dangerous. Then you left our house in the middle of the night to meet someone you do not know."
 
+"The officer said people were following you," Sarah continued. "I don't know who you brought to our door. I don't know whether they touched you. I need to know it is safe to open this."
+
 "I'm sorry."
 
 The apology was too quick. Brooke heard it fail.
@@ -114,7 +116,7 @@ The woman entered the yard.
 
 Brooke looked over her shoulder. "Stop there."
 
-The woman did. "You are freezing."
+The woman did. "The officer who lost her near Weller asked us to keep her in sight if she came through here."
 
 "Mom, please."
 
@@ -127,6 +129,8 @@ Brooke knew the answer Sarah needed. Not truth exactly. A shape made from true p
 The porch stayed silent.
 
 "I thought you were trying to keep me because you didn't trust me. I thought leaving would prove I could take care of myself." Brooke looked at Cooper's lifted paw. "I was wrong."
+
+The choice in front of her had nothing to do with Sarah being right. The woman was halfway across the yard, another car had stopped at the curb, and Cooper could barely stand on one paw. Brooke could choose the people closing around her or the locked house whose windows and exits she knew. She chose the house.
 
 The second car stopped in front of the house.
 
@@ -174,7 +178,7 @@ Brooke squeezed through with Cooper and the backpack. Claire reached for her. Br
 
 Sarah shut the door.
 
-The woman knocked immediately. "Mrs. Bennett? Police asked us to remain with her."
+The woman knocked immediately. "Mrs. Bennett? An officer asked us to keep her in sight."
 
 Sarah locked the dead bolt. Then the chain. Then she pushed the chair beneath the handle exactly as she had promised.
 
@@ -184,25 +188,11 @@ The knocking stopped.
 
 Brooke stood in the foyer with Claire's arms around her and Cooper pressed between their legs. For several seconds relief was stronger than fear. The house smelled like coffee, laundry detergent, and the soup Sarah had made two days earlier. The stairs rose toward Brooke's room. Her charger was upstairs. The window was upstairs.
 
-Sarah touched Brooke's wet hair.
+Sarah touched Brooke's wet hair. "You're freezing."
 
-"You're freezing."
+"Cooper's hurt, and I need to charge my phone."
 
-"I need to charge my phone."
-
-"Of course."
-
-"And Cooper's hurt."
-
-Sarah crouched to examine his paw. Cooper backed against Brooke, teeth briefly visible.
-
-Sarah stood again.
-
-"He needs rest," she said.
-
-Brooke tried to step toward the stairs.
-
-Claire did not let go.
+Brooke tried to step toward the stairs. Claire did not let go.
 
 "Claire."
 
@@ -224,27 +214,15 @@ The obedience frightened Brooke more than the grip.
 
 "Thank you," Brooke said.
 
-She took one step toward the stairs.
-
-Sarah moved between Brooke and the first riser.
+She took one step toward the stairs. Sarah moved between Brooke and the first riser.
 
 Her expression remained warm. Almost relieved.
 
-"Your phone first," Brooke said.
+"I need my charger," Brooke said.
 
-"Mine?"
+"After you sleep."
 
-"I need to call Maya. She helped me."
-
-"You can tell me about her after you sleep."
-
-"I need to tell her I'm safe."
-
-Sarah's face softened further. "You are."
-
-She reached for Brooke's backpack.
-
-Brooke stepped away.
+Sarah reached for the backpack. Brooke stepped away.
 
 The front-door handle moved once.
 
