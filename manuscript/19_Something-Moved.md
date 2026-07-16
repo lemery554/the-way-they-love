@@ -1,0 +1,269 @@
+# Chapter 19
+
+## Something Moved
+
+Sarah insisted Brooke go to school the next day.
+
+"Yesterday you wanted me home," Brooke said.
+
+"Yesterday I wanted you rested. Today I want you to finish the week."
+
+"It's Friday."
+
+"Then finish Friday."
+
+Sarah stood at the front door with Brooke's lunch in one hand and Cooper's collar in the other. The dog had tried to follow Brooke outside. He kept his body angled away from Sarah while she held him.
+
+Sarah's work bag and office badge waited beside the door. After dropping the girls off, she was driving to her first onsite check-in since the fever.
+
+"Let him go," Brooke said.
+
+"He can't go to school."
+
+"I mean let go of his collar."
+
+Sarah did. Cooper immediately crossed to Brooke and leaned against her knees.
+
+"He needs a walk," Brooke said.
+
+"Claire and I will take him."
+
+Cooper looked up at Brooke.
+
+"I'll do it after school."
+
+"Straight home," Sarah said.
+
+"I know."
+
+"Say it."
+
+Brooke stared at her. "Straight home."
+
+Sarah smiled and kissed Brooke's forehead. The affection was warm, familiar, and impossible to refuse without turning the morning into an argument. Brooke left with the place Sarah's lips had touched feeling cold in the wind.
+
+The school had added a second counselor table near the entrance. A sign offered *RECOVERY SUPPORT CHECK-INS* before first period. Students who had been sick sat beside friends, siblings, and parents. Nobody appeared confined. Nobody appeared free either.
+
+Brooke kept her camera in her bag.
+
+In English, Mrs. Keating asked the class to put their desks into pairs for a "community grounding exercise." A boy near the windows said he worked better alone.
+
+"Temporary discomfort with closeness is normal after a frightening event," Mrs. Keating said.
+
+"I wasn't sick."
+
+"Someone you know probably was."
+
+The class moved the desks.
+
+At ten thirty, Brooke received a message from the counselor.
+
+> Please report to Student Services before leaving campus today. We want to review a family-supported safety plan and discuss responsible online communication.
+
+She took a screenshot.
+
+At lunch, Nora Patel sat across from her without asking.
+
+"You're famous," Nora said.
+
+"No."
+
+"A reporter was outside this morning."
+
+Brooke looked toward the cafeteria doors.
+
+"Security made him leave," Nora continued. "He asked if anyone knew you."
+
+"Did you?"
+
+"I know you."
+
+"That's not what I asked."
+
+Nora tore open a packet of mustard. "I didn't tell him anything."
+
+Brooke believed her. She was no longer sure belief was a safe habit.
+
+"People are saying your mom called the school," Nora said.
+
+"She did."
+
+"People are saying Claire attacked you."
+
+Brooke looked toward the far side of the cafeteria. Claire sat with two girls from her grade, shoulder pressed to one of theirs. She was watching Brooke over the other girl's head.
+
+"She broke a door."
+
+"That's not what people are saying."
+
+"What are they saying?"
+
+Nora lowered her voice. "That you locked her in a bathroom to get footage."
+
+Brooke's appetite disappeared. "Who said that?"
+
+"I don't know. It was in a group chat."
+
+The story was wrong in several directions at once. Brooke pictured trying to correct it online and feeding it more details. She pictured Sarah reading every correction as another public betrayal.
+
+"You should probably stop posting," Nora said.
+
+"You sound like my mom."
+
+"Your mom might be right about one thing."
+
+The sentence made Brooke stand.
+
+"I didn't mean she's right about Claire," Nora said.
+
+"You don't know anything about Claire."
+
+"Neither does anyone watching six-minute videos."
+
+Brooke left before the bell.
+
+The exterior doors near the gym were locked. A security officer asked where she was going.
+
+"Home."
+
+"Do you have dismissal approval?"
+
+"I'm seventeen."
+
+"That's not approval."
+
+Brooke showed him the counselor message and said she felt sick. The officer directed her to the nurse instead of opening the door.
+
+At Student Services, the counselor spoke in a low voice about harassment, family privacy, and how frightening public attention could distort judgment. She recommended Brooke take a forty-eight-hour break from uploading and asked whether Sarah could pick her up.
+
+"I can walk."
+
+"Your mother's asked us not to release you alone while you're receiving threats."
+
+"She asked that?"
+
+"It's a safety request."
+
+Brooke looked at the counselor's open doorway. A girl waited outside with both arms around another girl's waist.
+
+"Call her," Brooke said.
+
+Sarah answered on the first ring. She could not leave work immediately, so Brooke waited forty minutes in the main office while the reporter's car remained across the street.
+
+When Sarah arrived, Claire was with her.
+
+"Why isn't she in class?" Brooke asked.
+
+"She was upset."
+
+"So you took her out?"
+
+"She wanted to come."
+
+Claire reached for Brooke's hand. Brooke put both hands in her coat pockets.
+
+The drive home took six minutes. Sarah asked twice whether the reporter had spoken to Brooke and once whether anyone had followed them. Her concern was practical enough to be useful.
+
+"You see why I worry," she said.
+
+Brooke watched the houses pass. "You called the school and told them not to let me leave."
+
+"I told them there were threats."
+
+"You made them keep me there."
+
+"I made sure you weren't sent into a parking lot with a stranger waiting."
+
+Brooke had no answer that did not sound reckless. Sarah reached across the console and squeezed her knee.
+
+"You don't have to prove you're independent every minute," she said.
+
+At home, the keypad gave its usual two-note chirp when Claire entered the code. Brooke watched the front door swing inward.
+
+Cooper met them in the foyer. He rushed past Sarah and Claire to Brooke, whining as he pushed his nose against her hands.
+
+The water bowl beside the kitchen was overturned. Damp paw prints crossed the foyer and stopped near the front door.
+
+"I said we'd walk him," Sarah said.
+
+"Did you?"
+
+Sarah looked at the time. "We were interrupted."
+
+Brooke took the leash. "I'm going now."
+
+"Not alone."
+
+"Mom."
+
+"The reporter knows where you go to school."
+
+"He doesn't know where I walk."
+
+"You don't know that."
+
+Claire reached for the second leash hanging in the coat closet. "I'll come."
+
+Cooper backed away from her.
+
+Brooke unclipped the leash and went upstairs instead.
+
+Her bedroom door was open.
+
+She usually left it open. She stood in the hall trying to remember that morning. Sarah had kissed her at the front door. Brooke had come down with her camera bag and closed the bedroom door because Cooper had been inside.
+
+Maybe she had left it open after all.
+
+The room looked normal. Bed unmade. Charger beside the desk. Camera batteries lined up beneath the monitor. The blue journal was still in the bottom drawer.
+
+Brooke crossed to the family photograph on the dresser. It showed all four Bennetts at the beach, Claire's hands sandy and Brooke laughing from inside the mound. The frame sat closer to the edge than she remembered.
+
+She touched the dust behind it. A clean rectangle marked where it had been.
+
+Only an inch. Maybe less.
+
+"Mom?" she called.
+
+Sarah came to the bottom of the stairs. "What?"
+
+"Were you in my room?"
+
+"I put laundry on your bed yesterday."
+
+"Today."
+
+"No."
+
+Claire appeared beside her. "I was."
+
+Brooke looked over the railing. "When?"
+
+"Last night."
+
+"Did you touch my dresser?"
+
+"I don't remember."
+
+The answer was truthful and useless.
+
+Brooke closed the bedroom door and knelt at the foot of the bed. The keepsake box was pushed beneath the frame, where it always stayed. She drew it out.
+
+Inside were birthday cards, old film-festival programs, the adoption folder, and the blue journal. The slim paper container holding copies of her adoption documents was not fully closed. One corner of the lid rested above the clasp.
+
+Brooke lifted it. The papers inside appeared untouched: amended birth certificate, agency summaries, copies Sarah had given her when she turned sixteen. Beneath them was the envelope containing the original letter from her biological mother.
+
+She did not open it.
+
+Sarah had read Brooke's journal before. Claire took her clothes and entered her room. Either one could have moved the photograph and opened the box.
+
+Brooke looked at the dark camera lens on her desk.
+
+There was no footage of the room. No timestamp. No way to prove whether anything had moved or whether stress had changed the location in her memory.
+
+Downstairs, Sarah called that dinner was ready.
+
+Brooke closed the adoption container carefully, pressed the clasp until it clicked, and took a photograph of the whole box before sliding it beneath the bed.
+
+Then she photographed the dresser.
+
+She did not tell Sarah why.

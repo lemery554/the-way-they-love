@@ -1,0 +1,289 @@
+# Chapter 21
+
+## Not Yet
+
+Sarah removed Brooke's bedroom key the following morning.
+
+She did it in front of her. No deception. She held out her hand and waited until Brooke gave her the tiny brass key to the keepsake box.
+
+"You tore through Claire's room," Sarah said. "You're too upset to keep escalating this."
+
+"It's my key."
+
+"And the box is still in your room."
+
+"Locked."
+
+"For now."
+
+Brooke looked at Sarah's open palm. "You're taking my stuff because I accused Claire of taking my stuff."
+
+"I'm keeping one argument from becoming five."
+
+"You don't get to decide that."
+
+"I am your mother."
+
+The words were not louder than anything else Sarah said. They carried more weight.
+
+Brooke dropped the key into her palm.
+
+Sarah closed her fingers around it. "Thank you."
+
+"Don't thank me."
+
+"You gave it to me."
+
+"Because you stood in the doorway until I did."
+
+Sarah's face softened. "I don't want to fight with you."
+
+"Then stop making every choice."
+
+"I canceled one workshop because your father was away and people were getting sick. I kept you home when you hadn't slept. I asked the school not to release you alone while a reporter waited outside. Which one proves I want to control your life?"
+
+Each decision had an explanation. Together they had walls.
+
+"Give me the key."
+
+"Not while you're this angry."
+
+"What has to happen before I get it back?"
+
+"You have to calm down."
+
+"How will you know?"
+
+Sarah reached toward Brooke's face. Brooke stepped back.
+
+Pain crossed Sarah's expression. Genuine pain. "This is what I mean. Every time I try to help, you act like I'm taking something from you."
+
+"You are holding the key."
+
+Sarah looked down at it as if she had forgotten. Then she put it in her pocket.
+
+"Stay home today," she said. "We can talk when neither of us is performing for an audience."
+
+"I haven't recorded you."
+
+"Not yet."
+
+The phrase made Brooke's skin tighten.
+
+Sarah noticed. "What?"
+
+"Nothing."
+
+"Brooke."
+
+"I said nothing."
+
+Sarah allowed her to leave the room. That was how Brooke thought of it now, even when no one blocked the doorway.
+
+She went downstairs and found Claire sitting on the kitchen floor with Cooper's leash in her lap. Cooper stood on the other side of the island.
+
+"He won't come," Claire said.
+
+"Give me the leash."
+
+Claire held it out. Brooke took it without touching her hand.
+
+"Are you still mad?"
+
+"Yes."
+
+"I didn't take the journal."
+
+"I heard you."
+
+"You don't believe me."
+
+Brooke clipped the leash to Cooper's collar. "I don't know what I believe."
+
+Claire nodded once. It was a more ordinary reaction than pleading would have been.
+
+Sarah came into the kitchen. "Where are you going?"
+
+"Walking Cooper."
+
+"I asked you to stay home."
+
+"You told me to."
+
+"Brooke."
+
+"He needs to go out."
+
+"Then we'll all go."
+
+Cooper moved behind Brooke.
+
+"He won't walk with you."
+
+Sarah looked at the dog. "He will."
+
+"He won't."
+
+The certainty in Brooke's voice sharpened the room. Sarah did not argue with it. She picked up her coat.
+
+"We can try."
+
+Brooke unclipped the leash.
+
+"Fine," she said. "He can stay."
+
+Sarah stopped with one arm in her sleeve. "You were just insisting he needed to go."
+
+"I changed my mind."
+
+"Because I wanted to come?"
+
+Brooke set the leash on the counter. "Yes."
+
+Sarah took off the coat. Her hurt returned, quieter this time.
+
+"Direct pursuit makes you run," she said.
+
+Brooke stared at her.
+
+"What?"
+
+"Nothing." Sarah folded the coat over a chair. "You've always been like that. The harder I try, the farther away you go."
+
+It was true. Brooke had written versions of it in the missing journal. She had probably said it in videos. Sarah did not need secret knowledge to know her own daughter.
+
+Still, Brooke stored the sentence.
+
+The television ran in the living room. A hospital spokesperson described a new family-reunification desk for patients experiencing "prolonged temporary separation." The service would help verify addresses, contact relatives, and arrange transportation after discharge.
+
+The segment showed a woman embracing an adult son outside Saint Vincent's. Neither released the other before the clip ended.
+
+Sarah watched from the kitchen doorway.
+
+"That's good," she said.
+
+"Is it?"
+
+"People are scared. They want their families."
+
+"What if their families don't want them?"
+
+Sarah turned. "Why wouldn't they?"
+
+Brooke looked at Claire.
+
+Claire had gone upstairs.
+
+The house became quiet enough for the refrigerator motor to sound loud. Sarah returned to work at the dining table. Brooke sat on the living-room floor with Cooper and pretended to review footage on her laptop.
+
+She was listening for Claire.
+
+At noon, the shower ran. At twelve twenty, Claire crossed the landing. At twelve thirty, a floorboard creaked above the living room.
+
+Brooke waited.
+
+Sarah's headset covered one ear. Her work voice remained calm as she discussed billing schedules.
+
+Brooke carried her empty glass toward the kitchen, then turned at the stairs and went up without making the first step creak.
+
+Claire's bedroom door was nearly closed.
+
+Through the narrow gap, Brooke could see her sister sitting on the floor beside the bed. Claire faced the wall. Her hands rested palms-up on her knees.
+
+She was not speaking to anyone Brooke could see.
+
+"Not yet," Claire whispered.
+
+Brooke stopped breathing.
+
+Claire tilted her head, listening.
+
+"She is afraid."
+
+The words were quiet and flat, without the shape of a conversation. Claire's mouth moved again.
+
+"Wait."
+
+Brooke's heel touched the baseboard.
+
+Claire turned.
+
+For one second her eyes caught the weak hall light. A pale reflection moved across them and disappeared.
+
+"What are you doing?" Claire asked.
+
+Brooke held up the glass. "Getting water."
+
+"The kitchen is downstairs."
+
+"I know."
+
+Claire stood. "Were you listening?"
+
+"To what?"
+
+Claire looked back at the empty wall. "You heard me."
+
+The answer could be true from her point of view. Whatever she heard, Brooke had heard only Claire.
+
+"Who is afraid?" Brooke asked.
+
+Claire's gaze returned to her. "You are."
+
+"Why did you say not yet?"
+
+"I don't know."
+
+"You said wait before. On my recording."
+
+"You said that wasn't clear."
+
+Claire remembered the argument about the audio. She remembered Brooke's uncertainty and used it without raising her voice.
+
+"Do you hear someone?" Brooke asked.
+
+"I hear you."
+
+"When I'm not talking."
+
+"You're always making noise."
+
+The old Claire might have said it as a joke. This Claire said it with mild affection.
+
+Brooke backed into the hall.
+
+Claire did not follow.
+
+That was the worst part.
+
+She stayed in her room while Brooke went downstairs. She did not ask to sit beside her. She did not touch her or block the stairs. She waited.
+
+Sarah ended her work call at one.
+
+"Are you calmer?" she asked.
+
+Brooke looked toward the ceiling. "Yes."
+
+It was a lie. Sarah appeared relieved.
+
+"Then we can talk."
+
+"Later."
+
+Sarah nodded. "Whenever you're ready."
+
+No demand. No reaching hand. No reminder about the key in her pocket.
+
+Brooke understood the change without understanding its source. The pressure had not disappeared. It had learned that visible pressure made her resist.
+
+She opened the private observation file and typed beneath the entry about memory:
+
+*They are learning when not to push.*
+
+Then:
+
+*Claire said: Not yet. She is afraid. Wait.*
+
+Brooke saved the file to the chemistry folder and copied it to the camera card.
+
+Across the room, Sarah folded laundry while giving Brooke enough space to keep typing.

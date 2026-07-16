@@ -4,6 +4,7 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-16
 
+- Drafted Batch 5, Chapters 18 through 21: Brooke's viral recognition and Upload 6, Sarah's tightening control, the two unseen Anna house entries, the disturbed adoption materials and stolen journal, Brooke's damaging accusation against Claire, and Claire's involuntary `Not yet` whisper fragment.
 - Implemented the Batch 4 developmental edit across Chapters 14 through 17: tightened all four chapters, reduced repeated food and illness beats, preserved uncertainty around Claire and Mark, grounded platform moderation and institutional language in ordinary systems, roughened Brooke's adoption upload, added consequences for virality, and locked Sarah as fully changed when she wakes at 2:16 on Day 15.
 - Drafted Batch 4, Chapters 14 through 17: Claire's beach-memory breakthrough, Brooke's upload network and adoption disclosure, Sarah's purge, Brooke's caretaker ordeal, Mark's degrading contact, and Sarah's believable but controlling recovery.
 

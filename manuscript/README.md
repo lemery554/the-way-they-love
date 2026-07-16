@@ -24,6 +24,10 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 - `15_Somewhere-Else.md`: Chapter 15 first draft
 - `16_Carrying-Them.md`: Chapter 16 first draft
 - `17_Having-You-Home.md`: Chapter 17 first draft
+- `18_Recovered-Individuals.md`: Chapter 18 first draft
+- `19_Something-Moved.md`: Chapter 19 first draft
+- `20_Missing.md`: Chapter 20 first draft
+- `21_Not-Yet.md`: Chapter 21 first draft
 
 ## Chapter issue workflow
 
