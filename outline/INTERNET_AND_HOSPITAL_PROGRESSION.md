@@ -4,7 +4,7 @@ Maps the two institutions Brooke touches most — the **internet/platforms** and
 
 **Core correlation:** Brooke's reach and the institutions' capture rise together. Her audience peaks (Day 14) exactly as platforms and hospitals begin steering everyone toward "togetherness," so the larger her network gets, the more effectively her warnings are buried. That simultaneity is the point — it is how the world can end without visibly ending.
 
-**Narrative window:** the story runs Days 1–26 and ends the night of Day 26; Phase 6 (Days 28–30) is off-page. Hospital/internet states below are given by institutional phase, pinned to days.
+**Narrative window:** the story runs Days 1–24 and ends early on Day 24; later institutional phases continue off-page. Hospital/internet states below are given by institutional phase, pinned to days.
 
 ---
 
@@ -30,13 +30,13 @@ Maps the two institutions Brooke touches most — the **internet/platforms** and
 - **Internet / platforms:** **Search and recommendations elevate home, connection, and support**; warnings get harder to find; comments soften and redirect.
 - **Brooke's audience:** **Upload 6** (Day 17): a large, established audience — but warnings are now buried under soothing replies. Crucially, the **old keypad footage sits in this public archive Anna studies (Day 17)**. Days 18–19 Brooke posts little (confinement, the school day, the house entries).
 
-### Phase 5 — Persuasion (Days 23–27; story reaches Day 26)
+### Phase 5 — Persuasion (Days 23–27; story reaches Day 24)
 - **Hospitals:** Separation is openly framed as *harmful*; "she is still your mother" language.
 - **Internet / platforms:** Default ranking places official recovery guidance above personal warnings, while the warnings remain accessible through direct links, chronological sorting, caches, and saved copies. Ashcroft's reduced-staffing order creates an eleven o'clock youth curfew. Once Sarah reports Brooke missing, authorities reuse Brooke's public image in a local minor-reunification bulletin; recognition spreads through this ordinary alert system rather than instantaneous collective awareness.
-- **Brooke's audience:** No new numbered upload lands; her posts expose enough location context for attention (Day 23). During the siege (Day 26, Ch 27), **Upload 7 — "If you're seeing this"** — the warning, possibly unsent. The 911 system is compromised (dispatcher knows her name, IN-01); no help comes.
+- **Brooke's audience:** No new numbered upload lands; her posts expose enough location context for attention (Day 23). During the siege (Day 24, Ch 27), **Upload 7 — "If you're seeing this"** remains an unsent local warning. The 911 system uses the missing-minor return to identify her and delays help under reunion policy.
 
 ### Phase 6 — Quiet Control (Days 28–30) — *off-page*
-- **Hospitals / internet:** Operational and orderly under changed priorities; platforms function normally while steering users toward closeness. The narrative has already ended (Day 26 night); this phase is the world Brooke is driving away from, not a scene.
+- **Hospitals / internet:** Operational and orderly under changed priorities; platforms function normally while steering users toward closeness. The narrative has already ended early on Day 24; this phase is the world Brooke is driving away from, not a scene.
 
 ---
 
@@ -49,7 +49,7 @@ Maps the two institutions Brooke touches most — the **internet/platforms** and
 | 11 | 4 | thousands, network forms | Phase 3: moderation starts calming |
 | 14 | 5 | **peak jump — tens of thousands** | Phase 3→4: reunion messaging ramps |
 | 17 | 6 | large but **buried** | Phase 4: search elevates "home/connection" |
-| 26 | 7 | possibly unsent | Phase 5: warnings gone; `Stay together` |
+| 24 | 7 | unsent local recording | Phase 5: warnings buried; `Stay together` |
 
 The lines cross around Day 14–17: the moment Brooke is most heard is the moment the platforms most effectively drown her.
 
@@ -62,5 +62,5 @@ The lines cross around Day 14–17: the moment Brooke is most heard is the momen
 
 ## Continuity notes
 
-- Consistent with the one-night ending: the last upload is Day 26; Phase 6 is off-page.
+- Consistent with the continuous ending: the last recording is Day 24 and remains local; later phases are off-page.
 - Titles are locked in the upload sequence (plain, unbranded, under Brooke's own name, TWI-006); the candidate list in `bible/world/INTERNET_AND_HOSPITALS.md` is superseded by that file.

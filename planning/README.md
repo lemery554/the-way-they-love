@@ -2,6 +2,8 @@
 
 This directory organizes the novel as a product backlog without turning the creative process into busywork.
 
+The current active revision sequence is documented in `POST_DRAFT_WORKFLOW.md`.
+
 ## Priority system
 
 - **P0:** Blocks drafting or protects core canon. Do first.

@@ -19,7 +19,7 @@ Locks Brooke's public video thread across the book: what she posts, when, how th
 | 4 | 11 / Ch 12 | "Is anyone else seeing this?" | Asks whether others notice the change; opens her observation list | Comparable family reports begin arriving — thousands | "my mom too," "our dog won't go near him" | Turns the channel into a network; validates frightened viewers | Brooke's pattern-recognition; the dog-detection clue; that she is becoming a hub |
 | 5 | 14 / Ch 15 | "It's not just here" | The network-forming upload; Brooke speaks candidly and **reveals her adoption wound and loneliness** | Jumps — tens of thousands | Dogs notice; sleepless watching; separation escalation; support competes with comforting messaging | Her biggest survival-information post (dogs, memory, isolation) | **The load-bearing one** — Brooke is adopted and wants to be found; the emotional blueprint begins here |
 | 6 | 17 / Ch 18 | "They say we're fine" | Documents institutional drift and reunion language; states they may no longer be sick | Large, established audience | Warnings buried under soothing replies | Warns viewers that the systems have turned | Completes the blueprint (safe = distance, permission, patience); and the **old keypad footage sits in this public archive she now studies** (Day 17) |
-| 7 | 26 / Ch 27 | "If you're seeing this" | The warning / **possibly-unsent** final upload during the siege | n/a — may never post | n/a | Her last testimony, whether or not it reaches anyone | Nothing new — by now Anna is already acting on the plan |
+| 7 | 24 / Ch 27 | "If you're seeing this" | The warning / **unsent local recording** during the siege | Does not post during the novel | n/a | Her last testimony preserved on the camera | Nothing new — by now Anna is already acting on the plan |
 
 ---
 
@@ -37,7 +37,7 @@ Every private thing Anna later "knows" traces to an upload or to the house entri
 
 ## Continuity notes
 
-- Consistent with the one-night ending: the last upload is Day 26; there is no post-escape upload (the book ends that night in the car).
+- Consistent with the continuous ending: the last recording is Day 24; there is no post-escape upload before the book ends in the car.
 - Titles stay plain per TWI-006; if a title is quoted in prose, keep it un-branded and un-clickbaity.
 - Found-media inserts drawn from these uploads (and their comments) should stay brief, per the 10–15% found-media target (see `outline/PACING_PASS.md`).
 

@@ -35,7 +35,7 @@ Built to satisfy STORY_RULES Rule 10 (no direct biological claim), Rule 11 (no d
 - **Boundary respected:** Anna doesn't push, doesn't demand a next meeting, doesn't touch.
 - **Hope crystallizes into belief:** Brooke now *wants* Anna to be her mother, days before the collapse.
 
-## Phase 4 — The engineered pickup *(Day 26 night, the car)*
+## Phase 4 — The engineered pickup *(Day 24 early morning, the car)*
 
 - **Action:** Brooke escapes the siege, runs down the street with Cooper — and Anna's car is there. Anna opens the door and waits. Brooke gets in **herself**.
 - **Why engineered, not luck:** Anna has been surveilling; she positioned herself. The reveal confirms she was waiting.
@@ -43,7 +43,7 @@ Built to satisfy STORY_RULES Rule 10 (no direct biological claim), Rule 11 (no d
 - **Brooke's decisive closeness:** as they drive, Brooke — shaking — reaches for Anna; Anna does not reach first (Rule 15). Sarah's text lands ("It isn't safe out there. Come home."); Brooke doesn't answer.
 - **Hope fulfilled (and betrayed):** Brooke believes she has run *to* her mother. She chose it — under terror, but by her own hand.
 
-## Phase 5 — The reveal *(Day 26 night, reader-only)*
+## Phase 5 — The reveal *(Day 24 early morning, reader-only)*
 
 - Brooke sleeps; Anna opens the stolen journal, pauses on the beach passage; Cooper watches. The reader learns Anna is not Brooke's mother and was studying her all along — the sole controlled POV exception (Rule 1).
 
@@ -56,4 +56,4 @@ Built to satisfy STORY_RULES Rule 10 (no direct biological claim), Rule 11 (no d
 
 ## Open questions
 
-Rung-to-chapter placement is resolved by the rework (dog park Day 11 / Ch 12; diner Day 23 / Ch 24; pickup Day 26 / Ch 28). No open questions remain in this file.
+Rung-to-chapter placement is resolved by the rework (dog park Day 11 / Ch 12; diner Day 23 / Ch 24; pickup Day 24 / Ch 28). No open questions remain in this file.

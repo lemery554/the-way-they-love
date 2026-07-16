@@ -117,7 +117,7 @@ Sarah is the collective's second, more sophisticated attempt. She never breaks a
 
 ### S5 — The bargain at the door *(conditional love)*
 - **Step:** 5 (Bargaining) + 3–4 (Pleading/Crying).
-- **Day/Chapter:** Day 25 / Ch 26 ("You Came Home").
+- **Day/Chapter:** Day 24 before dawn / Ch 26 ("You Came Home").
 - **Behavior:** Refuses to let Brooke back inside (with strangers pursuing) until Brooke apologizes and emotionally reaches her. Opens from genuine maternal attachment, locks the strangers out — then turns her attention fully onto Brooke.
 - **Technically true statement:** Cannot directly lie about safety, so she answers *around* the question of whether Brooke is safe with her (`RULES.md`).
 - **Tell:** Ends on "You came home." Brooke survives by using love language she doesn't mean — becoming briefly like what she fears.
@@ -125,7 +125,7 @@ Sarah is the collective's second, more sophisticated attempt. She never breaks a
 
 ### S6 — The gun through the door *(control becomes force)*
 - **Step:** 8→9→10 (Scratching → Breaking barriers → Using tools or weapons).
-- **Day/Chapter:** Day 26 / Ch 27 ("Separation Distress").
+- **Day/Chapter:** Day 24 dawn / Ch 27 ("Separation Distress").
 - **Behavior:** Bedroom siege. Sarah and Claire escalate outside the barricade; Sarah remembers the location of Mark's secured firearm and **fires through Brooke's bedroom door.** The terminal expression of protection turned into violence against the person she's protecting.
 - **Tell:** She injures nothing of her own concern doing it; the violence is sincere, not malicious in her own understanding.
 - **Function:** **This is Sarah's failure the collective learns from** — even genuine maternal love and precise guilt fail once control becomes *visible* as control (`EVOLUTION.md`). Middle-stage strategy collapses into the same force that doomed Claire's, which is why Anna's later patience is the thing that finally works.

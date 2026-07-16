@@ -38,7 +38,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 - [x] **TWI-101 | P0 | Map character arcs**: Define starting belief, pressure, choices, reversals, lowest point, climax behavior, and ending state. Completed in `outline/CHARACTER_ARCS.md`.
 - [x] **TWI-102 | P0 | Create master scene inventory**: List every necessary scene with POV, date, location, purpose, conflict, turn, clue, and dependency. Completed in `outline/SCENE_INVENTORY.md`.
-- [x] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Completed, then revised by the one-night ending rework (2026-07-15) to a prologue plus 29 chapters (~85,000 words); the climax and ending compress into a single night (Day 26).
+- [x] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Completed as a prologue plus 29 chapters. The Day 23 diner flows through the overnight pursuit into the Day 24 climax and ending. The developmental expansion map projects approximately 88,900 words.
 - [x] **TWI-104 | P0 | Design Anna's approach**: Completed, then rewritten by the one-night ending rework (2026-07-15) from a nine-rung patient courtship into surveillance + two brief in-person meetings (dog park Day 11, diner Day 23) + an engineered escape-night pickup, in `outline/ANNA_TRUST_LADDER.md`.
 - [x] **TWI-105 | P1 | Design Claire and Sarah escalation ladders**: Keep their methods distinct, gradual, emotionally real, and synchronized with whisper evolution. Completed in `outline/ESCALATION_LADDERS.md`.
 - [x] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns. Completed in `outline/UPLOAD_SEQUENCE.md` (7 uploads, Days 3–26, with the Anna-learning throughline).

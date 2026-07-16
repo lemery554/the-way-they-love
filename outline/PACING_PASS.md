@@ -15,8 +15,8 @@ Summing the per-chapter estimates (prologue + 29 chapters) gives **≈ 85,100 wo
 
 ## 2. Chronology — PASS
 
-- Days 1 → 26, monotonic, no gaps. The narrative ends the night of Day 26; Days 27–30 (institutional Phase 6) are off-page.
-- Shared-day chapters are intentional and legible: Day 4 (Ch 4 onset → Ch 5 home purge), Day 26 (Ch 27 siege → Ch 28 car → Ch 29 reveal, one continuous night).
+- Days 1 → 24, monotonic after correcting the previously undocumented Day 25–26 gap. The narrative ends early on Day 24; later institutional phases are off-page.
+- Shared-day chapters are intentional and legible: Day 4 (Ch 4 onset → Ch 5 home purge), and the Day 23-to-24 sequence (Ch 24 diner → Ch 25 pursuit → Ch 26 return → Ch 27 siege → Ch 28 car → Ch 29 reveal).
 - Post-swap order holds: Ch 10 (Day 9, memory-lure) → Ch 11 (Day 10, green-eye) → Ch 13 (Day 12, bathroom violence). ✔
 
 ## 3. Geography — PASS

@@ -36,7 +36,7 @@ Candidate final line, not yet locked: "Anna turned the page and continued learni
 
 ## Scale and drafting gate
 
-- Narrative concludes on the night of Day 26 (the outbreak's roughly one-month arc continues off-page)
+- Narrative concludes early on Day 24 (the outbreak's roughly one-month arc continues off-page)
 - Approximately 85,000 words
 - Prologue plus 29 chapters
 - Roughly 10 to 15 percent found media

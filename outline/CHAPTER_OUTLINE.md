@@ -2,7 +2,7 @@
 
 **Status:** Complete working architecture for review. Prose drafting remains gated.
 
-**Target:** Prologue plus 29 numbered chapters, approximately 85,000 words. Brooke is the sole narrative viewpoint. The final journal image is the only controlled exception. The climax and ending compress into a single night (Day 26): siege, escape, the engineered car pickup, and the journal reveal.
+**Target:** Prologue plus 29 numbered chapters, approximately 85,000 words. Brooke is the sole narrative viewpoint. The final journal image is the only controlled exception. The climax and ending compress into one continuous overnight sequence ending early on Day 24: siege, escape, the engineered car pickup, and the journal reveal.
 
 ## Prologue: The Color
 
@@ -389,7 +389,7 @@
 
 ## Chapter 25: Contact
 
-- **Day:** 24
+- **Day:** 23 into 24
 - **Purpose / setting:** Deliver a chain of independent containment and prove attachment is not relationship-specific.
 - **Emotional goal:** Suspicion to raw panic.
 - **Conflict:** A viewer follows, a driver reports Brooke, gas-station staff split between containment and genuine help, and police and later witnesses respond independently to the missing-minor bulletin.
@@ -404,7 +404,7 @@
 
 ## Chapter 26: You Came Home
 
-- **Day:** 25
+- **Day:** 24 (before dawn)
 - **Purpose / setting:** Execute the front-door bargain and trap Brooke inside.
 - **Emotional goal:** Terror to false relief to dread.
 - **Conflict:** Sarah refuses entry until Brooke apologizes and emotionally reaches her.
@@ -419,7 +419,7 @@
 
 ## Chapter 27: Separation Distress
 
-- **Day:** 26
+- **Day:** 24 (dawn)
 - **Purpose / setting:** Bedroom siege, shotgun blast, and window escape into the night.
 - **Emotional goal:** Entrapment to desperate flight.
 - **Conflict:** Sarah and Claire escalate outside the barricade while Brooke calls for help that will not come.
@@ -436,7 +436,7 @@
 
 ## Chapter 28: Headlights
 
-- **Day:** 26 (that night)
+- **Day:** 24 (early morning)
 - **Purpose / setting:** The engineered rescue — Anna's car appears as Brooke runs, and they drive away.
 - **Emotional goal:** Terror to dangerous relief.
 - **Conflict:** Nowhere left to run; then headlights. Brooke must decide whether to get into the car of the woman she believes is her mother.
@@ -451,7 +451,7 @@
 
 ## Chapter 29: Continue Learning
 
-- **Day:** 26 (that night)
+- **Day:** 24 (early morning)
 - **Purpose / setting:** Deliver the reader-only journal confirmation in the moving car, the same night.
 - **Emotional goal:** Fragile safety to quiet betrayal.
 - **Conflict:** Cooper watches Anna open the missing journal while Brooke sleeps against the window.
@@ -469,6 +469,6 @@
 - **Projected prose:** Approximately 85,000 words including prologue (prologue + 29 chapters; per-chapter estimates sum to ≈ 85,100), after the one-night ending compressed the former Chapters 28–34 into two.
 - **Found media:** Brief throughout; target remains 10 to 15 percent of final word count.
 - **POV:** Brooke throughout, with only the final journal image (Chapter 29) exceeding her awareness.
-- **Structure note:** The narrative concludes on the night of Day 26; the final days of institutional drift (Phase 6) occur off-page. Anna's arc compresses to surveillance plus two brief in-person meetings (dog park, Day 11; diner, Day 23) and the engineered escape-night pickup.
+- **Structure note:** The narrative concludes early on Day 24 after one continuous overnight sequence beginning with the Day 23 diner meeting. Later institutional drift occurs off-page. Anna's arc compresses to surveillance plus two brief in-person meetings (dog park, Day 11; diner, Day 23) and the engineered pickup.
 - **Drafting gate still requires:** character-arc map, scene inventory validation, infection behavior audit, Foundation continuity audit, and author acceptance of this architecture.
 - **Deferred decisions:** ending eye effect and exact final sentence.

@@ -32,7 +32,7 @@ After TWI-009 locked Anna's **two** school-day visits (investigate first, take t
 ### Time — PASS (except F1)
 - Institutional phases (`INSTITUTIONAL_TIMELINE.md`) align with the day-by-day `TIMELINE.md` public column at every boundary: P1 ends Day 5, P2 Day 6–10, P3 Day 11–16, P4 Day 17–22, P5 Day 23–27, P6 Day 28–30. The **Day 9↔12 swap** (this session) correctly kept the public-phase column anchored to its calendar day. ✔
 - Purge duration (12–36 h, `RULES.md`) is consistent: Claire onset Day 4 → hospital Day 5 → apparent recovery Day 6; Sarah onset Day 14 → severe Day 15 → recovered Day 16. ✔
-- **Ending rework (this session):** the narrative now concludes on the night of Day 26 (siege → escape → engineered car pickup → journal reveal, all one night); Days 27–30 of institutional drift continue off-page. Anna's two in-person meetings are placed Day 11 (dog park) and Day 23 (diner), both consistent with her knowledge timeline (Day-11 meeting uses video knowledge only; Day-23 meeting follows the house entries and resemblance). The changed-police arrival is cut. ✔
+- **Post-draft timing correction:** the Day 23 diner meeting now flows continuously into the overnight pursuit and the Day 24 return, siege, engineered pickup, and journal reveal. The earlier Day 25–26 labels created an undocumented gap not present in the prose. Later institutional drift continues off-page. Anna's two prior meetings remain Day 11 and Day 23. ✔
 
 ### Geography — PASS
 - Ashcroft, CT (TWI-005) used consistently; the chase (S26/S27) and final drive (S32) follow the town map's back-roads/state-route logic. House interior routes (`BENNETT_HOUSE.md`) are internally consistent: gun safe in the attached garage, porch-roof escape below Brooke's rear window, hall bathroom upstairs.

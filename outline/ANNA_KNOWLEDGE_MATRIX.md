@@ -21,10 +21,10 @@ Anna may only use information with a documented source. She never physically tra
 | 19-20 / middle | Brooke will blame Claire for the missing journal | Knowledge of Claire's boundary violations plus house context | Removes the journal without staging a burglary | Claire crossed another boundary | Anna uses an existing family conflict as cover |
 | 23 / diner | Brooke wants to be found by someone who chose to look | Videos + journal (name, letter, beach memory) | `Every second`, `I knew you were waiting`; narrow true answers about timing and feeling | Her biological mother searched for and cherished her | Brooke supplies the mother claim; Anna states nothing false (Rules 10/11) |
 | 23 / diner | Brooke perceives family resemblance | Photographs from the house entries | Restrained styling — hair, makeup, clothing, jewelry, posture | A plausible biological resemblance | Anna constructed the resemblance; no single element is proof |
-| 26 night / car | Brooke has nowhere left to run | Surveillance of the house and Brooke's patterns | Is parked nearby; opens the door and waits without grabbing or commanding | A rescuer who appeared just in time | The pickup is engineered, not luck; Brooke gets in herself (Rule 15) |
-| 26 night / car | Brooke fears demands disguised as care, and needs control over thresholds | Videos, journal, learned failures | `You do not owe me anything`; requests nothing; never reaches first | Unlike Sarah, Anna does not possess her | True and strategically reassuring; Brooke initiates the one closeness beat |
-| 26 night / car | Brooke wants a destination without another authority controlling her | Journal and recent behavior | `Somewhere quiet` | Escape with a protective parent | A vague destination avoids a direct falsehood |
-| 26 night / reveal | Brooke remains learnable | Missing journal | Reads while Brooke sleeps; pauses on the beach memory | Brooke sees nothing | Reader learns Anna is not her mother and is still studying her |
+| 24 early morning / car | Brooke has nowhere left to run | Surveillance of the house and Brooke's patterns | Is parked nearby; opens the door and waits without grabbing or commanding | A rescuer who appeared just in time | The pickup is engineered, not luck; Brooke gets in herself (Rule 15) |
+| 24 early morning / car | Brooke fears demands disguised as care, and needs control over thresholds | Videos, journal, learned failures | Requests nothing; never reaches first | Unlike Sarah, Anna does not possess her | True and strategically reassuring; Brooke initiates the one closeness beat |
+| 24 early morning / car | Brooke wants a destination without another authority controlling her | Journal and recent behavior | Names a dog-friendly motel as the first stop and lets Brooke decide what follows | Escape with a protective parent | A limited, truthful destination offers immediate safety without promising a future |
+| 24 early morning / reveal | Brooke remains learnable | Missing journal | Reads while Brooke sleeps; pauses on the beach memory | Brooke sees nothing | Reader learns Anna is not her mother and is still studying her |
 
 ## Verification checklist
 
@@ -32,5 +32,5 @@ Anna may only use information with a documented source. She never physically tra
 - Brooke, not Anna, introduces the biological-mother interpretation.
 - Anna's answers remain technically true under the locked rule for every changed person.
 - Anna's house-derived knowledge is divided between the first visit on Day 18 and second visit on Day 19.
-- Anna's two in-person meetings are Day 11 (dog park, no claim; video knowledge only) and Day 23 (diner, mother reveal-to-Brooke, after the house entries and resemblance). The engineered pickup and reveal are both Day 26 night.
-- Anna's whisper fragment is reader-facing or ambiguous (it may escape in the car on Day 26 night). Brooke cannot receive clear proof before the final reveal.
+- Anna's two in-person meetings are Day 11 (dog park, no claim; video knowledge only) and Day 23 (diner, mother reveal-to-Brooke, after the house entries and resemblance). The engineered pickup and reveal occur early on Day 24.
+- Brooke cannot receive clear proof before the final reveal.

@@ -2,7 +2,7 @@
 
 Confirms the ending's central clues survive a **reread test**: after the final journal image, a reader going back must find that every clue was (a) **accessible to Brooke**, (b) **innocently interpretable** on first read, (c) **meaningful** after the reveal, and (d) **consistent with Anna's inability to state a direct falsehood** (STORY_RULES Rule 11). Built against `outline/CLUE_LEDGER.md`, `outline/ANNA_KNOWLEDGE_MATRIX.md`, `outline/SCENE_INVENTORY.md`, and the 29-chapter outline.
 
-**Re-run for the one-night ending rework.** The climax and ending now compress into a single night (Day 26): siege → escape → engineered car pickup → journal reveal. Anna's arc is surveillance plus two brief in-person meetings (dog park Day 11, diner Day 23) and the escape-night pickup, rather than a multi-day post-escape courtship. The clue chain is unchanged in substance; only its timing and scene numbers moved, and one new fairness question is added (the engineered pickup, checked below).
+**Re-run for the continuous ending rework.** The Day 23 diner meeting flows into the overnight pursuit and the Day 24 return, siege, escape, engineered car pickup, and journal reveal. Anna's arc is surveillance plus two brief in-person meetings (dog park Day 11, diner Day 23) and the early-morning pickup, rather than a multi-day post-escape courtship.
 
 **Standard applied:** STORY_RULES Rule 3 (every twist is fair), Rule 10 (no direct biological claim), Rule 11 (no direct lies), Rule 15 (Anna wins through consent), Rule 16 (continuity is evidence), plus the fairness test in `CLUE_LEDGER.md`.
 
@@ -45,7 +45,7 @@ Confirms the ending's central clues survive a **reread test**: after the final j
 - **Verdict:** PASS. This is the clue most dependent on execution — the exact lines are still open (AN-04/AN-07 wording) — but the mechanism is fair and sourced.
 
 ### 5. Final journal proof — AN-08 / AN-11
-- **Delivered:** S33 (Ch 29, Day 26 night), the sole reader-only image: Anna reads the stolen journal, pausing on the beach passage, while Brooke sleeps and Cooper watches — the same night as the siege.
+- **Delivered:** S33 (Ch 29, Day 24 early morning), the sole reader-only image: Anna reads the stolen journal, pausing on the beach passage, while Brooke sleeps and Cooper watches.
 - **Accessible to Brooke?** Deliberately **not** — this is the one controlled exception (Rule 1). Fairness is preserved because it *confirms* inferences the reader could already have drawn from clues 1–4; it does not introduce new withheld information.
 - **First read / reread:** It IS the reread trigger — it retroactively re-colors keypad, disturbance, journal, resemblance, and repeated language.
 - **Literal-truth check:** No dialogue; nothing claimed.
@@ -60,7 +60,7 @@ Confirms the ending's central clues survive a **reread test**: after the final j
 | Resemblance styling (AN-09) | Biological family resemblance | Constructed from a studied photograph; no single element is proof | PASS (exact choices open, OQ tracked) |
 | Whisper "Wait"/"Not yet" (AN-10) | Anxious self-talk / ambiguous | Anna still receives guidance | PASS — reader-facing or ambiguous only; Brooke never gets clear proof |
 | Beach memory (EM-01/AN-11) | Ordinary happy sister memory; Claire's surviving fragment | Also the material Anna studied and rereads at the end | PASS — dual function planted S03, paid S15 and S33 |
-| 911 uses Brooke's name (IN-01) | Impossible competence / surveillance | Public systems already compromised | PASS — single self-contained beat, Day 26 |
+| 911 uses Brooke's name (IN-01) | Automated competence / surveillance | The active missing-minor return supplies her identity while policy reframes confinement as reunion | PASS — single self-contained beat, Day 24 |
 | Engineered pickup (new) | A lucky rescue — the kind stranger happened to be there | Anna was surveilling and positioned herself; she knew the house was collapsing | PASS — set up by keypad/break-ins/videos (S01, S19–S21) and confirmed at the reveal (S33); Cooper's tolerance is pre-seeded at Meeting 1 (S13) |
 
 ---
