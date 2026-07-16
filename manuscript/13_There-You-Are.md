@@ -1,8 +1,6 @@
 # Chapter 13: There You Are
 
-The comments were still coming the next morning, and Brooke read them on the bus with the phone tilted against her chest so no one could see, the way she had once read things she was ashamed of.
-
-There were more of them now. A woman in Ohio whose husband followed her from room to room. A boy whose grandmother had started sleeping in the hallway outside his door. Someone whose entire street had gone quiet and close and wrong. They did not read like people performing fear online. They read like people who had finally found the one place where saying the true thing did not get them told they were tired. Brooke did not answer many of them. She did not know what to say that would help. But she read every one, and each one took a little of the crazy off her, and left something heavier in its place.
+The comments were still coming the next morning. Brooke did not read them on the bus. The number beside the upload rose each time she checked, proof enough that other people had started saying the same impossible thing.
 
 At school the water had risen another inch. She could not stop seeing it now. By third period she wanted out of the building the way you want out of a dream, and she went to the front office and said she had a headache and asked to sign out early.
 
@@ -48,7 +46,7 @@ There was a pause. Brooke pictured her on the other side of the door, and the pi
 
 "Because sometimes people close a door. That's normal. That's allowed."
 
-"It's not allowed." Not angry. Stated. A correction, the way Ms. Ferro had corrected the word *victims* without seeming to move her mouth. "It used to be but it's not anymore. You keep going where I can't follow and I can't stand it, Brooke, I can't, please open the door."
+"I can't be out here." Not angry. Stated. "You keep going where I can't follow and I can't stand it, Brooke, I can't, please open the door."
 
 Brooke stood up. Her heart had started going. "I'm going to open it in a minute. Go wait in my room. Sit on my bed. I'll come find you."
 
@@ -94,7 +92,7 @@ But Claire only looked at him. Whatever it was that had made her break a lock an
 
 "He's still weird," Claire said, in a voice that was almost normal, almost her own, and it was that, the almost, that finally undid Brooke's composure.
 
-Sarah came up the stairs then, alerted by the crack of the jamb or by the quality of the quiet. She took in the broken door and the blood and Brooke pinned against the sink with the dog between her and Claire, and Brooke watched her mother's face perform the calculation Brooke already knew the answer to.
+Sarah came up the stairs then, alerted by the crack of the jamb or by the quality of the quiet. She took in the broken door and the blood and Brooke pinned against the sink with the dog between her and Claire. For one second she only stared at the ruined frame. Then she moved to Claire, and Brooke watched her mother's face perform the calculation Brooke already knew the answer to.
 
 "What happened?"
 
@@ -128,11 +126,11 @@ She had no footage.
 
 It had happened in a bathroom with no camera and her phone on the charger six feet from where she now stood, and there was no clip, no timestamp, no frame she could isolate and export and back up in triplicate. There was only what she remembered, and she was already, standing there, feeling it start to move. Had the hand really not flinched, or had she wanted it not to. Had Claire really said *there you are* in that voice, or was her frightened mind scoring it after the fact. In a day, in a week, when her mother said the lock had simply been old and Claire had simply been clingy and Brooke had simply been shut in a bathroom refusing her sister, Brooke would have nothing to hold the real thing in place, nothing but a memory, and memory was the one thing she had never trusted, the reason she had bought her first camera, the reason she recorded her whole life instead of living inside it. Her deepest, oldest fear was that she would misremember the people she loved. Tonight it had walked through a broken door and hugged her, and she had not been filming.
 
-She wrote it down anyway, fast, everything, while it was still sharp, the way you preserve a dream before the daylight takes it. The door. The turning handle. *It's not allowed anymore.* The blood on the lever. The hand that did not flinch. *There you are.* Cooper's body forcing the inch of space. She wrote it all into *Things I Have Seen* with the time at the top, knowing as she typed that a written account was not proof, that anyone could write anything, that this was the weakest evidence she had ever collected, and collecting it anyway because the alternative was to let it dissolve.
+She wrote it down anyway, fast, everything, while it was still sharp, the way you preserve a dream before the daylight takes it. The door. The turning handle. *I can't be out here.* The blood on the lever. The hand that did not flinch. *There you are.* Cooper's body forcing the inch of space. She wrote it all into *Things I Have Seen* with the time at the top, knowing as she typed that a written account was not proof, that anyone could write anything, that this was the weakest evidence she had ever collected, and collecting it anyway because the alternative was to let it dissolve.
 
 Then she added the sentence that had been forming under everything all week, the one she had not been willing to write while there was still a version of this where Claire was only a little sister who had almost died.
 
-*It isn't trauma. I don't know what it is, but it isn't trauma, and I have to stop letting them tell me it is.*
+*It isn't trauma. I don't know what it is, but trauma does not explain all of it.*
 
 Across the hall, through the wall, she heard the water run in the bathroom while Sarah cleaned the blood off the broken lock. And under the water, very quietly, so quietly that Brooke pressed her ear to the cold wall to be sure, she heard her sister, alone for a moment on the landing while their mother rinsed the towel, cradling the hand she had finally been left alone with, drawing a breath in through her teeth at the sting of it.
 

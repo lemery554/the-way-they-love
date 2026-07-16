@@ -32,7 +32,7 @@ Then she went upstairs and did the one thing she trusted more than her own guilt
 
 She had a lot of it now. She had been recording Claire for days, small pieces, the hallway and the kitchen and the camera tests Claire kept borrowing, a dozen clips she had told herself were for a doctor and had never sent to one. She loaded them onto the desktop and laid them out on the editing timeline in order, a week of her sister rendered as a strip of thumbnails, and she began at the beginning and went through them the way she went through anything she was serious about, which was slowly, one pass for picture and one for sound, not trusting either sense to catch what the other missed.
 
-For a long time there was nothing. There was Claire eating mushrooms. There was Claire humming. There was Claire standing a little too close and following a little too readily, all of it exactly as unremarkable as Sarah said, all of it deniable. Brooke started to feel the sick tilt of being wrong. A camera did not lie, but it also did not care, and its indifference was starting to feel like a verdict against her.
+For a long time there was nothing. There was Claire humming. There was Claire standing a little too close and following a little too readily, all of it exactly as unremarkable as Sarah said, all of it deniable. Brooke started to feel the sick tilt of being wrong. A camera did not lie, but it also did not care, and its indifference was starting to feel like a verdict against her.
 
 She found it in a clip from two nights before.
 

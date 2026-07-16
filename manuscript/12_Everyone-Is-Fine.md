@@ -10,8 +10,6 @@ Then she started to see it, and once she started she could not stop, because see
 
 It was in the way people sat. In the library, two girls she was fairly sure did not know each other, one a senior, one a freshman, sat pressed together at a four-person table with the whole rest of the table empty, shoulder to shoulder, hip to hip, sharing nothing, saying nothing, comfortable in a way that people who had just met were not comfortable. Neither of them looked at the other. They did not need to. They sat the way a family sits in a waiting room, close for the sake of closeness, and when the freshman got up for a book the senior turned to keep her in view the entire time she was gone.
 
-It was in the food. At the far end of Brooke's second-period class, a boy named Deacon who had been loudly, performatively picky about food for three years, who had once returned a sandwich because a tomato had touched the bread, ate a container of plain spinach with his fingers and did not appear to taste it. He ate it the way you do a thing you have decided to do rather than a thing you want, methodical, unbothered, finishing every leaf, and then he sat with his hands flat on the desk and was still.
-
 It was in the hallways, where hugs went on too long. Not dramatically. A second past the point where people let go. Two seconds. Enough that Brooke, watching, kept expecting the release that did not come on schedule, until she felt like the strange one for counting.
 
 And it was outside the second-floor bathroom, where a girl stood waiting.
@@ -86,9 +84,7 @@ Cooper got up, finally, and came to Brooke, and pushed his head under her hand, 
 
 "Of course." The woman did not offer to walk with her, did not ask where she lived, did not ask for anything. "Go carefully. It gets dark fast now."
 
-Brooke was halfway to the gate before she realized she had not gotten the woman's name, and that the woman had not asked for hers, though the woman already had it, Brooke supposed, from the videos, since the channel was under her own name. She looked back. The woman was still on the bench, hands folded, watching Cooper go with an expression Brooke could not read at that distance and did not try to. She lifted one hand, not a wave exactly, just an acknowledgment, and Brooke lifted hers, and went out through the gate into the falling dark and walked home feeling lighter than she had in days, and did not examine the lightness, because examining things was what had made her so alone, and for one evening she wanted to be a girl who had met a kind stranger and felt better.
-
-She was almost home before the small wrongness surfaced, the way the wrong note in a mix surfaces only after you stop actively listening. The woman had not asked a single question. Not one. Every person Brooke had ever met had asked her something, where she went to school, how old the dog was, whether the illness had reached her family, and this woman had asked her nothing at all, had only told her true things about herself and then let her leave. Brooke turned it over and set it down. Some people were just calm. Some people had learned not to pry. After a day of everyone in her life either clinging to her or telling her she was cruel, a person who wanted nothing had felt like water.
+Brooke was halfway to the gate before she realized she had not gotten the woman's name. She looked back. The woman was still on the bench, hands folded, watching Cooper go with an expression Brooke could not read at that distance and did not try to. She lifted one hand, not a wave exactly, just an acknowledgment. Brooke lifted hers and went out through the gate into the falling dark, feeling lighter than she had in days. After a week of people clinging to her or telling her she was cruel, a person who wanted nothing had felt like water.
 
 That night, in her room, with the house quiet and Claire finally asleep or pretending to be across the hall, Brooke did the thing she had been building toward all week without admitting it. She recorded a short video. No footage, no editing, just her own face lit by the monitor, tired, plain, done with being careful.
 
@@ -102,8 +98,4 @@ When she woke in the night and checked, out of the habit she could not break, th
 
 *our dog won't go near my brother anymore and he grew up with him. what is happening.*
 
-*she eats olives now. she HATED olives. why does that scare me so much*
-
-*please keep talking about this. nobody here believes me either.*
-
-Brooke lay in the dark holding the phone above her face, its light the only light in the room, reading the same four comments over and over, and she was not alone, and it was the worst kind of not-alone there was, because every one of them was a house like hers with something quiet walking through it, and all of them had found each other in the dark, and none of them knew yet that being found was the thing to be afraid of.
+Brooke lay in the dark holding the phone above her face, its light the only light in the room, as new replies arrived beneath the first two. She was not alone. That should have helped. Instead, every reply became another house like hers with something quiet walking through it, all of them finding one another in the dark.

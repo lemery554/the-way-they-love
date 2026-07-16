@@ -1,10 +1,10 @@
 # Chapter 10: What They Remember
 
-Brooke had not been to school in nearly a week, and the house had learned a new shape around Claire.
+In less than a week, the house had learned a new shape around Claire.
 
 The old shape had corners a person could stand in alone. Brooke could edit at her desk while Claire watched something in her room, and the two activities happened in separate parts of the day without anyone deciding they should. That house was gone. In its place was one where Claire appeared in doorways. She did not announce herself or ask for anything. She arrived the way weather arrived, and then she stayed, humming under her breath in a way that had once been occasional and was now a thing the house did.
 
-At nine that morning, Brooke came out of the bathroom and found Claire sitting against the wall in the hall, knees drawn up, waiting. Cooper lay at the far end near the stairs with his chin on his paws, watching both of them.
+That afternoon, Brooke came out of the bathroom and found Claire sitting against the wall in the hall, knees drawn up, waiting. Cooper lay at the far end near the stairs with his chin on his paws, watching both of them.
 
 "You were in there a long time," Claire said.
 
@@ -40,7 +40,7 @@ It was true, and the truth of it was the problem. Everything Claire said now was
 
 "I'll come anyway."
 
-Downstairs, Sarah was at the kitchen table with her work laptop and a legal pad, running the household from a chair the way she had run it standing up for years. She looked better than she had during the hospital week. She had washed her hair and put it up properly, and she was answering emails in the brisk, competent voice Brooke had grown up beneath. The television was off. On the counter, a bowl held the remains of Claire's breakfast, a plate of sauteed mushrooms and spinach that Claire had asked for and eaten without commentary, the way a person eats food they have always eaten.
+Downstairs, Sarah was at the kitchen table with her work laptop and a legal pad, running the household from a chair the way she had run it standing up for years. She looked better than she had during the hospital week. She had washed her hair and put it up properly, and she was answering emails in the brisk, competent voice Brooke had grown up beneath. The television was off. Claire's empty breakfast bowl sat in the sink.
 
 "There's real coffee in the pot," Sarah said without looking up. "I made too much."
 
@@ -64,17 +64,9 @@ There was a version of the morning where Brooke let her be glad. She could feel 
 
 Brooke took her coffee upstairs. Claire did not follow this time, which was somehow worse, because it meant she had decided to wait.
 
-Brooke opened a fresh document and, after sitting with the cursor for a while, gave it a title. She typed *Things I Have Seen* and then felt stupid, because it sounded like the beginning of a horror movie, which was exactly the accusation Sarah kept leveling at her. But paper did not have a clock and a document did, and she trusted a dated file more than she trusted the version of the last five days she would be able to reconstruct in a week. She began a list.
+Brooke opened *Things I Have Seen*. Four observations waited beneath the title, each one ordinary enough to explain alone. Together they still sounded less like evidence than an accusation against a kid who had almost died over the weekend. She checked the file's timestamp anyway. The point was not to convince anyone yet. The point was to have it later, when everyone agreed it had not been like this.
 
-*Cooper won't go near her. Started before she was even sick.*
-
-*She eats things she used to hate. Not sometimes. On purpose.*
-
-*She doesn't like being alone. Not scared-alone. Any-alone.*
-
-She looked at the three lines. Written down, they were nothing. Three ordinary facts about a kid who had almost died over a weekend and was now clingy and off her food preferences and unsettling the dog. Any adult would read the list and feel sorry for the girl who made it. She saved it anyway, because the point of the list was not to convince anyone. The point was to have it later, when everyone had agreed it had not been like this.
-
-The afternoon went the way the days went now. Claire drifted in and out. She wanted to be in the same room. She did not need conversation or attention, only proximity, and she took it in small helpings that never quite added up to something Brooke could point at. At three, Brooke lay down on top of her covers with a headache building behind one eye, and when she woke an hour later Claire was sitting on the floor beside the bed with her back against the frame, close enough that Brooke's hand, hanging off the mattress, had come to rest against her sister's shoulder in her sleep.
+The rest of the afternoon went the way the days went now. Claire drifted in and out. She wanted to be in the same room. She did not need conversation or attention, only proximity, and she took it in small helpings that never quite added up to something Brooke could point at. Brooke lay down on top of her covers with a headache building behind one eye, and when she woke an hour later Claire was sitting on the floor beside the bed with her back against the frame, close enough that Brooke's hand, hanging off the mattress, had come to rest against her sister's shoulder in her sleep.
 
 Claire had not moved it. She had let it stay there.
 
@@ -198,7 +190,7 @@ Under her father's voice saying he would try in the morning, under the fan and t
 
 She stopped the recording. She sat on the closed lid of the toilet for a while with the earbud still in and the silence in it.
 
-Then she took out her phone, opened the document titled *Things I Have Seen*, and under the three lines she had written that morning she added a fourth.
+Then she took out her phone and opened *Things I Have Seen*.
 
 *They remember everything.* She looked at it, and thought of Claire counting breaths in the dark eleven years ago, a thing that lived nowhere but inside the two of them, produced tonight like a key cut from a lock Brooke had forgotten she owned. She thought of her father saying *keep an eye on things, you're good at that,* which was true, which had always been true, which was the kind of thing a person who loved you would say and also the kind of thing a person could learn to say by watching you.
 
