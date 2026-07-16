@@ -63,7 +63,7 @@ The girls share the hall bathroom. Claire can stand directly outside it without 
 
 ### Anna's school-day search
 
-Anna recovers the keypad code from an old public family video and enters through the front door on two school days (TWI-009), closing it behind her each time. On the first visit (Day 18) her efficient route is living-room photographs, then upstairs to Brooke's room, where she studies the layout and locates the adoption materials in the keepsake box at the foot of Brooke's bed without taking the journal — leaving the adoption-papers container slightly ajar (AN-02). On the second visit (Day 19) she returns to that keepsake box, reads the original letter and private entries, and takes the journal (AN-03). She leaves by the front door both times.
+Anna recovers the keypad code from an old public family video and enters through the front door on two school days, closing it behind her each time. On the first visit, Monday Day 20, her efficient route is living-room photographs, then upstairs to Brooke's room, where she studies the layout and locates the adoption materials in the keepsake box at the foot of Brooke's bed without taking the journal, leaving the adoption-papers container slightly ajar. On the second visit, Tuesday Day 21, she returns to that keepsake box, reads the original letter and private entries, and takes the journal. She leaves by the front door both times.
 
 ### Sarah and the gun
 

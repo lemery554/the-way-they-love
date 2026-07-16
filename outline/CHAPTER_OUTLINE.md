@@ -2,7 +2,7 @@
 
 **Status:** Complete working architecture for review. Prose drafting remains gated.
 
-**Target:** Prologue plus 29 numbered chapters, approximately 85,000 words. Brooke is the sole narrative viewpoint. The final journal image is the only controlled exception. The climax and ending compress into one continuous overnight sequence ending early on Day 24: siege, escape, the engineered car pickup, and the journal reveal.
+**Target:** Prologue plus 29 numbered chapters, approximately 85,000 words. Brooke is the sole narrative viewpoint. The final journal image is the only controlled exception. The climax and ending compress into one continuous overnight sequence beginning Friday Day 24 and ending early Saturday Day 25: pursuit, return, siege, escape, engineered car pickup, and journal reveal.
 
 ## Prologue: The Color
 
@@ -469,6 +469,6 @@
 - **Projected prose:** Approximately 85,000 words including prologue (prologue + 29 chapters; per-chapter estimates sum to ≈ 85,100), after the one-night ending compressed the former Chapters 28–34 into two.
 - **Found media:** Brief throughout; target remains 10 to 15 percent of final word count.
 - **POV:** Brooke throughout, with only the final journal image (Chapter 29) exceeding her awareness.
-- **Structure note:** The narrative concludes early on Day 24 after one continuous overnight sequence beginning with the Day 23 diner meeting. Later institutional drift occurs off-page. Anna's arc compresses to surveillance plus two brief in-person meetings (dog park, Day 11; diner, Day 23) and the engineered pickup.
+- **Structure note:** The narrative concludes early on Saturday Day 25 after one continuous overnight sequence beginning with the Friday Day 24 diner meeting. Later institutional drift occurs off-page. Anna's arc compresses to surveillance plus two brief in-person meetings on Day 11 and Day 24, followed by the engineered pickup.
 - **Drafting gate still requires:** character-arc map, scene inventory validation, infection behavior audit, Foundation continuity audit, and author acceptance of this architecture.
 - **Deferred decisions:** ending eye effect and exact final sentence.

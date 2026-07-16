@@ -10,9 +10,9 @@ Sarah insisted Brooke go to school anyway.
 
 "Yesterday I wanted you rested. Today I want you to finish the week."
 
-"It's Friday."
+"It's Monday."
 
-"Then finish Friday."
+"Then finish Monday."
 
 Sarah stood at the front door with Brooke's lunch in one hand and Cooper's collar in the other. The dog had tried to follow Brooke outside. He kept his body angled away from Sarah while she held him.
 

@@ -26,7 +26,7 @@ During the bedroom siege, Sarah pleads, scratches, bangs, and uses guilt before 
 
 ## Part Five: Anna
 
-Anna found Brooke through YouTube, recovered the Bennett keypad code from an old family video, and entered the house twice while Brooke was at school (Day 18 investigation, Day 19 journal). She studied photographs, adoption documents, Brooke's journal, and a letter from Brooke's biological mother. She learned the mother's real name, took the journal, and made limited changes to her appearance to suggest resemblance. Brooke believed Claire stole the journal. Anna's in-person contact is only two brief meetings before the climax — a casual dog-park encounter (Day 11, no claim) and a diner meeting (Day 23) where she lets Brooke conclude she is her biological mother without ever stating it — using patience, permission, and technically true statements. She never directly claims motherhood.
+Anna found Brooke through YouTube, recovered the Bennett keypad code from an old family video, and entered the house twice while Brooke was at school, on Monday Day 20 and Tuesday Day 21. She studied photographs, adoption documents, Brooke's journal, and a letter from Brooke's biological mother. She learned the mother's real name, took the journal, and made limited changes to her appearance to suggest resemblance. Brooke believed Claire stole the journal. Anna's in-person contact is only two brief meetings before the climax, a casual dog-park encounter on Day 11 and a diner meeting on Friday Day 24 where she lets Brooke conclude she is her biological mother without ever stating it. She never directly claims motherhood.
 
 ## Ending
 
@@ -36,7 +36,7 @@ Candidate final line, not yet locked: "Anna turned the page and continued learni
 
 ## Scale and drafting gate
 
-- Narrative concludes early on Day 24 (the outbreak's roughly one-month arc continues off-page)
+- Narrative concludes early on Saturday Day 25; the outbreak's longer arc continues off-page.
 - Approximately 85,000 words
 - Prologue plus 29 chapters
 - Roughly 10 to 15 percent found media

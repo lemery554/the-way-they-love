@@ -5,17 +5,16 @@
 
 ## Day convention
 
-Story days change at midnight. Chapters 23 through 25 begin late on Day 23 and continue through the overnight pursuit into the pre-dawn hours of Day 24. Chapter 26 occurs before dawn on Day 25 only if an intervening calendar day is explicitly dramatized. The current manuscript does not contain that intervening day.
+Story days change at midnight. Chapter 23 prepares the escape on Thursday, Day 23. Chapter 24 begins Friday evening, Day 24, and Chapter 25 continues through the overnight pursuit into Saturday, Day 25.
 
 To remove the contradiction, the developmental rewrite should use this continuous sequence:
 
-- **Day 23, evening:** Chapter 23 preparation and Chapter 24 diner meeting
-- **Day 23 into Day 24:** Chapter 25 pursuit
-- **Day 24, before dawn:** Chapter 26 front-door bargain
-- **Day 24, dawn:** Chapter 27 siege and escape
-- **Day 24, early morning:** Chapters 28 and 29 drive and reveal
-
-If the author later wants the climax on Day 26, the preceding timeline must add two fully accounted days. Do not change dates silently.
+- **Day 23, Thursday:** Chapter 23 preparation
+- **Day 24, Friday evening:** Chapter 24 diner meeting
+- **Day 24 into Day 25:** Chapter 25 pursuit
+- **Day 25, Saturday before dawn:** Chapter 26 front-door bargain
+- **Day 25, Saturday dawn:** Chapter 27 siege and escape
+- **Day 25, Saturday early morning:** Chapters 28 and 29 drive and reveal
 
 ## Chapter 23: Pack Light
 

@@ -14,7 +14,7 @@ Built to satisfy STORY_RULES Rule 10 (no direct biological claim), Rule 11 (no d
 
 ## Phase 1 — Surveillance *(pre-contact, roughly Days 7–22)*
 
-- **Sources:** Brooke's public videos (Days 7–18), the keypad from an old family video (found Day 17), two school-day house entries (Day 18 investigation, Day 19 journal), and the journal's letter, private entries, and adoption materials.
+- **Sources:** Brooke's public videos, the keypad from an old family video saved by Day 17, two school-day house entries on Monday Day 20 and Tuesday Day 21, and the journal's letter, private entries, and adoption materials.
 - **What Anna learns:** Brooke's adoption wound; that mediated distance feels safer to Brooke than closeness; the biological mother's full name; the beach memory; what the biological mother looked like (for the resemblance).
 - **Function:** everything Anna later "knows" has a documented source (`ANNA_KNOWLEDGE_MATRIX.md`). Nothing supernatural; nothing about Brooke's real mother is ever sought.
 
@@ -27,15 +27,15 @@ Built to satisfy STORY_RULES Rule 10 (no direct biological claim), Rule 11 (no d
 - **Cooper:** his one exposure to Anna; mild wariness that later reads as tolerance in the car.
 - **Hope planted:** that a stranger can be gentle and want nothing — the low-pressure connection Brooke's journal says she prefers. *(Note: at Day 11 Anna knows Brooke only from the videos; the house entries and journal come later.)*
 
-## Phase 3 — Meeting 2: the diner *(Day 23, the reveal-to-Brooke)*
+## Phase 3 — Meeting 2: the diner *(Friday Day 24, the reveal-to-Brooke)*
 
-- **Action:** Brooke slips out past Sarah's confinement to meet Anna again, at a diner. Anna — resemblance now built (Day 20), full name in hand (Day 19) — lets Brooke conclude she is her biological mother.
+- **Action:** Brooke slips out past Sarah's confinement to meet Anna again at a diner. Anna, with the resemblance prepared on Day 22 and the full name learned on Day 21, lets Brooke conclude she is her biological mother.
 - **Technically true statements:** narrow, real answers about timing, feeling, and details from the letter; "Every second," "I knew you were waiting" — all true of Anna, all traceable to the videos or journal.
 - **Misinterpretation permitted:** the central one — Brooke concludes Anna is her biological mother. Anna never affirms it outright (Rule 10); she lets silence and true-but-incomplete answers do the work.
 - **Boundary respected:** Anna doesn't push, doesn't demand a next meeting, doesn't touch.
 - **Hope crystallizes into belief:** Brooke now *wants* Anna to be her mother, days before the collapse.
 
-## Phase 4 — The engineered pickup *(Day 24 early morning, the car)*
+## Phase 4 — The engineered pickup *(Saturday Day 25 early morning, the car)*
 
 - **Action:** Brooke escapes the siege, runs down the street with Cooper — and Anna's car is there. Anna opens the door and waits. Brooke gets in **herself**.
 - **Why engineered, not luck:** Anna has been surveilling; she positioned herself. The reveal confirms she was waiting.
@@ -43,7 +43,7 @@ Built to satisfy STORY_RULES Rule 10 (no direct biological claim), Rule 11 (no d
 - **Brooke's decisive closeness:** as they drive, Brooke — shaking — reaches for Anna; Anna does not reach first (Rule 15). Sarah's text lands ("It isn't safe out there. Come home."); Brooke doesn't answer.
 - **Hope fulfilled (and betrayed):** Brooke believes she has run *to* her mother. She chose it — under terror, but by her own hand.
 
-## Phase 5 — The reveal *(Day 24 early morning, reader-only)*
+## Phase 5 — The reveal *(Saturday Day 25 early morning, reader-only)*
 
 - Brooke sleeps; Anna opens the stolen journal, pauses on the beach passage; Cooper watches. The reader learns Anna is not Brooke's mother and was studying her all along — the sole controlled POV exception (Rule 1).
 
@@ -56,4 +56,4 @@ Built to satisfy STORY_RULES Rule 10 (no direct biological claim), Rule 11 (no d
 
 ## Open questions
 
-Rung-to-chapter placement is resolved by the rework (dog park Day 11 / Ch 12; diner Day 23 / Ch 24; pickup Day 24 / Ch 28). No open questions remain in this file.
+Rung-to-chapter placement is resolved by the rework: dog park Day 11 in Chapter 12, diner Day 24 in Chapter 24, and pickup Day 25 in Chapter 28. No open questions remain in this file.

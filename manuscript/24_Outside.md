@@ -6,7 +6,7 @@ Brooke left through the front door.
 
 The choice felt reckless after the backpack, the loosened screen, and the route mapped over the porch roof. It was also the only exit that did not announce escape.
 
-Sarah was in the basement sorting the installer papers. Claire had fallen asleep on the couch with one hand resting on Cooper's back. The dog opened his eyes when Brooke crossed the foyer.
+Sarah was in the garage sorting the installer papers. Claire had fallen asleep on the couch with one hand hanging toward the rug. Cooper lay several feet away near the foyer and opened his eyes when Brooke crossed it.
 
 Brooke put one finger to her lips.
 

@@ -70,8 +70,6 @@ Cooper saw it. His nose moved toward the familiar paper, then toward Brooke asle
 
 Anna waited again.
 
-She had learned that force made Brooke run, guilt made her fight, and pursuit taught her to hide. She did not need to understand why the lessons worked. She only needed to keep using them.
-
 Outside, the road bent away from Ashcroft.
 
 Anna turned the page and continued learning how to love her.

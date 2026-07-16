@@ -82,7 +82,7 @@ Sarah knocked once. "You came home because you knew you needed us."
 
 Brooke powered on the camera instead of answering. The battery showed forty-one percent. She set it on the desk facing the door and pressed record.
 
-"It is Sunday morning," she said quietly. "I got home after the police and other people tried to return me. My mother let me in. Now she won't let me leave my room unless I leave the door open."
+"It is Saturday morning," she said quietly. "I got home after the police and other people tried to return me. My mother let me in. Now she won't let me leave my room unless I leave the door open."
 
 She gave the date, then corrected herself when exhaustion made her say Saturday. The correction stayed in the recording. A trustworthy record did not pretend the witness was perfect.
 
@@ -348,7 +348,7 @@ Brooke knew the sound because she had mistaken the file cabinet for it two days 
 
 The safe door.
 
-Brooke looked at the camera. Its red recording light remained on. She said what she knew without claiming more.
+Brooke looked toward the backpack. The camera's red recording light remained visible through the partly open zipper. She said what she knew without claiming more.
 
 "The safe is in the attached garage. Dad showed Mom the combination for emergencies. The shotgun was secured when I called. I think she is opening it now."
 
@@ -392,9 +392,7 @@ The shotgun fired.
 
 Sarah fired low and diagonally through the latch-side jamb, away from the center of the room. The buckshot tore through wood, lock metal, and the front corner of the dresser before burying itself in the floor and side wall. The chair overturned. The damaged door kicked inward against the barricade.
 
-For an instant the room filled with powdered drywall and the bitter smell of burned propellant. A lamp fell from the dresser. Pellets struck the side wall in a pattern Brooke would later have been able to measure if later still belonged to her.
-
-The camera toppled but continued recording from the carpet. Its frame held the ruined lower door, the dresser corner, and nothing outside the window.
+For an instant the room filled with powdered drywall and the bitter smell of burned propellant. A lamp fell from the dresser. Pellets struck the side wall in a pattern Brooke would later have been able to measure if later still belonged to her. Inside the backpack on the roof, the camera continued recording darkness, the gunshot, and Brooke's breath.
 
 Cooper tried to bolt down the roof. Brooke held him until the echo left the air.
 

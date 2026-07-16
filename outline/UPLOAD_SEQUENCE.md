@@ -37,7 +37,7 @@ Every private thing Anna later "knows" traces to an upload or to the house entri
 
 ## Continuity notes
 
-- Consistent with the continuous ending: the last recording is Day 24; there is no post-escape upload before the book ends in the car.
+- Consistent with the continuous ending: the last recording is Day 25; there is no post-escape upload before the book ends in the car.
 - Titles stay plain per TWI-006; if a title is quoted in prose, keep it un-branded and un-clickbaity.
 - Found-media inserts drawn from these uploads (and their comments) should stay brief, per the 10–15% found-media target (see `outline/PACING_PASS.md`).
 

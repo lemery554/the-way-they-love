@@ -152,7 +152,7 @@ Sarah remained by the doorway, not entering farther. Her apology looked sincere.
 
 "The keypad company is sending someone Monday morning," Sarah said.
 
-It was Friday.
+It was Thursday.
 
 "We can't wait until Monday."
 

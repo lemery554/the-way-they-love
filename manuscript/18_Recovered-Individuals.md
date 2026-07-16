@@ -112,7 +112,7 @@ The platform warning used *supportive recovery information*.
 
 Sarah's employer had sent *Supporting Recovered Family Members at Home*. Different offices, different logos, the same handful of words.
 
-Sarah was expected back at the office the next morning for a short check-in before she resumed her normal schedule. She had sounded pleased by the idea. The house would be empty for the first time since Claire became sick, except for Cooper.
+Sarah was expected back at the office Monday morning for a short check-in before she resumed her normal schedule. She had sounded pleased by the idea. The house would be empty for the first time since Claire became sick, except for Cooper.
 
 "Where did the school get this?" Brooke asked.
 
